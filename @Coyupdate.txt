@@ -21,6 +21,9 @@ http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
 http://tv.kudigital.pw:8080/jokimon/extraksi007/27
 
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="[LIVE EVENT | LIGA 1]",IDS: INDOSIAR VIP
+http://vipdikili.top:8080/VIP01745172330867393/953b13b15263/34327
+
 
 
 ================================================ INDONESIA =================================================================

@@ -1,9 +1,7 @@
 #EXTM3U
 ================================================= BRI LIGA 1 LIVE ============================================================
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR__(xtv5)
-
 http://xtv.ooo:8080/live/Irfan36368/Irfan64689/350972.ts
-
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR__(xtv4)
 http://xtv.ooo:8080/owais1/12345/350972
@@ -205,12 +203,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://flv.intechmedia.net/live/ch106.m3u8
 
 
-======================================================= VISION+ ==============================================================
-
-========================================================= VISION+ ======================================================================================
-
-
-
+======================================================= VISION+ ======================================================================
+=======================================================================================================================================
 #EXTINF:-1 tvg-logo="http://images.indihometv.com/box/assets/logo_rcti_hd.png" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="CH VISION+",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2602,8 +2596,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ####### entertaiment dan fashion #######
 
 
-
-
 ================================================== ENTERTAINMENT ====================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2843,7 +2835,8 @@ http://ktv.im:8080/kk56712/kk12345/49529
 http://ktv.im:8080/kk56712/kk12345/49530
 
 
-============================================================ FOX SPORT =====================================================================
+============================================================ FOX SPORT =================================================================
+========================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="[LIVE EVENT | LIGA INGGRIS]",FOX SPORT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2905,7 +2898,8 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-=============================================================== DAZN & LALIGA =============================================================================
+=============================================================== DAZN & LALIGA ==========================================================
+========================================================================================================================================
 
 #EXTINF:-1 group-title="[LIVE EVENT | LALIGA]" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3470,111 +3464,6 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811930&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811929&extension=ts&play_token=sowXQbC7Xr
 #EXTINF:-1 tvg-id="" tvg-name="##### BE SPORTS HEVC #####" tvg-logo="http://103.176.90.118/picons/logos/logos/belgium.png" group-title="CH SPORT",##### BE SPORTS HEVC #####
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812024&extension=ts&play_token=PzOypUrbVM
-
-
-
-==========================SUPERSPORT2================================
-
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="CH SUPERSPORT ",SS VARIETY 1
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833283&extension=ts&play_token=TFViFWVywj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="CH SUPERSPORT ",SS VARIETY 2
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833284&extension=ts&play_token=sEcY9quO7H
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-3.jpeg" group-title="SUPERSPORT 2",SS VARIETY 3
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833285&extension=ts&play_token=ItZMq1eXwV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SUPERSPORT 2",SS VARIETY 4
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833286&extension=ts&play_token=NWxsA3lOM5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-TENNIS-TV.png" group-title="SUPERSPORT 2",SS TENNIS
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833282&extension=ts&play_token=vNPsJfgfq6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SUPERSPORT 2",SS PREMIER LEAGUE
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833281&extension=ts&play_token=WcvcEsoWqQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MOTORSPORT.png" group-title="SUPERSPORT 2",SS MOTORSPORT
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833280&extension=ts&play_token=Hxzv5O4MEx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SUPERSPORT 2",SS MAXIMO
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833279&extension=ts&play_token=HhkPocRFFI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SUPERSPORT 2",SS LA LIGA
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833278&extension=ts&play_token=PXMwKxTvTm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SUPERSPORT 2",SS GRANDSTAND
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833277&extension=ts&play_token=rejKKKF6i2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GOLF.jpeg" group-title="SUPERSPORT 2",SS GOLF
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833276&extension=ts&play_token=JQHNDg2oXn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL-PLUS.png" group-title="SUPERSPORT 2",SS FOOTBALL PLUS
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833275&extension=ts&play_token=r7vh4OV0FZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SUPERSPORT 2",SS FOOTBALL
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833274&extension=ts&play_token=9HGtnHFpmk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-CRICKET-TV.png" group-title="SUPERSPORT 2",SS CRICKET
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833273&extension=ts&play_token=qDJO92oWZJ
-
-
-
-============================SUPERSPORT3============================
-
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS LA LIGA HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144410&extension=ts&play_token=Lo3yNxpcw1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS PSL HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144411&extension=ts&play_token=xHjnRf6zLB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS PL HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144412&extension=ts&play_token=hvlqPU3dhb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS GRANDSTAND HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144413&extension=ts&play_token=L3qij7kGBP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 1 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144415&extension=ts&play_token=Zu63sNw4zt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 2 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144414&extension=ts&play_token=H71XS0dSfm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 3 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144419&extension=ts&play_token=WrRLk14omn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 4 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1112857&extension=ts&play_token=cgc0YYbsMq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS MOTORSPORT HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144416&extension=ts&play_token=7j4gerqEB1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS FOOTBALL FHD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144417&extension=ts&play_token=FgLxuQnlOX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS RUGBY HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144420&extension=ts&play_token=MwA7yjjYHw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS CRICKET FHD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144421&extension=ts&play_token=czAP76jqfW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-BLITZ.png" group-title="SUPERSPORT 3",SS BLITZ HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=554982&extension=ts&play_token=ObxLyQAjXP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS ACTION HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1173913&extension=ts&play_token=d41vBiic4w
-
-#EXTINF:-1 tvg-id="269221" tvg-name="US ★ SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",1.SS PREMIER LEAGUE
-http://line.4knew.pro:80/5FC448/6C4995/102642
-#EXTINF:-1 tvg-id="269223" tvg-name="US ★ SUPERSPORT FOOTBALL HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",2.SS FOOTBALL
-http://line.4knew.pro:80/5FC448/6C4995/102643
-#EXTINF:-1 tvg-id="269219" tvg-name="US ★ SUPERSPORT LA LIGA HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",3.SS LA LIGA
-http://line.4knew.pro:80/5FC448/6C4995/102641
-#EXTINF:-1 tvg-id="269217" tvg-name="US ★ SUPERSPORT BLITZ HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",4.SS BLITZ
-http://line.4knew.pro:80/5FC448/6C4995/102638
-#EXTINF:-1 tvg-id="269237" tvg-name="US ★ SUPERSPORT VARIETY 1 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",5.SS VARIETY 1
-http://line.4knew.pro:80/5FC448/6C4995/102650
-#EXTINF:-1 tvg-id="269229" tvg-name="US ★ SUPERSPORT VARIETY 2 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",6.SS VARIETY 2
-http://line.4knew.pro:80/5FC448/6C4995/102646
-#EXTINF:-1 tvg-id="269227" tvg-name="US ★ SUPERSPORT VARIETY 3 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",7.SS VARIETY 3
-http://line.4knew.pro:80/5FC448/6C4995/102645
-#EXTINF:-1 tvg-id="269225" tvg-name="US ★ SUPERSPORT VARIETY 4 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",8.SS VARIETY 4
-http://line.4knew.pro:80/5FC448/6C4995/102644
-#EXTINF:-1 tvg-id="269231" tvg-name="US ★ SUPERSPORT CRICKET HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",9.SS CRICKET
-http://line.4knew.pro:80/5FC448/6C4995/102647
-#EXTINF:-1 tvg-id="269233" tvg-name="US ★ SUPERSPORT RUGBY HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",10.SS RUGBY
-http://line.4knew.pro:80/5FC448/6C4995/102648
-#EXTINF:-1 tvg-id="269235" tvg-name="US ★ SUPERSPORT TENNIS HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",11.SS TENNIS
-http://line.4knew.pro:80/5FC448/6C4995/102649
-#EXTINF:-1 tvg-id="269239" tvg-name="US ★ SUPERSPORT MOTOSPORT HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",12.SS MOTOSPORT
-http://line.4knew.pro:80/5FC448/6C4995/102653
-#EXTINF:-1 tvg-id="269247" tvg-name="US ★ SUPERSPORT ACTION HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",13.SS ACTION
-http://line.4knew.pro:80/5FC448/6C4995/535549
-#EXTINF:-1 tvg-id="269243" tvg-name="US ★ SUPERSPORT GRANDSTAND HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",14.SS GRANDSTAND
-http://line.4knew.pro:80/5FC448/6C4995/535551
-#EXTINF:-1 tvg-id="269245" tvg-name="US ★ SUPERSPORT PSL HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",15.SS PSL
-http://line.4knew.pro:80/5FC448/6C4995/535550
-#EXTINF:-1 tvg-id="269215" tvg-name="US ★ SUPERSPORT GOLF HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",16.SS GOLF
-http://line.4knew.pro:80/5FC448/6C4995/102637
-#EXTINF:-1 tvg-id="269241" tvg-name="US ★ SUPERSPORT MAXIMO 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",17.SS MAXIMO 1
-http://line.4knew.pro:80/5FC448/6C4995/118065
-#EXTINF:-1 tvg-id="269265" tvg-name="US ★ SUPERSPORT PLAY" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",18.SS PLAY
-http://line.4knew.pro:80/5FC448/6C4995/102652
 
 
 
@@ -5551,6 +5440,44 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/d8b01cfc-234.jpg" tvg-id="Sportstar2.id" tvg-name="ID: Sportstar 2" group-title="[LIVE EVENT | LIGA JERMAN]",Sportstar 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/d8b01cfc-234.jpg" tvg-id="Sportstar2.id" tvg-name="ID: Sportstar 2" group-title="CH VISION+",Sportstar 2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+========================================================================================================================================
+====================================LIGA CHAMPIONS & LIGA MALAM JUMAT===================================================================
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 (Vision)
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 2 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png", beIN Sports 2 (Vision)
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3 (Vision)
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4 (Vision)
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5 (Vision)
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 =============================================
 #EXTM3U

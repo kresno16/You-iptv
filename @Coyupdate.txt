@@ -24,6 +24,89 @@ http://tv.kudigital.pw:8080/jokimon/extraksi007/27
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="[LIVE EVENT | LIGA 1]",IDS: INDOSIAR VIP
 http://vipdikili.top:8080/VIP01745172330867393/953b13b15263/34327
 
+#EXTINF:-1 tvg-id="12748724" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/12748724/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS MALLORCA [SUPERCOPA DE ESPAñA] - 02:00 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="12748724" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/12748724/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS MALLORCA [SUPERCOPA DE ESPAñA] - 02:00 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 tvg-id="12748724" tvg-name="3507" tvg-logo="https://api.sofascore.app/api/v1/event/12748724/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS MALLORCA [SUPERCOPA DE ESPAñA] - 02:00 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
+
+#EXTINF:-1 tvg-id="13189396" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/13189396/share-image/16x9" group-title="[LIVE EVENT]",SHEFFIELD UTD VS CARDIFF [FA CUP] - 02:00 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="13189402" tvg-name="431" tvg-logo="https://api.sofascore.app/api/v1/event/13189402/share-image/16x9" group-title="[LIVE EVENT]",EVERTON VS PETERBOROUGH UTD [FA CUP] - 02:45 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 tvg-id="13189400" tvg-name="577" tvg-logo="https://api.sofascore.app/api/v1/event/13189400/share-image/16x9" group-title="[LIVE EVENT]",FULHAM VS WATFORD [FA CUP] - 02:45 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329": "3defe59c38079ccad25a436200ad3bd7", "b2f22f5d7ca35910a73fbabc524954de": "d87d08fbe6505ad7099b8c258f396d15", "d256b403efcc5c3db701fc696885e102": "d46e4215e279b224e9d2a772db9c74a1"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+
+#EXTINF:-1 tvg-id="13189400" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/13189400/share-image/16x9" group-title="[LIVE EVENT]",FULHAM VS WATFORD [FA CUP] - 02:45 - (10/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/512/276512-SNAPSHOT-m.jpg" group-title="Shopee Cup",Shan United FC (MYA) vs Terengganu FC (MAS) 18.00 (08-01-2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+http://202.147.193.244/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/373/276373-SNAPSHOT-m.jpg" group-title="Shopee Cup",BG Pathum United (THA) vs Dong A Thanh Hoa FC (VIE) 19.00 (08-01-2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+http://202.147.193.244/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/378/276378-SNAPSHOT-m.jpg" group-title="Shopee Cup",Preah Khan Reach Svay Rieng FC (CAM) vs PSM Makassar (IDN) 19.25 (08-01-2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+http://202.147.193.244/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+ 
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/529/276529-SNAPSHOT-m.jpg" group-title="Shopee Cup",Kaya FC-iloilo (PHI) vs Cong An Ha Noi FC (VIE) 18.00 (09-01-2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+http://202.147.193.244/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/548/276548-SNAPSHOT-m.jpg" group-title="Shopee Cup",Lion City Sailors FC (SGP) vs Kuala Lumpur City FC (MAS) 18.30 (09-01-2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+http://202.147.193.244/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/556/276556-SNAPSHOT-m.jpg" group-title="Shopee Cup",Buriram United (THA) vs Borneo FC Samarinda (IDN) 19.25 (09-01-2025)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+http://202.147.193.244/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+#EXTINF:-1 tvg-id="TV3_Sport3_HD_HVC" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1258574/images/17693972?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/8709752/images/24228683?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="GO3 SPORTS",LIVE:ATP 250 ASB Classic 2025. Singles 1/4 final|05:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
 
 
 ================================================ INDONESIA =================================================================

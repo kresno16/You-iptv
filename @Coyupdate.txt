@@ -111,8 +111,10 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_tvnmovies_ver1.png" tvg-id="TVNMovies.id" tvg-name="ID: TVN Movies" group-title="CH VISION+",TVN Movies
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_tvnmovies_ver1.png" tvg-id="TVNMovies.id" tvg-name="ID: TVN Movies" group-title="CH KOREA+",TVN Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+
 ================================================ INDONESIA =================================================================
 
 R+

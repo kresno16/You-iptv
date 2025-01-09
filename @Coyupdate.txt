@@ -1289,7 +1289,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_tvnmovies_ver1.png" tvg-id="TVNMovies.id" tvg-name="ID: TVN Movies" group-title="CH KOREA",TVN Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-
+#EXTINF:-1 group-title="FIRSTMEDIA" tvg-name="TV Movies" tvg-country="ID" tvg-logo="", tvN Movies HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 ################################################# CH SPORT LIGA INGGRIS  ###########################################################
 

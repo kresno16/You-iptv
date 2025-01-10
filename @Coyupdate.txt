@@ -1,19 +1,6 @@
 #EXTM3U
 ================================================= BRI LIGA 1 LIVE ============================================================
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR__(xtv5)
-http://xtv.ooo:8080/live/Irfan36368/Irfan64689/350972.ts
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR__(xtv4)
-http://xtv.ooo:8080/owais1/12345/350972
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR__(xtv3)
-http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR-HD(xplayer2)
-http://xtvplayer.top:8080/live/Atiffb694/2840914/350972.ts
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR-HD(xplayer1)
-http://xtvplayer.top:8080/live/MAZHAR44/44MAZHAR/350972.ts
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lb-_n9d7Mu2NrRjmnojP2db7d8o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3941380/37606e.jpg" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS

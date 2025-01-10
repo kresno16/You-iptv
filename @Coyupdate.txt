@@ -2,15 +2,6 @@
 ================================================= BRI LIGA 1 LIVE ============================================================
 
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/lb-_n9d7Mu2NrRjmnojP2db7d8o=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3941380/37606e.jpg" group-title="[LIVE EVENT | LIGA 1]",INDOSIAR
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
-http://tv.kudigital.pw:8080/jokimon/extraksi007/27
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="[LIVE EVENT | LIGA 1]",IDS: INDOSIAR VIP
-http://vipdikili.top:8080/VIP01745172330867393/953b13b15263/34327
-
 #EXTINF:-1 tvg-id="12748724" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/12748724/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS MALLORCA [SUPERCOPA DE ESPAñA] - 02:00 - (10/01/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

@@ -1370,8 +1370,6 @@ http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132161.m3u8
 
 <=========================================== CHANNEL KOREA =======================================================>
 
-#EXTINF:-1 tvg-id="SBS TV" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://logos.fandom.com/wiki/Seoul_Broadcasting_System?file=Seoul_broadcasting_System_logo.svg" group-title="CH KOREA",SBS TV
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/bf4797101b0f71e947c36d35d707518b.m3u8
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/h8CbBP5/K.png" group-title="CH KOREA",K+
 h#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0

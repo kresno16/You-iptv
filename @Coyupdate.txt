@@ -3279,10 +3279,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://faiqtv.my.id/fq/sc/vision/drm.php?id=1012
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://faiqtv.my.id/fq/sc/vision/index.mpd?id=1012
+#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/susin/ss3andaikautau.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6vL40Jb/SPORTSTARS4.png" group-title="CH SPORTSTARS",SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

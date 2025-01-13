@@ -456,7 +456,7 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17622
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17623  
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NVyp6bT/SPORTSTARS3.png" group-title="[LIVE EVENT | LIGA 1",SPORTSTARS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NVyp6bT/SPORTSTARS3.png" group-title="[LIVE EVENT | LIGA 1]",SPORTSTARS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

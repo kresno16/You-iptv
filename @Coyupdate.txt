@@ -1931,13 +1931,13 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.m
 https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo Wild
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/National_Geographic_Wild_(Africa)?file=Nat_Geo_Wild.svg" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo Wild
 http://213.246.39.14:8070/NAT_GEO_WILD_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo 
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Nat_Geo_People_(Italy)?file=Nat_Geo_Adventure_HD.svg" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo 
 http://213.246.39.14:8070/NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Paramount
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Paramount?file=Paramount_Global.svg" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Paramount
 http://213.246.39.14:8070/PARAMOUNT/index.m3u8
 
 

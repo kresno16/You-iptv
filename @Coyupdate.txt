@@ -1,5 +1,5 @@
 #EXTM3U
-================================================= BRI LIGA 1 LIVE ============================================================
+================================================= LIVE ============================================================
 
 
 #EXTINF:-1 tvg-id="12748724" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/12748724/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS MALLORCA [SUPERCOPA DE ESPAñA] - 02:00 - (10/01/2025)
@@ -1931,6 +1931,14 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasathistoryro/Manifest.m
 https://m7rovideolive.solocoo.tv/blueskylive2dash/blueviasatnaturero/Manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo Wild
+http://213.246.39.14:8070/NAT_GEO_WILD_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo 
+http://213.246.39.14:8070/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Paramount
+http://213.246.39.14:8070/PARAMOUNT/index.m3u8
 
 
 #################################################################### MOTO GP & F1 ################################################################################

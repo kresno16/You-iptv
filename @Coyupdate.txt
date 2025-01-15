@@ -266,6 +266,8 @@ https://qreatifku.my.id/qq.m3u8?id=20250115021M141
 #EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://go.erabaru.my.id/live/moji.png" group-title="[LIVE] VOLI INDO & KOREA",Liga Pro Indonesia
 http://tv.kudigital.pw:8080/28122024KM/28122024/30
 
+#EXTINF:-1 tvg-id="" GROUP-TITLE="[LIVE] VOLI INDO & KOREA"  tvg-logo="https://raziva.biz.id/logo/kbsn.png", KBSN 5
+https://qreatifku.my.id/qq.m3u8?id=20250115BADUK1
 #  
 
 ================================================ INDONESIA =================================================================

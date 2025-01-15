@@ -3154,7 +3154,11 @@ https://canale.mizhls.ru/lb/premium664/playlist.m3u8
 
 =============================================== BWF | BADMINTON =====================================================
 
-BADMINTON
+BADMINTON LIVE
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="[LIVE] BADMINTON",Sukan RTM
+
+================================================================================================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

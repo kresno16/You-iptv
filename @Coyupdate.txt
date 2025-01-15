@@ -3168,7 +3168,7 @@ http://202.70.133.95:5555/astro/4y0jkul66qpk0dubv19q3t2996gmympf3ritcktb67tyjwnf
 https://tvpull.careryun.com/live/ballbar_5800.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",3. India Open - Court 3 - Start 10.30 WIB - Badminton
-https://tvpull.careryun.com/live/ballbar_14710.m3u
+https://tvpull.careryun.com/live/ballbar_14710.m3u8
 
 
 ================================================================================================================

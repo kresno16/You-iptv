@@ -3165,10 +3165,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=htt
 http://31.42.187.37:25461/watchpad13158/1234/19047/astro/4y0jkul66qpk0dubv19q3t2996gmympf3ritcktb67tyjwnfzm54wrelfmcztbv8vjwl7vrb1byu2tm32g209r7t400bxal0pmzs/dash-wv/linear/5170/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",2. India Open - Court 2 - Start 10.30 WIB - Badminton
-https://tvpull.careryun.com/live/ballbar_5800.m3u8
+https://tvpull.careryun.com/live/ballbar_30660.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",3. India Open - Court 3 - Start 10.30 WIB - Badminton
-https://tvpull.careryun.com/live/ballbar_14710.m3u8
+https://tvpull.careryun.com/live/ballbar_30720.m3u8
 
 
 

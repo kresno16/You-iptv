@@ -3170,6 +3170,12 @@ https://tvpull.careryun.com/live/ballbar_5800.m3u8
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",3. India Open - Court 3 - Start 10.30 WIB - Badminton
 https://tvpull.careryun.com/live/ballbar_14710.m3u8
 
+#EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",hari ini. India Open - Court 2 - Start 10.30 WIB - Badminton
+https://live-114.myjktv.com/watch/live.m3u8?video=sbs_sports_540&sid=zvBmkJ9TEU8p4I5i1AcfV1bccxBwqr2Tp3N8rcj9&secret=e9ca71be20d71287d9b51aeba232817b&time=1736774881 
+
+#EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",hari ini. India Open - Court 2 - Start 10.30 WIB - Badminton
+https://live-114.myjktv.com/live/kbs_n_sports_540/1736996065339.ts
+
 
 ================================================================================================================
 

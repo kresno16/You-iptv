@@ -33,7 +33,11 @@ https://stream.hownetwork.xyz/yyy/avatar-the-way-of-water-2022-bluray/2/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg.webp" group-title="ACTION",HIT MAN 2024
 https://stream.hownetwork.xyz/yyy/hit-man-2024-webdl_X_960c7f88/22/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/02/film-society-of-the-snow-2023-lk21-d21.jpg.webp" group-title="ACTION",SOCIETY OF SNOW 2023
+https://stream.hownetwork.xyz/yyy/society-of-the-snow-2023-webdl_X_c581d8b8/20/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/12/film-leave-the-world-behind-2023-lk21-d21.jpg.webp" group-title="ACTION",LEAVE THE WORLD BEHIND 2023
+https://stream.hownetwork.xyz/yyy/leave-the-world-behind-2023-webdl_X_8afd9b52/18/480.m3u8
 
 =================HOROR================================================================================================================
 

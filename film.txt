@@ -1,0 +1,49 @@
+===============ACTION========================
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg.webp" group-title="ACTION",VENOM THE LAST, 2024
+https://stream.hownetwork.xyz/yyy/venom-the-last-dance-2024-bluray_X_3e5433d3/28/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg.webp" group-title="ACTION",AQUAMAN, 2023
+https://stream.hownetwork.xyz/yyy/aquaman-and-the-lost-kingdom-2023-bluray_X_2fe741cb/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg.webp" group-title="ACTION",AQUAMAN 2018
+https://stream.hownetwork.xyz/yyy/aquaman-2018-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/03/film-dune-part-two-2024-lk21-d21.jpg.webp" group-title="ACTION",DUNE PART TWO, 2024
+https://stream.hownetwork.xyz/yyy/dune-part-two-2024-webdl_X_1cf9d26c/21/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/10/film-dune-2021-lk21.jpg.webp" group-title="ACTION",DUNE PART ONE, 2021
+https://stream.hownetwork.xyz/yyy/dune-2021-bluray/6/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/07/film-maharaja-2024-lk21-d21.jpg.webp" group-title="ACTION",MAHARAJA, 2024
+https://stream.hownetwork.xyz/yyy/maharaja-2024-webdl_X_503b6ed4/22/480.m3u8
+
+
+
+
+=================HOROR=========================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/12/film-conjuring-the-cult-2024-lk21-d21.jpg.webp".webp" group-title="HOROR",CONJURING 3,2024
+https://stream.hownetwork.xyz/yyy/conjuring-the-cult-2024-webdl_X_73d8818c/26/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2016/06/film-the-conjuring-2-2016.jpg.webp" group-title="HOROR",CONJURING 2, 2024
+https://stream.hownetwork.xyz/yyy/conjuring-2-2016-bluray/6/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg.webp" group-title="HOROR",A QUIET PLACE DAY ONE, 2024
+https://stream.hownetwork.xyz/yyy/a-quiet-place-day-one-2024-webdl_X_dd6849f5/22/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/11/film-smile-2-2024-lk21-d21.jpg.webp" group-title="HOROR",SMILE 2, 2024
+https://stream.hownetwork.xyz/yyy/smile-2-2024-webdl_X_c33ad78e/26/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2022/10/film-smile-2022-lk21-d21.jpg.webp" group-title="ACTION",SMILE , 2022
+https://stream.hownetwork.xyz/yyy/smile-2022-bluray/3/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/11/film-smile-2-2024-lk21-d21.jpg.webp" group-title="CONJURING, 2013
+https://stream.hownetwork.xyz/yyy/the-conjuring-2013-bluray/11/480.m3u8

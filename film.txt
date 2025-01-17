@@ -9,7 +9,7 @@ https://stream.hownetwork.xyz/yyy/aquaman-and-the-lost-kingdom-2023-bluray_X_2fe
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg.webp" group-title="ACTION",AQUAMAN 2018
 https://stream.hownetwork.xyz/yyy/aquaman-2018-bluray/10/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/03/film-dune-part-two-2024-lk21-d21.jpg.webp" group-title="ACTION",DUNE PART TWO, 2024
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/03/film-dune-part-two-2024-lk21-d21.jpg.webp" group-title="ACTION",DUNE PART TWO 2024
 https://stream.hownetwork.xyz/yyy/dune-part-two-2024-webdl_X_1cf9d26c/21/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/10/film-dune-2021-lk21.jpg.webp" group-title="ACTION",DUNE PART ONE 2021
@@ -49,13 +49,13 @@ https://stream.hownetwork.xyz/yyy/terrifier-3-2024-webdl_X_2cbe4626/26/480.m3u8
 
 =======================ANIMASI========================================================================================================
 
-#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/10/film-the-wild-robot-2024-lk21-d21.jpg.webp" group-title="ANIMASI",THE WILD ROBOT, 2024
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/10/film-the-wild-robot-2024-lk21-d21.jpg.webp" group-title="ANIMASI",THE WILD ROBOT 2024
 https://stream.hownetwork.xyz/yyy/the-wild-robot-2024-bluray_X_773f4e25/28/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/01/film-flow-2024-lk21-d21.jpg.webp" group-title="ANIMASI",FLOW, 2024
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/01/film-flow-2024-lk21-d21.jpg.webp" group-title="ANIMASI",FLOW 2024
 https://stream.hownetwork.xyz/yyy/flow-2024-webdl_X_ec6cc4bd/28/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-doraemon-the-movie-nobitas-earth-symphony-2024-lk21-d21.jpg.webp" group-title="ANIMASI",DORAEMON THE MOVIE NOBITAS EART SYMPHONY, 2024
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-doraemon-the-movie-nobitas-earth-symphony-2024-lk21-d21.jpg.webp" group-title="ANIMASI",DORAEMON THE MOVIE NOBITAS EART SYMPHONY 2024
 https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-earth-symphony-2024-bluray_X_394b2b3d/26/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="ANIMASI",INSIDE-OUT-2 2024
@@ -66,6 +66,7 @@ https://stream.hownetwork.xyz/yyy/inside-out-2-2024-bluray_X_e868e9eb/26/480.m3u
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="FILM INDO",LAYANGAN PUTUS MOVIE 2023
 https://hls36-eu.zcdn.stream/6be957c55f77ce43b1faf7766d02e6c6/2024-05-09/video.m3u8?auth=dcf895b7932dbc7cda882aab5e67bf27&expires=1737111854&type=edge&asn=138881&node=L2SzaNfUYfeTMrh32FPIhow294zK9K9I0OGZ6hftJ7Ju65XpDKzTZuElWhSorAOEC1FRl0PHDrd2SN8LoGU4Ig
 
-#EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI, 2024
-https://storage.googleapis.com/mediastorage/1737099426148/qj946bpizw/1132341494.mp4#mp4/1132341494/1080p
+#EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI 2024
+https://storage.googleapis.com/mediastorage/1737099884058/s2kpzldob6o/1132341494.mp4#mp4/1132341494/1080p
+
 

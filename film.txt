@@ -62,3 +62,10 @@ https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-earth-symphony-2024
 https://stream.hownetwork.xyz/yyy/inside-out-2-2024-bluray_X_e868e9eb/26/480.m3u8
 
 
+======================================FILM INDO=============================================================================================================================
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="FILM INDO",LAYANGAN PUTUS MOVIE, 2023
+https://hls36-eu.zcdn.stream/6be957c55f77ce43b1faf7766d02e6c6/2024-05-09/video.m3u8?auth=dcf895b7932dbc7cda882aab5e67bf27&expires=1737111854&type=edge&asn=138881&node=L2SzaNfUYfeTMrh32FPIhow294zK9K9I0OGZ6hftJ7Ju65XpDKzTZuElWhSorAOEC1FRl0PHDrd2SN8LoGU4Ig
+
+#EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI, 2024
+https://stor49-eu.nextcdn.stream/c3fd8b49e794775beff552d44391e170/2024-07-31/1080.m3u8?token=50816118dd1c0457742f6bfe9eb7274a&client=6fe34c7542624cd2c865ec367608af0a&expires=1737127290&type=edge&asn=138881&node=Wi4QvIJFAhWP-i_SB8c5vt0al7tX-3ZLpsnzWgSwwg7_J_HMTIpVYMAcyprARb9FFxDVlFe_HNxazmDwN6snotlwZGPTd39ByINdHU1Mbpo
+

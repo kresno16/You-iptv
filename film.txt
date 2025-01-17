@@ -24,6 +24,13 @@ https://stream.hownetwork.xyz/yyy/gladiator-ii-2024-webdl_X_15d34506/26/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-alien-romulus-2024-lk21-d21.jpg.webp" group-title="ACTION",ALIEN ROMULUS 2024
 https://stream.hownetwork.xyz/yyy/alien-romulus-2024-bluray_X_31ac9f1d/26/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-avatar-2009.jpg.webp" group-title="ACTION",AVATAR 2009
+https://stream.hownetwork.xyz/yyy/avatar-2009-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2022/12/film-avatar-the-way-of-water-2022-lk21-d21.jpg.webp" group-title="ACTION",ALIEN AVATAR WATER 2022
+https://stream.hownetwork.xyz/yyy/avatar-the-way-of-water-2022-bluray/2/480.m3u8
+
+
 
 
 =================HOROR================================================================================================================

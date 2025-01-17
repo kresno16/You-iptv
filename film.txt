@@ -1,4 +1,4 @@
-===============ACTION==============================================================================================================
+gʻ===============ACTION==============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg.webp" group-title="ACTION",VENOM THE LAST 2024
 https://stream.hownetwork.xyz/yyy/venom-the-last-dance-2024-bluray_X_3e5433d3/28/480.m3u8
@@ -73,7 +73,8 @@ https://stream.hownetwork.xyz/yyy/insidious-chapter-3-2015-bluray/2/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/07/film-insidious-the-red-door-2023-lk21-d21.jpg.webp" group-title="HOROR",INSIDIOUS RED DOOR  2023
 https://stream.hownetwork.xyz/yyy/insidious-the-red-door-2023-bluray/4/480.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/04/film-evil-dead-rise-2023-lk21-d21.jpg.webp" group-title="HOROR",EVIL DEAD RISE 2023
+https://stream.hownetwork.xyz/yyy/evil-dead-rise-2023-bluray/2/480.m3u8
 
 
 ==========================ANIMASI========================================================================================================

@@ -464,7 +464,7 @@ https://tvpull.careryun.com/live/ballbar_27480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
-https://tvpull.careryun.com/live/ballbar_24110.m3u8
+https://tvpull.careryun.com/live/ballbar_40600.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWZPxbnlxyjOdZd2R2At7anSJOoK6WA_kCaAO7N2nSjR4blI55EOv8Eo&s=10" group-logo="https://i.ibb.co.com/frx2Pry/20241207-151556.png", group-title="[LIVE EVENT | LIGA 1]", Liga 1 Live (3)   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36

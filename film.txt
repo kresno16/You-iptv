@@ -131,15 +131,22 @@ https://stream.hownetwork.xyz/xxx/nimona-2023-webdl/2/480.m3u8
 
 
 ==========================================FILM INDO========================================================================================================================
+
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="FILM INDO",LAYANGAN PUTUS MOVIE 2023
 https://hls36-eu.zcdn.stream/6be957c55f77ce43b1faf7766d02e6c6/2024-05-09/video.m3u8?auth=dcf895b7932dbc7cda882aab5e67bf27&expires=1737111854&type=edge&asn=138881&node=L2SzaNfUYfeTMrh32FPIhow294zK9K9I0OGZ6hftJ7Ju65XpDKzTZuElWhSorAOEC1FRl0PHDrd2SN8LoGU4Ig
 
 #EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI 2024
 https://streamtape.net/get_video?id=RmORmo9RkQsXPp&expires=1737242654&ip=F0OPKRMAKxSHDN&token=GxAWlDt3Zqny&stream=1
 
-
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/09/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg" group-title="FILM INDO",YUSUF HAMKA 2023
 https://j6ohraxfzt1d.milocdn.com/hls2/01/01269/ljmmogs12uxa_l/master.m3u8?t=lmcNd1TuqiBCpTpvdz1Tobo4KmqjjgQQkUNLRS0mbpk&s=1737174040&e=129600&f=11888919&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=138881
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/09/pbeSOr5ODJMHMzR4hbLXhnHNs1S.jpg" group-title="FILM INDO",172 DAYS 2023
 https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/02284/mmcgt4qwpgzz_l/master.m3u8?t=472_M4igFOxtMEturQI4lKnORBwbUf7SMju_WeUC9OY&s=1737174320&e=129600&f=11421935&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/09/pbeSOr5ODJMHMzR4hbLXhnHNs1S.jpg" group-title="FILM INDO",SOSOK KETIGA 2023
+https://webluq1fylhe5.milocdn.com/hls2/01/02357/qpqpljyyz32b_,l,n,h,.urlset/master.m3u8?t=WbUhHFKOpwZ13BuJduJmGSl1Fo2MIpobIcNhnbzwCgQ&s=1737174805&e=129600&f=11786978&srv=9CCbT1vHqSzs&i=0.4&sp=500&p1=9CCbT1vHqSzs&p2=9CCbT1vHqSzs&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/09/pbeSOr5ODJMHMzR4hbLXhnHNs1S.jpg" group-title="FILM INDO",AKU TAHU KAPAN
+https://storage.googleapis.com/mediastorage/1737175179317/f2l31kzdw5q/1420986516.mp4#mp4/1420986516/1080p
+

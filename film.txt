@@ -203,3 +203,9 @@ https://epx0gvhr49ln.milocdn.com/hls2/01/02220/uxx3txgy8i0v_,l,n,h,.urlset/maste
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/06/1gn6o7gtXSNEH1EqGFvdgtcVFt8-170x255.jpg" group-title="FILM INDO",PARA BETINA PENGIKUT IBLIS 2023
 https://wkr6nmb5ef7r.milocdn.com/hls2/01/02296/9ai05z4zofjh_,l,n,h,.urlset/master.m3u8?t=vD_2cqYnF_QlasQtbr9kkxAgcpGhrkvYIyqF4hXK3Zc&s=1737178727&e=129600&f=11480955&srv=mKcH8PpcXuDaj&i=0.4&sp=500&p1=mKcH8PpcXuDaj&p2=mKcH8PpcXuDaj&asn=138881
+
+#EXTINF:-1 tvg-logo="https://168ntn.cfd/wp-content/uploads/2022/10/kj2zoNB6UhNjp3J6wEEpLsEYPcI-152x228.jpg" group-title="FILM INDO",KELUARGA CEMARA 2022
+https://www.nonton168.com/movies/oktober2022/indonesia/Keluarga%20Cemara%202%20(2022)%20WEBDL%20720p-converted_2.mp4
+
+#EXTINF:-1 tvg-logo="https://168ntn.cfd/wp-content/uploads/2024/07/pIoqGkcroogisQBDe8Xo9QNfARK.jpg" group-title="FILM INDO",MARNI STORY WEWE GOMBEL 2022
+https://jdou5wo6ffta.acek-cdn.com/hls2/01/02506/y0t4kjo4o5e8_,l,n,h,.urlset/master.m3u8?t=hmVxf3NBRC-fMI7pdVtb7glz6M35w5emzvKpDeGNxzw&s=1737183692&e=129600&f=12539412&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=138881

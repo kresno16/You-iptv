@@ -129,6 +129,9 @@ https://stream.hownetwork.xyz/yyy/wallace-gromit-vengeance-most-fowl-2024-webdl_
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/07/film-nimona-2023-lk21-d21.jpg.webp" group-title="ANIMASI",NIMONA  2024
 https://stream.hownetwork.xyz/xxx/nimona-2023-webdl/2/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/07/film-nimona-2023-lk21-d21.jpg.webp" group-title="ANIMASI",SI JUKI THE MOVIES 2024
+https://ue3vhghuoymj.acek-cdn.com/hls2/01/02579/x1lmrxi0beev_,l,n,h,.urlset/master.m3u8?t=BAi6btP2ZC9HK83oP29BWGETNb-R0gSObxrYdb6h5r0&s=1737177091&e=129600&f=12899923&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=138881
+
 
 ==========================================FILM INDO========================================================================================================================
 
@@ -152,3 +155,24 @@ https://jdou5wo6ffta.acek-cdn.com/hls2/01/01372/8zmsfm5pp4c7_,l,n,.urlset/master
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/06/8rGONJnuGOnxy6dgTxgGBg02Tub-152x228.jpg" group-title="FILM INDO",ANAK TITIPAN SETAN 2023
 https://wpinyn7nmetm.milocdn.com/hls2/01/02299/62y846ld7ghb_n/master.m3u8?t=-aBaVdEDYSNUCm-Ozt3chqlbAbK-zK3ZzD06REu7ZJw&s=1737175693&e=129600&f=11732404&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/04/qP8uSbTyErcbo4RyOynTPb5ywmx.jpg" group-title="FILM INDO",SIKSA KUBUR 2024
+https://13nt2qnqm72d.acek-cdn.com/hls2/01/02287/6t4fgassg2ix_l/master.m3u8?t=ck2vnMHLiqNw0DfwVjx9VsJ0VibQ8o5R5Tvh1W5oKhw&s=1737176241&e=129600&f=11436130&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/04/qP8uSbTyErcbo4RyOynTPb5ywmx.jpg" group-title="FILM INDO",THAGHUT 2024
+https://r4eeg9mngv6q.acek-cdn.com/hls2/01/03290/s3repd0zd21l_,l,n,h,.urlset/master.m3u8?t=rOOMjknN7wANhxJfWofdgIY2DDLd4AJlQ8P8eR_YGOc&s=1737176488&e=129600&f=16454554&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/07/88b6aFvoLyl4uNJeRxLp4iIJd4o.jpg" group-title="FILM INDO",KROMOLEO 2024
+https://rnzt2t4xvku08.acek-cdn.com/hls2/01/03290/ps74a13ml1xc_,l,n,h,.urlset/master.m3u8?t=APzKkCLqyxRr1V7Xs39ILeut8c9HEboAf66vmlSIWZI&s=1737176710&e=129600&f=16454551&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/07/vGm9g8UvL0yJCaVvNzsA4nusfRC.jpg" group-title="FILM INDO",RUMAH DINAS BAPAK 2024
+https://13nt2qnqm72d.acek-cdn.com/hls2/01/03149/hl1xf0wpuq0b_,l,n,h,.urlset/master.m3u8?t=at9Nwm0_K11B344_EpzxLlFvFN9f0DopKs1d86RHMjY&s=1737176904&e=129600&f=15749940&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/09/s7z1cxT9fkWsNXbQG5u3UiGQ7JP.jpg" group-title="FILM INDO",BUKAN AKU TIDAK MAU NIKAH 2024
+https://13nt2qnqm72d.acek-cdn.com/hls2/01/02377/gibwjfhgh6h8_l/master.m3u8?t=Y4qtLoYmNMWc9q6VBgE0FrngNE33idJJ4SyYII2WOr8&s=1737178174&e=129600&f=11888852&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/08/r3bEU1Ge4whELCDi1JsniqSJriZ.jpg" group-title="FILM INDO",YUSUF HAMKA VOL 2 2023
+https://epx0gvhr49ln.milocdn.com/hls2/01/02220/uxx3txgy8i0v_,l,n,h,.urlset/master.m3u8?t=9WmmzKifn7wS3BCBmU8Z3YJoNiN3bfqrektGcV6qRzE&s=1737178577&e=129600&f=11104726&srv=UuW41VuwCiSR&i=0.4&sp=500&p1=UuW41VuwCiSR&p2=UuW41VuwCiSR&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/06/1gn6o7gtXSNEH1EqGFvdgtcVFt8-170x255.jpg" group-title="FILM INDO",PARA BETINA PENGIKUT IBLIS 2023
+https://wkr6nmb5ef7r.milocdn.com/hls2/01/02296/9ai05z4zofjh_,l,n,h,.urlset/master.m3u8?t=vD_2cqYnF_QlasQtbr9kkxAgcpGhrkvYIyqF4hXK3Zc&s=1737178727&e=129600&f=11480955&srv=mKcH8PpcXuDaj&i=0.4&sp=500&p1=mKcH8PpcXuDaj&p2=mKcH8PpcXuDaj&asn=138881

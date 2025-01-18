@@ -138,3 +138,5 @@ https://hls36-eu.zcdn.stream/6be957c55f77ce43b1faf7766d02e6c6/2024-05-09/video.m
 https://streamtape.net/get_video?id=RmORmo9RkQsXPp&expires=1737242654&ip=F0OPKRMAKxSHDN&token=GxAWlDt3Zqny&stream=1
 
 
+#EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",YUSUF HAMKA
+https://j6ohraxfzt1d.milocdn.com/hls2/01/01269/ljmmogs12uxa_l/master.m3u8?t=lmcNd1TuqiBCpTpvdz1Tobo4KmqjjgQQkUNLRS0mbpk&s=1737174040&e=129600&f=11888919&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=138881

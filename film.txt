@@ -135,6 +135,6 @@ https://stream.hownetwork.xyz/xxx/nimona-2023-webdl/2/480.m3u8
 https://hls36-eu.zcdn.stream/6be957c55f77ce43b1faf7766d02e6c6/2024-05-09/video.m3u8?auth=dcf895b7932dbc7cda882aab5e67bf27&expires=1737111854&type=edge&asn=138881&node=L2SzaNfUYfeTMrh32FPIhow294zK9K9I0OGZ6hftJ7Ju65XpDKzTZuElWhSorAOEC1FRl0PHDrd2SN8LoGU4Ig
 
 #EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI 2024
-https://storage.googleapis.com/mediastorage/1737099884058/s2kpzldob6o/1132341494.mp4#mp4/1132341494/1080p
+https://streamtape.net/get_video?id=RmORmo9RkQsXPp&expires=1737242654&ip=F0OPKRMAKxSHDN&token=GxAWlDt3Zqny&stream=1
 
 

@@ -138,5 +138,8 @@ https://hls36-eu.zcdn.stream/6be957c55f77ce43b1faf7766d02e6c6/2024-05-09/video.m
 https://streamtape.net/get_video?id=RmORmo9RkQsXPp&expires=1737242654&ip=F0OPKRMAKxSHDN&token=GxAWlDt3Zqny&stream=1
 
 
-#EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",YUSUF HAMKA
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/09/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg" group-title="FILM INDO",YUSUF HAMKA 2023
 https://j6ohraxfzt1d.milocdn.com/hls2/01/01269/ljmmogs12uxa_l/master.m3u8?t=lmcNd1TuqiBCpTpvdz1Tobo4KmqjjgQQkUNLRS0mbpk&s=1737174040&e=129600&f=11888919&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=138881
+
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/09/pbeSOr5ODJMHMzR4hbLXhnHNs1S.jpg" group-title="FILM INDO",172 DAYS 2023
+https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/02284/mmcgt4qwpgzz_l/master.m3u8?t=472_M4igFOxtMEturQI4lKnORBwbUf7SMju_WeUC9OY&s=1737174320&e=129600&f=11421935&srv=r0zxJ9MoB6wU&i=0.4&sp=500&p1=r0zxJ9MoB6wU&p2=r0zxJ9MoB6wU&asn=138881

@@ -3170,6 +3170,11 @@ http://extraott.com/live/6945574629/7169628753/36305.m3u8
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",3. India Open - Court 3 - Start 10.30 WIB - Badminton
 https://tvpull.careryun.com/live/ballbar_25290.m3u8
 
+#EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="[LIVE] BADMINTON", HUB SPORTS 1 
+
+http://extraott.com/live/6945574629/7169628753/36305.m3u8
+
+
 
 
 ================================================================================================================

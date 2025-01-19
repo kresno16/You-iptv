@@ -3150,12 +3150,12 @@ https://canale.mizhls.ru/lb/premium664/playlist.m3u8
 ====BADMINTON==LIVE==
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="[LIVE] BADMINTON",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+https://tvpull.careryun.com/live/ballbar_25290.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",1. India Open - Court 1 - Start 10.30 WIB - Badminton
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-http://extraott.com/live/6945574629/7169628753/36305.m3u8
+https://tvpull.careryun.com/live/ballbar_25290.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",2. India Open - Court 2 - Start 10.30 WIB - Badminton
 http://extraott.com/live/6945574629/7169628753/36305.m3u8

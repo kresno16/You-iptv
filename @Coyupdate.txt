@@ -3162,10 +3162,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=htt
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",1. India Open - Court 1 - Start 10.30 WIB - Badminton
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-https://duktek-sports-589.blogspot.com/live-match-4790-prindapan-open-2025-badminton-vs-court-1.html
+http://extraott.com/live/6945574629/7169628753/36305.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",2. India Open - Court 2 - Start 10.30 WIB - Badminton
-https://tvpull.careryun.com/live/ballbar_25290.m3u8
+http://extraott.com/live/6945574629/7169628753/36305.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",3. India Open - Court 3 - Start 10.30 WIB - Badminton
 https://tvpull.careryun.com/live/ballbar_25290.m3u8

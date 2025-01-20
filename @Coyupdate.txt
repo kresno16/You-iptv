@@ -271,7 +271,7 @@ https://vid.kokokputik.my.id/naver.m3u8?id=20241106021F32&token=17
 http://mantul.biz.id:8888/inetwork/gayanet12/618.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Male Live
-##https://vid.kokokputik.my.id/naver.m3u8?id=20241106021M31&token=17
+https://vid.kokokputik.my.id/naver.m3u8?id=20241106021M31&token=17
 http://mantul.biz.id:8888/inetwork/gayanet12/618.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Male Live

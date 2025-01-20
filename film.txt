@@ -204,10 +204,10 @@ https://lvvb9d6p7p.premilkyway.com/hls2/01/03312/z0j59w0c2egx_n/master.m3u8?t=KB
 https://wpinyn7nmetm.milocdn.com/hls2/01/02299/62y846ld7ghb_n/master.m3u8?t=-aBaVdEDYSNUCm-Ozt3chqlbAbK-zK3ZzD06REu7ZJw&s=1737175693&e=129600&f=11732404&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=138881
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/04/qP8uSbTyErcbo4RyOynTPb5ywmx.jpg" group-title="FILM INDO",SIKSA KUBUR 2024
-https://13nt2qnqm72d.acek-cdn.com/hls2/01/02287/6t4fgassg2ix_l/master.m3u8?t=ck2vnMHLiqNw0DfwVjx9VsJ0VibQ8o5R5Tvh1W5oKhw&s=1737176241&e=129600&f=11436130&srv=e4RHfFUBYeX4H3m&i=0.4&sp=500&p1=e4RHfFUBYeX4H3m&p2=e4RHfFUBYeX4H3m&asn=138881
+https://hi3thh5oxxww.acek-cdn.com/hls2/01/02287/pq3j0plnrppd_n/master.m3u8?t=xncTzRfxCnTrmQkCNxcn2YwAD83hFBoIlQeOOoW4oBQ&s=1737358640&e=129600&f=11435886&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=138881
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/04/qP8uSbTyErcbo4RyOynTPb5ywmx.jpg" group-title="FILM INDO",THAGHUT 2024
-https://r4eeg9mngv6q.acek-cdn.com/hls2/01/03290/s3repd0zd21l_,l,n,h,.urlset/master.m3u8?t=rOOMjknN7wANhxJfWofdgIY2DDLd4AJlQ8P8eR_YGOc&s=1737176488&e=129600&f=16454554&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
+https://cwfuommwagyrfcg6.premilkyway.com/hls2/01/07655/mplaxgfwximz_n/master.m3u8?t=CmIUv8ZB6vaz1JbE_DbfRMZy9uIP4kiSuPsJ-rr4CHQ&s=1737358867&e=129600&f=38276418&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=138881
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/07/88b6aFvoLyl4uNJeRxLp4iIJd4o.jpg" group-title="FILM INDO",KROMOLEO 2024
 https://rnzt2t4xvku08.acek-cdn.com/hls2/01/03290/ps74a13ml1xc_,l,n,h,.urlset/master.m3u8?t=APzKkCLqyxRr1V7Xs39ILeut8c9HEboAf66vmlSIWZI&s=1737176710&e=129600&f=16454551&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881

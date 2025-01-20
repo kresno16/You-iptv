@@ -266,9 +266,29 @@ https://tvpull.careryun.com/live/ballbar_10530.m3u820d71287d9b51aeba232817b&time
 #EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://go.erabaru.my.id/live/moji.png" group-title="[LIVE] VOLI INDO & KOREA",Liga Pro Indonesia
 http://tv.kudigital.pw:8080/28122024KM/28122024/30
 
-#EXTINF:-1 tvg-id="" GROUP-TITLE="[LIVE] VOLI INDO & KOREA"  tvg-logo="https://raziva.biz.id/logo/kbsn.png", KBSN 5
-https://qreatifku.my.id/qq.m3u8?id=20250115BADUK1
-#  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Female Live
+https://vid.kokokputik.my.id/naver.m3u8?id=20241106021F32&token=17
+http://mantul.biz.id:8888/inetwork/gayanet12/618.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Male Live
+##https://vid.kokokputik.my.id/naver.m3u8?id=20241106021M31&token=17
+http://mantul.biz.id:8888/inetwork/gayanet12/618.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Male Live
+https://mantul.biz.id:443/inetwork/gayanet12/618.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Male Live
+https://mantul.biz.id:443/inetwork/gayanet12/618.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/71KGjZz/Korea-V-league.jpg" group-title="[LIVE] VOLI INDO & KOREA", 🇰🇷 Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
+
+
+
+
+
+
 
 ================================================ INDONESIA =================================================================
 

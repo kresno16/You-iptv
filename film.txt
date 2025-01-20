@@ -252,8 +252,13 @@ https://stream.hownetwork.xyz/yyy/182-beyond-youthful-days-2024-webdl_X_8854ae62
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-love-child-2024-lk21-d21.jpg.webp" group-title="DRAMA",LOVE CHILD 2024
 https://stream.hownetwork.xyz/yyy/love-child-2024-webdl_X_7982d6de/28/480.m3u8
 
+======================STUDIO GHIBLI======================================================================================================
 
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/f4oZTcfGrVTXKTWg157AwikXqmP-60x90.jpg" group-title="STUDIO GHIBLI",THE BOY & THE HERON 2023
+https://pixeldrain.com/api/file/wcHmErer
 
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/f4oZTcfGrVTXKTWg157AwikXqmP-60x90.jpg" group-title="STUDIO GHIBLI",SPIRITED AWAY 2003
+https://w17c7di8l43q.cdn-centaurus.com/hls2/01/02709/bjwdikf0xn72_n/master.m3u8?t=OfLtsYWzXFxgN7DWcOf2urFnFh3gTDp26B4lGwkiQqo&s=1737339252&e=129600&f=13549560&srv=hlw6xufjwlxf3&i=0.4&sp=500&p1=hlw6xufjwlxf3&p2=hlw6xufjwlxf3&asn=138881
 
 
 

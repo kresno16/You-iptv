@@ -323,3 +323,60 @@ https://stream.hownetwork.xyz/xxx/tales-from-earthsea-2006-bluray/3/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2017/02/film-the-red-turtle-2016.jpg.webp" group-title="STUDIO GHIBLI",RED TURTLE 2016
 https://stream.hownetwork.xyz/yyy/red-turtle-2016-bluray/17/480.m3u8
+
+
+==============SQUID GAME================================================================================================================
+========================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp="SQUID GAME SEASON 1",EPS-1 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-1-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-2 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-2-2021-webdl_X_1988d11b/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASASON 1",EPS-3 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-3-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-4 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-4-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-5 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-5-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-6 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-6-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-7 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-7-2021-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-8 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-8-2021-webdl_X_88562b72/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 1",EPS-9 
+https://stream.hownetwork.xyz/yyy/squid-game-season-1-episode-9-2021-webdl/14/480.m3u8
+
+
+=====================SQUID GAME SEASON 2===============================================================================================
+======================================================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-1 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-1-2021-webdl_X_19d73e33/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-2 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-2-2021-webdl_X_7f083648/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-3 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-3-2021-webdl_X_88df7520/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-4 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-4-2021-webdl_X_730f4ac1/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-5 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-5-2021-webdl_X_fc0ad3a8/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-6 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-6-2021-webdl_X_fe76884f/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-7 
+https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-7-2021-webdl_X_fc002ac7/26/480.m3u8

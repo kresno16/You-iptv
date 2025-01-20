@@ -1,3 +1,7 @@
+===MAU NGAPAIN CUK AWAS GUA TARO VIRUS DI HAPE LO DUIT M.BANKING LO GUA COLONG===========================================================================================================================================================================================================================================================================
+
+
+
 =====================ACTION==============================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg.webp" group-title="ACTION",VENOM THE LAST 2024
@@ -253,15 +257,57 @@ https://stream.hownetwork.xyz/yyy/182-beyond-youthful-days-2024-webdl_X_8854ae62
 https://stream.hownetwork.xyz/yyy/love-child-2024-webdl_X_7982d6de/28/480.m3u8
 
 ======================STUDIO GHIBLI======================================================================================================
+========================================================================================================================================
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/f4oZTcfGrVTXKTWg157AwikXqmP-60x90.jpg" group-title="STUDIO GHIBLI",THE BOY & THE HERON 2023
 https://pixeldrain.com/api/file/wcHmErer
 
-#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/f4oZTcfGrVTXKTWg157AwikXqmP-60x90.jpg" group-title="STUDIO GHIBLI",SPIRITED AWAY 2003
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2022/10/39wmItIWsg5sZMyRUHLkWBcuVCM-60x90.jpg" group-title="STUDIO GHIBLI",SPIRITED AWAY 2003
 https://w17c7di8l43q.cdn-centaurus.com/hls2/01/02709/bjwdikf0xn72_n/master.m3u8?t=OfLtsYWzXFxgN7DWcOf2urFnFh3gTDp26B4lGwkiQqo&s=1737339252&e=129600&f=13549560&srv=hlw6xufjwlxf3&i=0.4&sp=500&p1=hlw6xufjwlxf3&p2=hlw6xufjwlxf3&asn=138881
 
+#EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/5/75810.jpg" group-title="STUDIO GHIBLI",HOWL'S MOVING CASTLE 2003
+https://www.terabox.com/share/extstreaming.m3u8?uk=4398192330058&shareid=67693107872&type=M3U8_AUTO_360&fid=627538430761053&sign=0efa9a0d6aaf70ce256da7abb2a75c05f0295603&timestamp=1737339799&jsToken=01ECAA860C07B6AF148F7AE44FB355E0BAC4FA8E6142B47A939DD8B06786304372AEDC6C60CC503EF342325A13C0A5A645E1349A8AB1E1002C6D5F386C2D24F9DB7110E896D13953877086FDFDAB3F06E501D1D24621BA06A6FAE3C498F0EF3C&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/11/film-kikis-delivery-service-1989.jpg.webp" group-title="STUDIO GHIBLI",KIKI'S DELIVERY SERVICE 1989
+https://stream.hownetwork.xyz/xxx/kikis-delivery-service-1989-bluray/3/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-howls-moving-castle-2004.jpg.webp" group-title="STUDIO GHIBLI",HOWL'S MOVING CASTLE 2004
+https://stream.hownetwork.xyz/xxx/howls-moving-castle-2004-bluray/3/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/02/film-ponyo-2008.jpg.webp" group-title="STUDIO GHIBLI",PONYO 2008
+https://stream.hownetwork.xyz/yyy/ponyo-2008-bluray/3/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/11/film-from-up-on-poppy-hill-2011.jpg.webp" group-title="STUDIO GHIBLI",POPPY HILL 2011
+https://stream.hownetwork.xyz/yyy/poppy-hill-2011-bluray/9/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-princess-mononoke-1997.jpg.webp" group-title="STUDIO GHIBLI",PRINCESS MOMONOKE 1997
+https://stream.hownetwork.xyz/yyy/princess-mononoke-1997-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/11/film-castle-in-the-sky-1986.jpg.webp" group-title="STUDIO GHIBLI",CASTLE IN THE SKY 1986
+https://stream.hownetwork.xyz/yyy/castle-sky-1986-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/02/film-secret-world-arrietty-2010.jpg.webp" group-title="STUDIO GHIBLI",SECRET WORLD ARRIETTY 2010
+https://stream.hownetwork.xyz/yyy/secret-world-arrietty-2010-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/02/film-the-wind-rises-2013.jpg.webp" group-title="STUDIO GHIBLI",WIND RISES 2013
+https://stream.hownetwork.xyz/yyy/wind-rises-2013-bluray/8/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-porco-rosso-1992.jpg.webp" group-title="STUDIO GHIBLI",PORCO ROSSO 1992
+https://stream.hownetwork.xyz/yyy/porco-rosso-1992-bluray_X_b30a2a79/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/11/film-the-cat-returns-2002.jpg.webp" group-title="STUDIO GHIBLI",CAT RETURN 2002
+https://stream.hownetwork.xyz/xxx/cat-returns-2002-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/09/film-whisper-of-the-heart-1995.jpg.webp" group-title="STUDIO GHIBLI",WHISPER HEART 1995
+https://stream.hownetwork.xyz/yyy/whisper-heart-1995-bluray/17/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-when-marnie-was-there-2014.jpg.webp" group-title="STUDIO GHIBLI",WHEN MARNIE WAS THERE 2014
+https://stream.hownetwork.xyz/xxx/when-marnie-was-there-2014-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-tales-from-earthsea-2006.jpg.webp" group-title="STUDIO GHIBLI",TALES FROM EARTHSEA 2006
+https://stream.hownetwork.xyz/xxx/tales-from-earthsea-2006-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2017/02/film-the-red-turtle-2016.jpg.webp" group-title="STUDIO GHIBLI",RED TURTLE 2016
+https://stream.hownetwork.xyz/yyy/red-turtle-2016-bluray/17/480.m3u8

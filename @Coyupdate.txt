@@ -3182,7 +3182,10 @@ https://tvpull.careryun.com/live/ballbar_25290.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 https://tvpull.careryun.com/live/ballbar_25290.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/d8b01cfc-234.jpg" tvg-id="Sportstar2.id" tvg-name="ID: Sportstar 2" group-title="[LIVE] BADMINTON",Sportstar 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="[LIVE] BADMINTON",INDONESIA MASTER LIVE
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.westjavatoday.com/uploads/images/2025/01/image_750x_6784aa6553a21.jpg" GROUP-TITLE="[LIVE] BADMINTON",2. India Open - Court 2 - Start 10.30 WIB - Badminton

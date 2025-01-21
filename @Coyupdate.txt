@@ -5773,41 +5773,41 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5 (Vision)
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_1
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_2
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_3
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_4
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 5
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 5
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_5
 
 //==========================================================================
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 1 BU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 1 BU
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_1_BU
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 2 BU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 2 BU
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_2_BU
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 3 BU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 3 BU
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_3_BU
 
-#EXTINF:0 tvg-logo="" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 4 BU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg" group-title="[LIVE EVENT | LIGA CHAMPIONS & EUROPA UEFA]",TNT SPORTS 4 BU
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://newfamilytv.my.id/orangscbaik/bah.m3u8?id=TNT_Sports_4_BU
 

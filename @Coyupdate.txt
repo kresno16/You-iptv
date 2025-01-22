@@ -1984,6 +1984,84 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/32
 
 ========================================= KNOWLEDGE ANIMAL =================================================
 
+#EXTINF:-1 tvg-id="Indonesiana TV.id" tvg-logo="https://iili.io/JmoC4sV.png" group-title="CH KNOWLEDGE",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+ 
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://iili.io/JmoCv5u.png" group-title="CH KNOWLEDGE",Discovery Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+ 
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://iili.io/JmoC8Ob.png" group-title="CH KNOWLEDGE",Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+ 
+#EXTINF:-1 tvg-id="716.astro" tvg-logo="https://iili.io/d9HE0l9.png" group-title="CH KNOWLEDGE",DMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+ 
+
+ 
+#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://iili.io/JmoCPqB.png" group-title="CH KNOWLEDGE",History
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+ 
+#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://iili.io/JmoCrWQ.png" group-title="CH KNOWLEDGE",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+ 
+#EXTINF:-1 tvg-id="502.unifi" tvg-logo="https://iili.io/JmoCsg1.png" group-title="CH KNOWLEDGE",Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
+ 
+#EXTINF:-1 tvg-id="Tech Storm.id" tvg-logo="https://iili.io/JmoCN07.png" group-title="CH KNOWLEDGE",Tech Storm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JmoCDmJ.png" group-title="CH KNOWLEDGE",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Curiosity.id" tvg-logo="https://iili.io/JmoCkJe.png" group-title="CH KNOWLEDGE",Curiosity Channel
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Lingua.id" tvg-logo="https://iili.io/JmoCi0P.png" group-title="CH KNOWLEDGE",Lingua Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Outdoor Channel.id" tvg-logo="https://iili.io/JmoCZ5g.png" group-title="CH KNOWLEDGE",Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+  
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://iili.io/JmoCtea.png" group-title="CH KNOWLEDGE"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="CGTN Documentary - [Channel 205].id" tvg-logo="https://iili.io/JmoChs2.png" group-title="CH KNOWLEDGE"
+https://english-livebkws.cgtn.com/live/doccgtn_0.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JmooMMl.png" group-title="CH KNOWLEDGE",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
 #EXTINF:-1 tvg-id="556.astro" tvg-logo="https://iili.io/JmoCOg9.png" group-title="CH KNOWLEDGE",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2046,8 +2124,6 @@ http://213.246.39.14:8070/NAT_GEO_WILD_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Net Geo 
 http://213.246.39.14:8070/NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Paramount?file=Paramount_Global.svg" tvg-name="Jazz LoFi"  group-title="CH KNOWLEDGE",Paramount
-http://213.246.39.14:8070/PARAMOUNT/index.m3u8
 
 
 ==============MOTO GP DAN F1============================================================================================================================
@@ -3415,14 +3491,6 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812024&extens
 
 
 
-====================================================== PREMIER LEAGUE ========================================
-
-
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.ibb.co.com/kyDkrKH/sky-sports-premier-league.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
-https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
-#
 =================================================================== SPORT VISION+ ===============================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5681,8 +5749,9 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
+https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 =============================================
 #EXTM3U
-#EXTM3U billed-msg="BERAK TV est2025"http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?chttp://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
+#EXTM3U billed-msg="¸,ø¤º°`°º¤ø,¸   🎀  𝐵𝐸𝑅𝒜𝒦 𝒯𝒱  🎀   ¸,ø¤º°`°º¤ø,¸𝗦𝗘𝗝𝗔𝗞 𝟮𝟬𝟮𝟱 "http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?chttp://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c

@@ -284,6 +284,9 @@ https://stream.hownetwork.xyz/yyy/182-beyond-youthful-days-2024-webdl_X_8854ae62
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-love-child-2024-lk21-d21.jpg.webp" group-title="DRAMA",LOVE CHILD 2024
 https://stream.hownetwork.xyz/yyy/love-child-2024-webdl_X_7982d6de/28/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://45.87.43.234/wp-content/uploads/2018/02/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8-200x300.jpg" group-title="DRAMA",FIFTY SHADES FREED 2018
+https://cdn3.01film.cc/Fifty.Shades.Freed.2018.WEBRip.x264-SHITBOX.nonton01-.mp4
+
 
 ======================STUDIO GHIBLI===========================================================================================================================
 ==============================================================================================================================================================

@@ -1269,7 +1269,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
-#EXTINF:-1, group-title="[LIVE] NEWS" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.FynMc3mUxJHRuQSRuh0xqQAAAA?rs=1&pid=ImgDetMain",NBC NEWS NOW
+#EXTINF:-1, group-title="[LIVE] NEWS" tvg-id="" tvg-logo="https://id.wikipedia.org/wiki/Berkas:NBC_News_logo.png#/media/Berkas:NBC_News_1986.svg",NBC NEWS NOW
 https://d2ww7x6333b6qp.cloudfront.net/10507/88886017/hls/master.m3u8?ads.xumo_channelId=88886017&ads.caid=nbcnewsnow&ads.csid=samsungtvplus_us_nbcnewsnow_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=nbcnewsnow&ads.xumo_providerId=1828&ads.xumo_providerName=nbcnewsnow&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbcnewsnow_us&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 #EXTINF:-1, group-title="[LIVE] NEWS" tvg-id="" tvg-logo="https://media.distractify.com/brand-img/MslIW9r-4/0x0/newsmax-1629129422653.jpg",NEWSMAX TV

@@ -193,6 +193,37 @@ https://stream.hownetwork.xyz/yyy/smurfs-legend-smurfy-hollow-2013-bluray/11/480
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2017/04/film-smurfs-lost-village-2017.jpg.webp" group-title="ANIMASI",THE SMURFS THE LOST VILLAGE  2017
 https://webluq1fylhe5.milocdn.com/hls2/01/00011/gdi9xg5hmp47_,l,n,.urlset/master.m3u8?t=t6BfUC03OHzyTk03OYbX5H6GKvu4cmf89vCczN9Xci8&s=1737553632&e=129600&f=56509&srv=TypRI417Iojq&i=0.4&sp=500&p1=TypRI417Iojq&p2=TypRI417Iojq&asn=138881
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/10/film-trick-or-treat-scooby-doo-2022-lk21-d21.jpg.webp" group-title="ANIMASI",SCOOBY DOO TRICK OR TREAT 2022
+https://stream.hownetwork.xyz/yyy/trick-or-treat-scooby-doo-2022-webdl/16/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2019/06/film-toy-story-4-2019-lk21.jpg.webp" group-title="ANIMASI",TOY STORY 4 2019
+https://stream.hownetwork.xyz/yyy/toy-story-4-2019-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2019/11/film-frozen-ii-2019-lk21.jpg.webp" group-title="ANIMASI",FROZEN II 2019
+https://stream.hownetwork.xyz/yyy/frozen-ii-2019-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2017/12/film-hey-arnold-jungle-movie-2017.jpg.webp" group-title="ANIMASI",HEY ARNOLD JUNGLE MOVIE 2017
+https://stream.hownetwork.xyz/yyy/hey-arnold-jungle-movie-2017-hdtv_X_e5de69ec/16/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/03/film-ice-age-the-great-egg-scape-2016.jpg.webp" group-title="ANIMASI",ICE AGE GREAT EGG SCAPE 2016
+https://stream.hownetwork.xyz/yyy/ice-age-great-egg-scape-2016-bluray_X_8ea52100/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/03/film-ice-age-the-great-egg-scape-2016.jpg.webp" group-title="ANIMASI",ICE AGE MELTDOWN 2006
+https://stream.hownetwork.xyz/yyy/ice-age-the-meltdown-2006-bluray/1/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2015/12/film-ice-age-2002.jpg.webp" group-title="ANIMASI",ICE AGE 2002
+https://stream.hownetwork.xyz/yyy/ice-age-2002-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-ice-age-dawn-of-the-dinosaurs-2009.jpg.webp" group-title="ANIMASI",ICE AGE DAWN DINOSAURUS 2009
+https://stream.hownetwork.xyz/yyy/ice-age-dawn-dinosaurs-2009-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-ice-age-continental-drift-2012.jpg.webp" group-title="ANIMASI",ICE AGE CONTINENTAL DRIFT 2012
+https://stream.hownetwork.xyz/yyy/ice-age-continental-drift-2012-bluray/1/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-ice-age-continental-drift-2012.jpg.webp" group-title="ANIMASI",ICE AGE COLLISION COURSE 2016
+https://stream.hownetwork.xyz/yyy/ice-age-collision-course-2016-bluray/3/480.m3u8
+
+
 
 ============================FILM INDO========================================================================================================================
 ==============================================================================================================================================================

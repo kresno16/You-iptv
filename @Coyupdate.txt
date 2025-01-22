@@ -2792,7 +2792,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:0 tvg-logo="http://www.blackfilm.com/read/wp-content/uploads/2016/03/TLC-logo.png" group-title="CH ENTERTAIMENT & LIFESTYLE",TLC
 https://github.com/openwindows037/sri-tv/raw/main/tlc.m3u8
 
-=============================================== 🕺🥳 LIFESTYLE ======================================================
+=============================================== LIFESTYLE ======================================================
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CH ENTERTAIMENT & LIFESTYLE",The Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
@@ -2832,58 +2832,53 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 ================================================ VOLLY =========================================================
 
 
-#EXTINF:-1 tvg-id="SK3" tvg-name="Premier Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Logo_F%C3%A9d%C3%A9ration_Internationale_de_Volleyball.svg/250px-Logo_F%C3%A9d%C3%A9ration_Internationale_de_Volleyball.svg.png?20090425035457" group-title="CH VOLLY 🏐", LIVE 1
+#EXTINF:-1 tvg-id="SK3" tvg-name="Premier Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/320px-SporTV_logo_2011.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", SPORTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium385/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Logo_F%C3%A9d%C3%A9ration_Internationale_de_Volleyball.svg/250px-Logo_F%C3%A9d%C3%A9ration_Internationale_de_Volleyball.svg.png?20090425035457" group-title="CH VOLLY 🏐", LIVE 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/320px-SporTV_logo_2011.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", SPORT TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium78/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Logo_F%C3%A9d%C3%A9ration_Internationale_de_Volleyball.svg/250px-Logo_F%C3%A9d%C3%A9ration_Internationale_de_Volleyball.svg.png?20090425035457" group-title="CH VOLLY 🏐", LIVE 3
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Big_Ten_Network#/media/File:Big_Ten_Network_Logo.svg" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", BIG NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium397/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium79/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA",SPORTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium80/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", TVP SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium128/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 7
+#EXTINF:-1 tvg-logo="https://de.m.wikipedia.org/wiki/Datei:Polsat_Sport_Logo.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", POLSAT  SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium47/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Southeastern_Conference_logo.svg/154px-Southeastern_Conference_logo.svg.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", SEC ESPN NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium385/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 9
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Big_Ten_Network#/media/File:Big_Ten_Network_Logo.svg" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", BIG NETWORK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium397/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Volleyball-Logo.png/600px-Volleyball-Logo.png" group-title="CH VOLLY 🏐", LIVE 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/320px-ACC_Network_ESPN_logo.svg.png" group-title="[LIVE] VOLLY BRAZIL & BASKET NBA", ACCN ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium664/playlist.m3u8

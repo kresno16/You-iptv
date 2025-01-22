@@ -178,6 +178,20 @@ https://stream.hownetwork.xyz/yyy/how-to-train-your-dragon-the-hidden-world-2019
 #EXTINF:-1 tvg-logo="https://cdn.drakor.in/gambar/97Fug51p.jpg?resize=500,750" group-title="ANIMASI",NINE 9 2009
 https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/01991/t0yehzgauj3d_x/master.m3u8?t=AmnlAxt4FWvKBC6dMRXoLsWqVimmZV8Rwe39OFG-6vg&s=1737553001&e=129600&f=9955213&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=138881
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2016/06/film-coraline-2009.jpg.webp" group-title="ANIMASI",CORALINE 2009
+https://stream.hownetwork.xyz/yyy/coraline-2009-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-the-smurfs-2011.jpg.webp" group-title="ANIMASI",THE SMURFS 2011
+https://stream.hownetwork.xyz/yyy/the-smurfs-2011-bluray/17/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-the-smurfs-2-2013.jpg.webp" group-title="ANIMASI",THE SMURFS 2 2013
+https://stream.hownetwork.xyz/yyy/the-smurfs-2-2013-bluray/3/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-the-smurfs-2-2013.jpg.webp" group-title="ANIMASI",THE SMURFS LEGEND HELLOWEN 2013
+https://stream.hownetwork.xyz/yyy/smurfs-legend-smurfy-hollow-2013-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2017/04/film-smurfs-lost-village-2017.jpg.webp" group-title="ANIMASI",THE SMURFS THE LOST VILLAGE  2017
+https://webluq1fylhe5.milocdn.com/hls2/01/00011/gdi9xg5hmp47_,l,n,.urlset/master.m3u8?t=t6BfUC03OHzyTk03OYbX5H6GKvu4cmf89vCczN9Xci8&s=1737553632&e=129600&f=56509&srv=TypRI417Iojq&i=0.4&sp=500&p1=TypRI417Iojq&p2=TypRI417Iojq&asn=138881
 
 
 ============================FILM INDO========================================================================================================================

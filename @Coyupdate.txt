@@ -5791,11 +5791,49 @@ https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_0
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-hdready-avc/NL_000110_019562.mpd?p=starballtv  
 
+==========================ESPN GROUP========================================================================================================================
 
+#EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://iili.io/Jmou322.png" group-title="CH ESPN",Band Sports Brazil
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://embedcanaistv.club/bandsports/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="CH ESPN",ESPN Brasil
+https://super-cdn.link/espn/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="CH ESPN",ESPN 2 Brasil
+https://super-cdn.link/espn2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="CH ESPN",ESPN 3 Brasil
+https://super-cdn.link/espn3/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="CH ESPN",ESPN 4 Brasil
+https://super-cdn.link/espn4/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox.Sports.2.HD.br" tvg-logo="https://iili.io/d9HjpYN.png" group-title="CH ESPN",ESPN 5 Brasil
+https://super-cdn.link/espn5/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-logo="https://iili.io/d9HjyvI.png" group-title="CH ESPN",ESPN 6 Brasil
+https://super-cdn.link/espn6/index.m3u8
 
+=================FIGHT TINJU UFC===========================================================================================================================
 
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://iili.io/JjzVgt4.png" group-title="[LIVE EVENT] | FIGHT",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJhP1lMBShDGe-fnhWutOvEB0P14-q5pYRQ&usqp=CAU" group-title="[LIVE EVENT] | FIGHT",UFC 1
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJhP1lMBShDGe-fnhWutOvEB0P14-q5pYRQ&usqp=CAU" group-title="[LIVE EVENT] | FIGHT",UFC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJhP1lMBShDGe-fnhWutOvEB0P14-q5pYRQ&usqp=CAU" group-title="[LIVE EVENT] | FIGHT",UFC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 =============================================

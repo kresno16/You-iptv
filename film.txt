@@ -445,7 +445,7 @@ https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-6-2021-webdl_X_fe7
 https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-7-2021-webdl_X_fc002ac7/26/480.m3u8
 
 
-==============================================DUNE SERIES 2024================================================================================================
+==============================================DUNE=SERIES 2024================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE PROPHECY SERIES 2024",EPS01-2024
 https://stream.hownetwork.xyz/yyy/dune-prophecy-season-1-episode-1-2024-webdl_X_62321b18/26/480.m3u8

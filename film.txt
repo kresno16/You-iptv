@@ -55,6 +55,8 @@ https://cdn.turboviplay.cc/data1/67908c7287fd0/67908c7287fd0.m3u8
 
 
 
+
+
 =================HOROR================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/12/film-conjuring-the-cult-2024-lk21-d21.jpg.webp".webp" group-title="HOROR",CONJURING 3 2024
@@ -441,3 +443,24 @@ https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-6-2021-webdl_X_fe7
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/10/film-squid-game-2021-lk21.jpg.webp" group-title="SQUID GAME SEASON 2",EPS-7 
 https://stream.hownetwork.xyz/yyy/squid-game-season-2-episode-7-2021-webdl_X_fc002ac7/26/480.m3u8
+
+
+==============================================DUNE SERIES 2024================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE PROPHECY SERIES 2024",EPS01-2024
+https://stream.hownetwork.xyz/yyy/dune-prophecy-season-1-episode-1-2024-webdl_X_62321b18/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE Prophecy 2024",EPS02-2024
+https://stream.hownetwork.xyz/xxx/dune-prophecy-season-1-episode-2-2024-webdl_X_2c55abe0/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE Prophecy 2024",EPS03-2024
+https://stream.hownetwork.xyz/yyy/dune-prophecy-season-1-episode-3-2024-webdl_X_9f87f800/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE Prophecy 2024",EPS04-2024
+https://stream.hownetwork.xyz/yyy/dune-prophecy-season-1-episode-4-2024-webdl_X_9e01f11f/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE Prophecy 2024",EPS05-2024
+https://cdn.turboviplay.cc/data1/676767abaf838/676767abaf838480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/11/film-dune-prophecy-2024-lk21-d21.jpg.webp" group-title="DUNE Prophecy 2024",EPS06-2024
+https://stream.hownetwork.xyz/yyy/dune-prophecy-season-1-episode-6-2024-hdtv_X_4f8e2c56/26/480.m3u8

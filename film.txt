@@ -336,8 +336,8 @@ https://cdn3.01film.cc/Fifty.Shades.Freed.2018.WEBRip.x264-SHITBOX.nonton01-.mp4
 #EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/06/f4oZTcfGrVTXKTWg157AwikXqmP-60x90.jpg" group-title="STUDIO GHIBLI",THE BOY & THE HERON 2023
 https://pixeldrain.com/api/file/wcHmErer
 
-#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2022/10/39wmItIWsg5sZMyRUHLkWBcuVCM-60x90.jpg" group-title="STUDIO GHIBLI",SPIRITED AWAY 2003
-https://w17c7di8l43q.cdn-centaurus.com/hls2/01/02709/bjwdikf0xn72_n/master.m3u8?t=OfLtsYWzXFxgN7DWcOf2urFnFh3gTDp26B4lGwkiQqo&s=1737339252&e=129600&f=13549560&srv=hlw6xufjwlxf3&i=0.4&sp=500&p1=hlw6xufjwlxf3&p2=hlw6xufjwlxf3&asn=138881
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2022/10/39wmItIWsg5sZMyRUHLkWBcuVCM-60x90.jpg" group-title="STUDIO GHIBLI",SPIRITED AWAY 2001
+https://stream.hownetwork.xyz/yyy/spirited-away-2001-bluray/11/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.myanimelist.net/images/anime/5/75810.jpg" group-title="STUDIO GHIBLI",HOWL'S MOVING CASTLE 2003
 https://www.terabox.com/share/extstreaming.m3u8?uk=4398192330058&shareid=67693107872&type=M3U8_AUTO_360&fid=627538430761053&sign=0efa9a0d6aaf70ce256da7abb2a75c05f0295603&timestamp=1737339799&jsToken=01ECAA860C07B6AF148F7AE44FB355E0BAC4FA8E6142B47A939DD8B06786304372AEDC6C60CC503EF342325A13C0A5A645E1349A8AB1E1002C6D5F386C2D24F9DB7110E896D13953877086FDFDAB3F06E501D1D24621BA06A6FAE3C498F0EF3C&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox

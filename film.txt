@@ -1019,42 +1019,42 @@ https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-3-2008-bluray_X_
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-4-2008-bluray/14/480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS5-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS5-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-5-2008-bluray/14/480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS6-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS6-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-6-2008-bluray_X_89fc6575/19/480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS7-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS7-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-7-2008-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS8-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS8-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-8-2008-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS9-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS9-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-9-2008-bluray_X_d65f546f/19/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS10-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS10-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-10-2008-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS11-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS11-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-11-2008-bluray_X_71e2d91e/22/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS12-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS12-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-12-2008-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS13-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS13-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-13-2008-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS14-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS14-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-14-2008-bluray_X_7bfdbbd7/19/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS15-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS15-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-15-2008-bluray/14/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-4-EPS16-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-5-EPS16-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-5-episode-16-2008-bluray/14/480.m3u8
 
 

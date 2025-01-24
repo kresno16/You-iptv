@@ -1064,6 +1064,142 @@ https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-7-2020-we
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="ALICE IN BORDERLAND SERIES",SEASON-2-EPS8-2019
 https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-8-2020-webdl/4/480.m3u8
 
+==================THE RAIN 2018================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS1-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-1-2018-webrip_X_0b05f3de/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS2-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-2-2018-webrip_X_4f602edb/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS3-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-3-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS4-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-4-2018-webrip_X_18b07d17/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS5-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-5-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS6-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-6-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS7-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-7-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS8-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-1-episode-8-2018-webrip_X_9bc65319/19/480.m3u8
+
+==================SEASON 2 THE RAIN=========================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-2-EPS1-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-2-episode-1-2018-webrip_X_fb2c1f75/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-2-EPS2-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-2-episode-2-2018-webrip_X_0cd25798/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-2-EPS3-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-2-episode-3-2018-webrip_X_dea27139/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-2-EPS4-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-2-episode-4-2018-webrip/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-1-EPS5-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-2-episode-5-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-2-EPS6-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-2-episode-6-2018-webrip/12/480.m3u8
+
+===================SEASON 3 THE RAIN=======================================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-3-EPS1-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-3-episode-1-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-3-EPS2-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-3-episode-2-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-3-EPS3-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-3-episode-3-2018-webrip_X_f1de5bae/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-3-EPS4-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-3-episode-4-2018-webrip_X_0668fc03/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-3-EPS5-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-3-episode-5-2018-webrip/12/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-rain-2018-lk21-d21.jpg.webp" group-title="THE RAIN SERIES",SEASON-3-EPS6-2018
+https://stream.hownetwork.xyz/yyy/the-rain-season-3-episode-6-2018-webrip_X_ec762601/19/480.m3u8
+
+======================THE QUEENS GAMBIT====================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS1-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-1-2020-webrip/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS2-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-2-2020-webrip_X_e59db11e/21/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS3-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-3-2020-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS4-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-4-2020-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS5-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-5-2020-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS6-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-6-2020-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-the-queens-gambit-2020-d21.jpg.webp" group-title="THE QUEENS GAMBIT SERIES",SEASON-1-EPS7-2020
+https://stream.hownetwork.xyz/yyy/the-queens-gambit-season-1-episode-7-2020-webdl/14/480.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

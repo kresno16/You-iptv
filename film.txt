@@ -687,58 +687,7 @@ https://stream.hownetwork.xyz/yyy/kingdom-season-2-episode-5-2019-webdl_X_8aa6a9
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2021/11/film-kingdom-2019-lk21-d21-1.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS06-2019
 https://stream.hownetwork.xyz/yyy/kingdom-season-2-episode-6-2019-webdl_X_21d85c71/21/480.m3u8
 
-====================ALICE IN BORDERLAND=========================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS01-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-1-2020-webdl/14/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS02-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-2-2020-webdl/14/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS03-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-3-2020-webdl/14/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS04-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-4-2020-webdl_X_774d4526/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS05-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-5-2020-webdl_X_6b36944a/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS06-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-6-2020-webdl/14/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS07-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-7-2020-webdl_X_45de7f13/22/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-1-EPS08-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-1-episode-8-2020-webdl/14/480.m3u8
-
-
-====================SEASON 2 ALICE IN BORDERLAND============================================================================================================
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS01-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-1-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS02-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-2-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS03-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-3-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS04-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-4-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS05-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-5-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS06-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-6-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS07-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-7-2020-webdl/4/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2021/11/film-alice-in-borderland-2020-d21.jpg.webp" group-title="KINGDOM SERIES 2019",SEASON-2-EPS09-2020
-https://stream.hownetwork.xyz/yyy/alice-in-borderland-season-2-episode-8-2020-webdl/4/480.m3u8
 
 ================STRANGER THINGS 2016============================================================================================================================
 

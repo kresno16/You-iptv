@@ -855,7 +855,7 @@ https://stream.hownetwork.xyz/yyy/stranger-things-season-4-episode-9-2016-webdl/
 
 =============BREAKING BAD SERIES=============================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="STRANGER THINGS SERIES",SEASON-1-EPS01-2019
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-1-EPS01-2019
 https://stream.hownetwork.xyz/yyy/breaking-bad-season-1-episode-1-2008-bluray_X_c4379646/19/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-breaking-bad-2008-d21.jpg.webp" group-title="BREAKING BAD SERIES",SEASON-1-EPS02-2019

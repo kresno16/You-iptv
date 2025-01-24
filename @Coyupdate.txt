@@ -3183,12 +3183,11 @@ https://faiqtv.my.id/fq/sc/vision/index.mpd?id=1013
 
 ========================================================= ASTRO ================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-logo="https://i.ibb.co.com/frx2Pry/20241207-151556.png", group-title="CH ASTRO", ASTRO PREMIER LEAGUE(1) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png", group-title="CH ASTRO", ASTRO PREMIER LEAGUE(1) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4f5ff4e4694d54bdfdc9bd34384290:1100fe297146f7d024b59944f09e6d1a
-
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd  
+#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
+https://bintangstreaming.my.id/live/index.mpd?channel=astropremier1&type=mpd  
 
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" group-title="CH ASTRO" tvg-logo="https://lo1.in/MALAY/astror.png" ,Astro Rania

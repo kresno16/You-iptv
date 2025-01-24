@@ -37,6 +37,16 @@ http://202.147.193.244/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel
 
 =============================LIVE EVENT UPDATE=====================≈================
 
+#EXTINF:-1 tvg-id="12436434" tvg-name="3248" tvg-logo="https://api.sofascore.app/api/v1/event/12436434/share-image/16x9" group-title="[LIVE EVENT]",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
+[https://bintangstreaming.my.id/live/index.mpd?channel=ctv5&type=mpd
+
+
+
+
 #EXTINF:-1 group-logo="https://www.otaro.co.th/assets/img/live_streaming_1.png"
 #EXTINF:-1 tvg-id="12436434" tvg-name="129" tvg-logo="https://api.sofascore.app/api/v1/event/12436434/share-image/16x9" group-title="[LIVE EVENT]",EVERTON VS ASTON VILLA [PREMIER LEAGUE] - 02:30 - (16/01/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )

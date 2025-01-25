@@ -1303,6 +1303,94 @@ https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-5-2014-webrip/
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS6-2024
 https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-6-2014-webrip/11/480.m3u8
 
+=========DARK SERIES==============================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS1-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-1-2017-webdl_X_6b60ca98/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS2-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-2-2017-webdl_X_7bd8a194/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS3-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-3-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS4-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-4-2017-webdl_X_e84d5776/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS5-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-5-2017-webdl_X_1df903bc/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS6-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-6-2017-webdl_X_5c308ab0/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS7-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-7-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS8-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-8-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS9-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-9-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-1-EPS10-2017
+https://stream.hownetwork.xyz/yyy/dark-season-1-episode-10-2017-webdl/14/480.m3u8
+
+============SEASON 2 DARK============================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS1-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-1-2017-webdl_X_6d3a9959/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS2-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-2-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS3-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-3-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS4-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-4-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS5-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-5-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS6-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-6-2017-webdl_X_6336c878/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS7-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-7-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-2-EPS8-2017
+https://stream.hownetwork.xyz/yyy/dark-season-2-episode-8-2017-webdl/14/480.m3u8
+
+
+===============SEASON 3 DARK====================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS1-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-1-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS2-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-2-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS3-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-3-2017-webdl_X_afe01574/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS4-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-4-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS5-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-5-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS6-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-6-2017-webdl/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS7-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-7-2017-webdl_X_6cb7ff26/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS8-2017
+https://stream.hownetwork.xyz/yyy/dark-season-3-episode-8-2017-webdl/14/480.m3u8
+
+
+
+
 
 
 

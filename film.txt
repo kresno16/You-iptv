@@ -70,7 +70,7 @@ https://stream.hownetwork.xyz/yyy/conjuring-2-2016-bluray/6/480.m3u8
 https://stream.hownetwork.xyz/yyy/a-quiet-place-day-one-2024-webdl_X_dd6849f5/22/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/11/film-smile-2-2024-lk21-d21.jpg.webp" group-title="HOROR",SMILE 2 2024
-https://stream.hownetwork.xyz/yyy/smile-2-2024-webdl_X_c33ad78e/26/480.m3u8
+https://stream.hownetwork.xyz/yyy/smile-2-2024-bluray_X_f0487a1a/28/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2022/10/film-smile-2022-lk21-d21.jpg.webp" group-title="HOROR",SMILE 2022
 https://stream.hownetwork.xyz/yyy/smile-2022-bluray/3/480.m3u8
@@ -140,6 +140,13 @@ https://stream.hownetwork.xyz/yyy/the-platform-el-hoyo-2019-webdl/3/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-the-platform-2-2024-lk21-d21.jpg.webp" group-title="HOROR",THE PLATFORM 2 2024
 https://stream.hownetwork.xyz/yyy/the-platform-2-2024-webdl_X_db7787ca/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/01/film-nosferatu-2024-lk21-d21.jpg.webp" group-title="HOROR",NOSFERATU 2024
+https://stream.hownetwork.xyz/yyy/nosferatu-2024-webdl_X_c7dbc0f1/29/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/11/film-juror-2-2024-lk21-d21.jpg.webp" group-title="HOROR",JUROR 2 2024
+https://stream.hownetwork.xyz/yyy/juror-2-2024-webdl_X_4245079d/26/480.m3u8
+
 
 ==========================ANIMASI========================================================================================================
 
@@ -244,6 +251,9 @@ https://stream.hownetwork.xyz/yyy/ultraman-rising-2024-webdl_X_ae3ee86d/22/480.m
 
 
 
+
+
+
 ============================FILM INDO========================================================================================================================
 ==============================================================================================================================================================
 
@@ -336,6 +346,12 @@ https://stream.hownetwork.xyz/yyy/love-child-2024-webdl_X_7982d6de/28/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://45.87.43.234/wp-content/uploads/2018/02/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8-200x300.jpg" group-title="DRAMA",FIFTY SHADES FREED 2018
 https://cdn3.01film.cc/Fifty.Shades.Freed.2018.WEBRip.x264-SHITBOX.nonton01-.mp4
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/11/film-we-live-in-time-2024-lk21-d21.jpg.webp" group-title="DRAMA",WE LIVE IN TIME 2024
+https://stream.hownetwork.xyz/yyy/we-live-in-time-2024-webdl_X_4dfd20b2/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-the-idea-of-you-2024-lk21-d21.jpg.webp" group-title="DRAMA",THE IDEA OF YOU 2024
+https://stream.hownetwork.xyz/yyy/the-idea-of-you-2024-webdl_X_3880accf/22/480.m3u8
 
 
 ======================STUDIO GHIBLI===========================================================================================================================
@@ -1182,6 +1198,111 @@ https://stream.hownetwork.xyz/xxx/peaky-blinders-season-1-episode-5-2014-bluray/
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-1-EPS6-2024
 https://stream.hownetwork.xyz/xxx/peaky-blinders-season-1-episode-6-2014-bluray/11/480.m3u8
+
+===========SEASON 2 PEAKY BLINDERS===========================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-2-EPS1-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-2-episode-1-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-2-EPS2-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-2-episode-2-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-2-EPS3-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-2-episode-3-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-2-EPS4-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-2-episode-4-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-2-EPS5-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-2-episode-5-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-2-EPS6-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-2-episode-6-2014-bluray/11/480.m3u8
+
+
+
+===========SEASON 3 PEAKY BLINDERS===========================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-3-EPS1-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-3-episode-1-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-3-EPS2-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-3-episode-2-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-3-EPS3-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-3-episode-3-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-3-EPS4-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-3-episode-4-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-3-EPS5-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-3-episode-5-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-3-EPS6-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-3-episode-6-2014-bluray/11/480.m3u8
+
+=========SEASON 4 PEAKY BLINDERS===============================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-4-EPS1-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-4-episode-1-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-4-EPS2-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-4-episode-2-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-4-EPS3-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-4-episode-3-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-4-EPS4-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-4-episode-4-2014-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-4-EPS5-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-4-episode-5-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-4-EPS6-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-4-episode-6-2014-bluray/11/480.m3u8
+
+
+==============SEASON 5 PEAKY BLINDERS========================================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-5-EPS1-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-5-episode-1-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-5-EPS-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-5-episode-2-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-5-EPS3-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-5-episode-3-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-5-EPS4-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-5-episode-4-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-5-EPS5-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-5-episode-5-2014-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-5-EPS6-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-5-episode-6-2014-bluray/11/480.m3u8
+
+============SEASON 6 PEAKY BLINDERS=====================================================================================================
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS1-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-1-2014-webdl/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS2-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-2-2014-webrip/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS3-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-3-2014-webrip/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS4-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-4-2014-webrip/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS5-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-5-2014-webrip/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-peaky-blinders-2014-d21.jpg.webp" group-title="PEAKY BLINDERS SERIES",SEASON-6-EPS6-2024
+https://stream.hownetwork.xyz/yyy/peaky-blinders-season-6-episode-6-2014-webrip/11/480.m3u8
+
 
 
 

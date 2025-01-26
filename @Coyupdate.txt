@@ -1,6 +1,11 @@
 #EXTM3U 
 ================================================= LIVE SHOPEE CUP ==========================================
 
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/512/276512-SNAPSHOT-m.jpg" group-title="[LIVE]Shopee Cup",ASTRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77 
+https://bintangstreaming.my.id/live/index.mpd?channel=astropremier1&type=mpd]
+
 
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/512/276512-SNAPSHOT-m.jpg" group-title="[LIVE]Shopee Cup",CHANNEL 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey

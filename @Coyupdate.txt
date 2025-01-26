@@ -4502,6 +4502,21 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.is
 https://canale.mizhls.ru/lb/premium870/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://img.legaseriea.it/vimages/16fdc0e57d4e0570/logo-seriea-sfondo-texture.jpg" group-title="[LIVE EVENT | LIGA ITALIA]",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://img.legaseriea.it/vimages/16fdc0e57d4e0570/logo-seriea-sfondo-texture.jpg" group-title="[LIVE EVENT | LIGA ITALIA]",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
+https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
+
+
 
 =======================================TRANSVISION========================================================================================================================================================
 

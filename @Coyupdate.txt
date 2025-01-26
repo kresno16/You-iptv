@@ -4491,6 +4491,12 @@ https://xyzdddd.mizhls.ru/lb/premium428/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
 https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0
 
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://img.legaseriea.it/vimages/16fdc0e57d4e0570/logo-seriea-sfondo-texture.jpg" group-title="[LIVE EVENT | LIGA ITALIA]", Sky SPORT CALCIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium870/playlist.m3u8
+
+
 
 =======================================TRANSVISION========================================================================================================================================================
 
@@ -5697,11 +5703,6 @@ https://canale.mizhls.ru/lb/premium451/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]", Sky SPORT CALCIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium870/playlist.m3u8
 
 like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Diema Sport 2 Bulgaria

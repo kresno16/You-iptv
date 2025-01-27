@@ -1400,9 +1400,81 @@ https://stream.hownetwork.xyz/yyy/dark-season-3-episode-7-2017-webdl_X_6cb7ff26/
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2021/11/film-dark-2017-d21.jpg.webp" group-title="DARK SERIES",SEASON-3-EPS8-2017
 https://stream.hownetwork.xyz/yyy/dark-season-3-episode-8-2017-webdl/14/480.m3u8
 
+===================1899 SERIES========================================================================================================
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS1-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-1-2022-webdl/5/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS2-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-2-2022-webdl/5/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS3-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-3-2022-webdl/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS4-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-4-2022-webdl/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS5-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-5-2022-webdl/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS6-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-6-2022-webdl/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS7-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-7-2022-webdl/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS8-2022
+https://stream.hownetwork.xyz/yyy/1899-season-1-episode-8-2022-webdl/5/480.m3u8
+
+=================TWENTY FIVE TWENTY ONE SERIES=========================================================================================
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS1-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-1-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS2-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-2-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS3-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-3-2022-webrip/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS4-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-4-2022-webrip/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS5-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-5-2022-hdtv_X_5f6d8398/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS6-2022
+https://be6721.rcr72.waw04.cdn255.com/hls2/01/02744/2c6zqebvnuyx_,n,x,.urlset/master.m3u8?t=VIPsr8GAgs7UDHWElkCVfCe0kNKZOydjlQL4CzFhG0E&s=1737958548&e=10800&f=13720939&srv=16&asn=138881&sp=5500&p=
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS7-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-7-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS8-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-8-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS9-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-9-2022-hdtv_X_9201de1e/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS10-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-10-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS11-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-11-2022-webrip/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS12-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-12-2022-webrip/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS13-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-13-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS14-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-14-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS15-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-15-2022-hdtv/14/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS16-2022
+https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-16-2022-hdtv/14/480.m3u8
 
 
 

@@ -54,6 +54,8 @@ https://cdn.turboviplay.cc/data1/67908c7287fd0/67908c7287fd0.m3u8
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/03/film-godzilla-minus-one-2023-lk21-d21.jpg.webp" group-title="ACTION",GODZILLA MINUS ONE 2023
 https://stream.hownetwork.xyz/yyy/godzilla-minus-one-2023-bluray_X_eeac31ae/22/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2025/01/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg?resize=152%2C228&ssl=1" group-title="ACTION",HENRY DANGER THE MOVIE 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/16/Henry.Danger.The.Movie.2025.mp4/index.m3u8
 
 
 
@@ -146,6 +148,9 @@ https://stream.hownetwork.xyz/yyy/nosferatu-2024-webdl_X_c7dbc0f1/29/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/11/film-juror-2-2024-lk21-d21.jpg.webp" group-title="HOROR",JUROR 2 2024
 https://stream.hownetwork.xyz/yyy/juror-2-2024-webdl_X_4245079d/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2025/01/fAXDQny8kEquc1BImiQHhYMGSsW.jpg?resize=152%2C228&ssl=1" group-title="HOROR",DAMNED 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Damned.2025.mp4/index.m3u8
 
 
 ==========================ANIMASI========================================================================================================
@@ -249,8 +254,11 @@ https://stream.hownetwork.xyz/yyy/ice-age-collision-course-2016-bluray/3/480.m3u
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-ultraman-rising-2024-lk21-d21.jpg.webp" group-title="ANIMASI",ULTRAMAN RISING 2024 
 https://stream.hownetwork.xyz/yyy/ultraman-rising-2024-webdl_X_ae3ee86d/22/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2024/01/kJG74Y1RxLLjRLYOTrBclWpbvkz.jpg?resize=152%2C228&ssl=1" group-title="ANIMASI",MIGRATION 2023
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/12/Migration.2023.mp4/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2023/12/8hsOpZJvA1FN3XKnzLHb9475Gp6.jpg?resize=152%2C228&ssl=1" group-title="ANIMASI",CHICKEN RUN DAWN THE NUGGET 2023
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/Chicken.Run.Dawn.of.the.Nugget.2023.mp4/index.m3u8
 
 
 
@@ -352,6 +360,10 @@ https://stream.hownetwork.xyz/yyy/we-live-in-time-2024-webdl_X_4dfd20b2/26/480.m
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-the-idea-of-you-2024-lk21-d21.jpg.webp" group-title="DRAMA",THE IDEA OF YOU 2024
 https://stream.hownetwork.xyz/yyy/the-idea-of-you-2024-webdl_X_3880accf/22/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2019/11/1Du7nW0uv5ETYQ6M9sqpysekWtm.jpg?resize=60%2C90&ssl=1" group-title="DRAMA",ATM ERROR 2012
+https://cdn7iv.diebutx.com/ownhls/2020/b6c9fed01fd21aa3ec575b26c0c68ca6/playlist.m3u8
+
 
 
 ======================STUDIO GHIBLI===========================================================================================================================

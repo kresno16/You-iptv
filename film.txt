@@ -260,6 +260,21 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/12/Migration.2
 #EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2023/12/8hsOpZJvA1FN3XKnzLHb9475Gp6.jpg?resize=152%2C228&ssl=1" group-title="ANIMASI",CHICKEN RUN DAWN THE NUGGET 2023
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/Chicken.Run.Dawn.of.the.Nugget.2023.mp4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp" group-title="ANIMASI",Despicable Me 4 2024
+https://stream.hownetwork.xyz/yyy/despicable-me-4-2024-bluray_X_000caed1/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/10/film-doraemon-the-movie-nobitas-sky-utopia-2023-lk21-d21.jpg.webp" group-title="ANIMASI",DORAEMON MOVIES SKY UTOPIA 2023
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-sky-utopia-2023-bluray/16/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-suzume-2022-lk21-d21.jpg.webp" group-title="ANIMASI",SUZUME 2022
+https://stream.hownetwork.xyz/yyy/suzume-2022-webdl/8/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/04/film-the-super-mario-bros-movie-2023-lk21-d21.jpg.webp" group-title="ANIMASI",MARIO BROS 2023
+https://stream.hownetwork.xyz/yyy/the-super-mario-bros-movie-2023-bluray_X_804869c3/29/480.m3u8
+
+
+
+
 
 
 ============================FILM INDO========================================================================================================================
@@ -272,7 +287,7 @@ https://cold8.gofile.io/download/web/c39b127b-9689-4468-8802-89fb52509cff/1080_%
 https://pixeldrain.com/api/file/DBMDP822
 
 #EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI 2024
-https://streamtape.net/get_video?id=RmORmo9RkQsXPp&expires=1737242654&ip=F0OPKRMAKxSHDN&token=GxAWlDt3Zqny&stream=1
+https://hgc0uswxhnn8.acek-cdn.com/hls2/01/02076/1c8rhjt49911_n/master.m3u8?t=LNOvr7m-TegIKI-QGt-FaGiEFitVXgiA856Pt027p9k&s=1737959878&e=129600&f=10383477&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=138881
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2023/09/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg" group-title="FILM INDO",YUSUF HAMKA 2023
 https://j6ohraxfzt1d.milocdn.com/hls2/01/01269/ljmmogs12uxa_l/master.m3u8?t=lmcNd1TuqiBCpTpvdz1Tobo4KmqjjgQQkUNLRS0mbpk&s=1737174040&e=129600&f=11888919&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=138881

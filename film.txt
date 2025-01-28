@@ -37,7 +37,7 @@ https://stream.hownetwork.xyz/yyy/hit-man-2024-webdl_X_960c7f88/22/480.m3u8
 https://stream.hownetwork.xyz/yyy/society-of-the-snow-2023-webdl_X_c581d8b8/20/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/12/film-leave-the-world-behind-2023-lk21-d21.jpg.webp" group-title="ACTION",LEAVE THE WORLD BEHIND 2023
-https://be2719.rcr22.ams01.cdn255.com/hls2/02/05110/q6khbr7zn5r2_h/master.m3u8?t=qyMG18q_p_O5Nt1XcZQ7tBN94D6ae9Y130GJF9Pt7E4&s=1737986877&e=10800&f=25551288&srv=52&asn=138881&sp=4000&p=
+https://stream.hownetwork.xyz/xxx/leave-the-world-behind-2023-webdl_X_8afd9b52/18/480.m3u8
 
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/12/film-leave-the-world-behind-2023-lk21-d21.jpg.webp" group-title="ACTION",HYPNOTIC 2023
 https://stream.hownetwork.xyz/yyy/hypnotic-2023-bluray/16/480.m3u8

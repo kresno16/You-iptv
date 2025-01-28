@@ -747,7 +747,7 @@ https://stream.hownetwork.xyz/yyy/kingdom-season-2-episode-6-2019-webdl_X_21d85c
 
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2022/01/film-stranger-things-2016-lk21-d21.jpg.webp" group-title="STRANGER THINGS SERIES",SEASON-1-EPS01-2016
-https://stream.hownetwork.xyz/yyy/stranger-things-season-1-episode-1-2016-bluray/11/480.m3u8
+https://be4235.rcr32.ams02.cdn255.com/hls2/01/02745/tr57uyr384py_,n,x,.urlset/master.m3u8?t=iJOBXW9-fqV_9S4O3NC4BfPtxx4rviccJ7GjSb_WwAs&s=1738035006&e=10800&f=13729586&srv=21&asn=138881&sp=5500&p=
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2022/01/film-stranger-things-2016-lk21-d21.jpg.webp" group-title="STRANGER THINGS SERIES",SEASON-1-EPS02-2016
 https://stream.hownetwork.xyz/yyy/stranger-things-season-1-episode-2-2016-bluray/11/480.m3u8

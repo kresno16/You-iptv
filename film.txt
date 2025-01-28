@@ -538,22 +538,22 @@ https://stream.hownetwork.xyz/yyy/dune-prophecy-season-1-episode-6-2024-hdtv_X_4
 https://stream.hownetwork.xyz/yyy/the-watcher-season-1-episode-1-2022-webrip_X_1abfea46/19/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-watcher-2022-lk21-d21.jpg.webp" group-title="THE WATCHER SERIES 2022",EPS02-2022
-https://stream.hownetwork.xyz/yyy/the-watcher-season-1-episode-2-2022-webrip/12/480.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/2aefd283bc4c615c9cb5e6a77b973182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-watcher-2022-lk21-d21.jpg.webp" group-title="THE WATCHER SERIES 2022",EPS03-2022
-https://stream.hownetwork.xyz/yyy/the-watcher-season-1-episode-3-2022-webrip/12/480.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/ad8cfbb564217757a05f00ae27aab418/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-watcher-2022-lk21-d21.jpg.webp" group-title="THE WATCHER SERIES 2022",EPS04-2022
-https://stream.hownetwork.xyz/yyy/the-watcher-season-1-episode-4-2022-webrip/12/480.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/0ec7fc2c036d185c1bee9437808e9587/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-watcher-2022-lk21-d21.jpg.webp" group-title="THE WATCHER SERIES 2022",EPS05-2022
-https://stream.hownetwork.xyz/xxx/the-watcher-season-1-episode-5-2022-webrip_X_0475d381/19/480.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/823e54209fec87958bb8d65428245906/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-watcher-2022-lk21-d21.jpg.webp" group-title="THE WATCHER SERIES 2022",EPS06-2022
-https://stream.hownetwork.xyz/xxx/the-watcher-season-1-episode-6-2022-webrip_X_61d8982f/19/480.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/c69b0c8d9778b23cb2994a464fd1d525/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/10/film-the-watcher-2022-lk21-d21.jpg.webp" group-title="THE WATCHER SERIES 2022",EPS07-2022
-https://stream.hownetwork.xyz/xxx/the-watcher-season-1-episode-7-2022-webrip_X_0520b4d2/19/480.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/e9e81ba48cef72f9b8a6b770087de4b9/playlist.m3u8
 
 =====================MONEY HEIST SERIES=======================================================================================================================
 

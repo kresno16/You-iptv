@@ -341,6 +341,9 @@ https://jdou5wo6ffta.acek-cdn.com/hls2/01/02506/y0t4kjo4o5e8_,l,n,h,.urlset/mast
 #EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/05/yTrDmLKZBXXjbMdC0RBxQHaIkqV-60x90.jpg" group-title="FILM INDO",FALLING IN LOVE LIKE IN MOVIES 2023
 https://cold2.gofile.io/download/web/e71fefff-602a-456c-a7eb-3c39806103a0/1080_%5BPUSATFILM21.INFO%5Dfalling-in-love-like-in-movies-2023-WEB-DL.mp4
 
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2025/01/ue9oWMdrHoJuu4bPcmtRenLuOpb.jpg" group-title="FILM INDO",WOMEN FROM ROTE ISLAND 2024
+https://13nt2qnqm72d.acek-cdn.com/hls2/01/03528/tp37waef62m0_,l,n,.urlset/master.m3u8?t=qNob6SJv1OsBmjQlsYoRkOljzclrGopzLMS3l2OvP6c&s=1738035893&e=129600&f=17643154&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=138881
+
 ====================DRAMA ROMANCE==============================================================================================================================
 ===============================================================================================================================================================
 
@@ -1492,7 +1495,22 @@ https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-15-202
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2022/02/film-twenty-five-twenty-one-2022-lk21-d21.jpg.webp" group-title="TWENTY FIVE TWENTY ONE SERIES",SEASON-1-EPS16-2022
 https://stream.hownetwork.xyz/yyy/twenty-five-twenty-one-season-1-episode-16-2022-hdtv/14/480.m3u8
 
+=======================CHERNOBYL SERIES================================================================================================
 
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2022/02/film-chernobyl-2019-lk21-d21.jpg.webp" group-title="CHERNOBYL SERIES",SEASON-1-EPS1-2019
+https://stream.hownetwork.xyz/yyy/chernobyl-season-1-episode-1-2019-bluray/13/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2022/02/film-chernobyl-2019-lk21-d21.jpg.webp" group-title="CHERNOBYL SERIES",SEASON-1-EPS2-2019
+https://be4235.rcr32.ams02.cdn255.com/hls2/01/02745/1t7zwbjl8jw7_,n,x,.urlset/master.m3u8?t=GZJHERauL3GNptz9Prp7tkJLlnUtLuNKTYjL1x7fGiw&s=1738035709&e=10800&f=13729178&srv=21&asn=138881&sp=5500&p=
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2022/02/film-chernobyl-2019-lk21-d21.jpg.webp" group-title="CHERNOBYL SERIES",SEASON-1-EPS3-2019
+https://stream.hownetwork.xyz/yyy/chernobyl-season-1-episode-3-2019-bluray/13/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2022/02/film-chernobyl-2019-lk21-d21.jpg.webp" group-title="CHERNOBYL SERIES",SEASON-1-EPS4-2019
+https://stream.hownetwork.xyz/yyy/chernobyl-season-1-episode-4-2019-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2022/02/film-chernobyl-2019-lk21-d21.jpg.webp" group-title="CHERNOBYL SERIES",SEASON-1-EPS5-2019
+https://stream.hownetwork.xyz/yyy/chernobyl-season-1-episode-5-2019-bluray/13/480.m3u8
 
 
 

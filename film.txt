@@ -558,7 +558,7 @@ https://stream.hownetwork.xyz/xxx/the-watcher-season-1-episode-7-2022-webrip_X_0
 =====================MONEY HEIST SERIES=======================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-money-heist-la-casa-de-papel-2017-lk21-d21.jpg.webp" group-title="MONEY HEIST SERIES 2017",SEASON-1-EPS01-2017
-https://stream.hownetwork.xyz/yyy/money-heist-la-casa-de-papel-season-1-episode-1-2017-webrip/7/480.m3u8
+https://cdn7iv.diebutx.com/ownhls/2020/4ed0be0d6646bc35e1272ed79c45e450/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2021/11/film-money-heist-la-casa-de-papel-2017-lk21-d21.jpg.webp" group-title="MONEY HEIST SERIES 2017",SEASON-1-EPS02-2017
 https://stream.hownetwork.xyz/yyy/money-heist-la-casa-de-papel-season-1-episode-2-2017-webrip_X_ed263058/19/480.m3u8

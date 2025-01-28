@@ -127,7 +127,10 @@ https://stream.hownetwork.xyz/yyy/black-magic-baby-kuman-thong-2024-webdl_X_9b88
 https://stream.hownetwork.xyz/yyy/sijjin-6-siccin-6-2019-webdl_X_23bf9d8a/21/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2018/05/film-siccin-3-curmu-ask-2016.jpg.webp" group-title="HOROR",SIJJIN 3 2016
-https://stream.hownetwork.xyz/xxx/siccin-3-curmu-ask-2016-bluray/11/480.m3u8
+https://stream.hownetwork.xyz/yyy/siccin-3-curmu-ask-2016-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2018/05/film-siccin-3-curmu-ask-2016.jpg.webp" group-title="HOROR",SIJJIN 5 2018
+https://stream.hownetwork.xyz/yyy/siccin-5-2018-bluray/4/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2018/05/film-siccin-2-2015.jpg.webp" group-title="HOROR",SIJJIN 2 2015
 https://stream.hownetwork.xyz/xxx/siccin-2-2015-bluray/11/480.m3u8

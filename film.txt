@@ -135,8 +135,8 @@ https://stream.hownetwork.xyz/yyy/siccin-5-2018-bluray/4/480.m3u8
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2018/05/film-siccin-2-2015.jpg.webp" group-title="HOROR",SIJJIN 2 2015
 https://stream.hownetwork.xyz/xxx/siccin-2-2015-bluray/11/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2018/05/film-siccin-3-curmu-ask-2016.jpg.webp" group-title="HOROR",SIJJIN 1 2014
-https://stream.hownetwork.xyz/xxx/siccin-2014-bluray/3/480.m3u8
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2018/05/film-siccin-2014.jpg.webp" group-title="HOROR",SIJJIN 1 2014
+https://cdn.turboviplay.cc/data2/5ufhS3s85KNSNXI5URhf/5ufhS3s85KNSNXI5URhf.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2018/06/film-siccin-4-2017-lk21.jpg.webp" group-title="HOROR",SIJJIN 4 2017
 https://stream.hownetwork.xyz/xxx/siccin-4-2017-bluray/11/480.m3u8

@@ -57,7 +57,8 @@ https://stream.hownetwork.xyz/yyy/godzilla-minus-one-2023-bluray_X_eeac31ae/22/4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2025/01/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg?resize=152%2C228&ssl=1" group-title="ACTION",HENRY DANGER THE MOVIE 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/16/Henry.Danger.The.Movie.2025.mp4/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2019/02/film-alita-battle-angel-2019-lk21.jpg.webp" group-title="ACTION",ALITA BATTLE ANGEL 2019 
+https://stream.hownetwork.xyz/yyy/alita-battle-angel-2019-bluray/10/480.m3u8
 
 
 =================HOROR================================================================================================================
@@ -151,6 +152,9 @@ https://stream.hownetwork.xyz/yyy/juror-2-2024-webdl_X_4245079d/26/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2025/01/fAXDQny8kEquc1BImiQHhYMGSsW.jpg?resize=152%2C228&ssl=1" group-title="HOROR",DAMNED 2025
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Damned.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/07/film-incantation-2022-lk21-d21.jpg.webp" group-title="HOROR",INCANTATION 2022
+https://stream.hownetwork.xyz/yyy/incantation-2022-webrip/7/480.m3u8
 
 
 ==========================ANIMASI========================================================================================================
@@ -281,11 +285,9 @@ https://stream.hownetwork.xyz/yyy/transformers-one-2024-bluray_X_f212faee/29/480
 ============================FILM INDO========================================================================================================================
 ==============================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="FILM INDO",LAYANGAN PUTUS MOVIE 2023
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/05/kxhqebpoVDye8XDrWsLUpItucv5-60x90.jpg" group-title="FILM INDO",LAYANGAN PUTUS MOVIE 2023
 https://cold8.gofile.io/download/web/c39b127b-9689-4468-8802-89fb52509cff/1080_%5BPUSATFILM21.INFO%5Dlayangan-putus-the-movie-2023-WEB-DL.mp4
 
-#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="FILM INDO",LAYANGAN PUTUS MOVIE 2023
-https://pixeldrain.com/api/file/DBMDP822
 
 #EXTINF:-1 tvg-logo="https://new12.ngefilm21.boats/wp-content/uploads/2024/07/2gACO8YojtfEzDhQT6LkKFW5bCa-60x90.jpg" group-title="FILM INDO",BANDARAWUHI 2024
 https://hgc0uswxhnn8.acek-cdn.com/hls2/01/02076/1c8rhjt49911_n/master.m3u8?t=LNOvr7m-TegIKI-QGt-FaGiEFitVXgiA856Pt027p9k&s=1737959878&e=129600&f=10383477&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=138881
@@ -312,7 +314,8 @@ https://hi3thh5oxxww.acek-cdn.com/hls2/01/02287/pq3j0plnrppd_n/master.m3u8?t=xnc
 https://cwfuommwagyrfcg6.premilkyway.com/hls2/01/07655/mplaxgfwximz_n/master.m3u8?t=CmIUv8ZB6vaz1JbE_DbfRMZy9uIP4kiSuPsJ-rr4CHQ&s=1737358867&e=129600&f=38276418&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=138881
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/07/88b6aFvoLyl4uNJeRxLp4iIJd4o.jpg" group-title="FILM INDO",KROMOLEO 2024
-https://rnzt2t4xvku08.acek-cdn.com/hls2/01/03290/ps74a13ml1xc_,l,n,h,.urlset/master.m3u8?t=APzKkCLqyxRr1V7Xs39ILeut8c9HEboAf66vmlSIWZI&s=1737176710&e=129600&f=16454551&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
+https://13nt2qnqm72d.acek-cdn.com/hls2/01/03290/ps74a13ml1xc_,l,n,h,.urlset/master.m3u8?t=zcdMbP3hqKvOF_LIDKhYIFu0ztEO2w5Hv_VzWp8V1WY&s=1738036433&e=129600&f=16454551&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
+
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2024/07/vGm9g8UvL0yJCaVvNzsA4nusfRC.jpg" group-title="FILM INDO",RUMAH DINAS BAPAK 2024
 https://13nt2qnqm72d.acek-cdn.com/hls2/01/03149/hl1xf0wpuq0b_,l,n,h,.urlset/master.m3u8?t=at9Nwm0_K11B344_EpzxLlFvFN9f0DopKs1d86RHMjY&s=1737176904&e=129600&f=15749940&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=138881
@@ -343,6 +346,9 @@ https://cold2.gofile.io/download/web/e71fefff-602a-456c-a7eb-3c39806103a0/1080_%
 
 #EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2025/01/ue9oWMdrHoJuu4bPcmtRenLuOpb.jpg" group-title="FILM INDO",WOMEN FROM ROTE ISLAND 2024
 https://13nt2qnqm72d.acek-cdn.com/hls2/01/03528/tp37waef62m0_,l,n,.urlset/master.m3u8?t=qNob6SJv1OsBmjQlsYoRkOljzclrGopzLMS3l2OvP6c&s=1738035893&e=129600&f=17643154&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=138881
+
+
+
 
 ====================DRAMA ROMANCE==============================================================================================================================
 ===============================================================================================================================================================

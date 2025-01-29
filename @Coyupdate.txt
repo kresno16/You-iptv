@@ -3011,8 +3011,34 @@ http://extraott.com/live/6945574629/7169628753/36305.m3u8
 https://tvpull.careryun.com/live/ballbar_25290.m3u8
 
 #EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="[LIVE] BADMINTON", HUB SPORTS 1 
-
 http://extraott.com/live/6945574629/7169628753/36305.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Fernandekho08/logo/blob/main/thailand%20master%202025.jpeg?raw=true" GROUP-TITLE="[LIVE] BADMINTON",Thailand Master 2025 COURT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/video/play.php?id=18249&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://dusk.biz.id/video/play.mpd?id=18249&type=dash
+
+#EXTINF:-1 tvg-logo="https://github.com/Fernandekho08/logo/blob/main/thailand%20master%202025.jpeg?raw=true" GROUP-TITLE="[LIVE] BADMINTON",Thailand Master 2025 COURT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/video/play.php?id=18250&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://dusk.biz.id/video/play.mpd?id=18250&type=dash
+
+#EXTINF:-1 tvg-logo="https://github.com/Fernandekho08/logo/blob/main/thailand%20master%202025.jpeg?raw=true" GROUP-TITLE="[LIVE] BADMINTON",Thailand Master 2025 COURT 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/video/play.php?id=18252&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://dusk.biz.id/video/play.mpd?id=18252&type=dash
+
+
 
 
 

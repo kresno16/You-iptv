@@ -1589,12 +1589,13 @@ https://stream.hownetwork.xyz/yyy/when-the-phone-rings-season-1-episode-11-2024-
 https://stream.hownetwork.xyz/yyy/when-the-phone-rings-season-1-episode-12-2024-webdl_X_fc01ff62/28/480.m3u8
 
 
+=======================================KUPU MALAM SERIES=======================================================================================================
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/11/film-when-the-phone-rings-2024-lk21-d21.jpg.webp" group-title="KUPU MALAM   SERIES",SEASON-1-EPS1A-2024
+https://vod3.cf.dmcdn.net/sec2(_sQZXX2bXSBdoyR_SsLG4RySxFS91r9Ja8PU6Z2baDP0icZLS-zeHuQzAnM-Dw5EOPb5T1GxYBIF9vEbfaHVkSiXHfCm6cyGS-WxYwQsCOStYE2UITmc3FbMQOdE8UCIGEE6abR6UtuiyVhojUiZObHZWgK0D_oslU6IrdYjdcQ)/video/224/075/558570422_mp4_h264_aac_2.m3u8#cell=cf3
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/11/film-when-the-phone-rings-2024-lk21-d21.jpg.webp" group-title="KUPU MALAM   SERIES",SEASON-1-EPS1B-2024
+https://vod3.cf.dmcdn.net/sec2(_sQZXX2bXSBdoyR_SsLG4RySxFS91r9Ja8PU6Z2baDP0icZLS-zeHuQzAnM-Dw5EOPb5T1GxYBIF9vEbfaHVkSiXHfCm6cyGS-WxYwQsCOStYE2UITmc3FbMQOdE8UCIGEE6abR6UtuiyVhojUiZObHZWgK0D_oslU6IrdYjdcQ)/video/224/075/558570422_mp4_h264_aac_2.m3u8#cell=cf3
 
 
 

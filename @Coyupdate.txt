@@ -3228,6 +3228,14 @@ https://faiqtv.my.id/fq/sc/vision/index.mpd?id=1013
 
 ========================================================= ASTRO ================================================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7jsvjQZ/astrobad.png" ch-status="vip" group-title="CH ASTRO",Astro Badminton
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODE5NTcyNjAiLCJyZWZyZXNoX3Rva2VuIjoiOTRCR21GQm8zN2FwQXpNbE11WWJBSjVzbE5Wc2U1Q2I2cm9lN0p0WTlGN3p0SHVYdTdkS2N6aDNDd0I4Y2Rla2p5YWJyMERRdUVWMVVidm93ZWlWazkyck1qSDdJbVpsa3JKNGFcLzgrTE5MYksrc01zSVhwZno1UFVIWXJoOXhEMEl4N1JLbGkzOVdFVE1tMFozQzA2Y1JsQ1kwYU5zb2dYTnRcL0NUbzN6Umw0RkhlaGFleTBkSUZoR2xhK0wzdng1RkRWRUsrZFhxUm1qWHNRQmRUU2xrZEd3MnR0c0t0YnJMMCtGOUlPVXZLcURaWml0cjBvcHd1NGdCZWdBeE9FVm5iQlRLcmZpQXhvUU4zMis3Q2VucTdRTVdUY1hEK3NQQzJZMlROaHZsYVpYczZXSEpFSjErRVlMXC9KUFZ1TlZzQkFuRzVqYUpZYnRCZDB6TytnU3l0Z2RPZGU0S294d0haU3E3MDNOUFRpMFVwQnhEZHoyYzJHVWVCSU9ZR2pVdGlCc1pjXC9Da29vVEFtS2lLTnVXc3c9PSJ9
+https://free.biz.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNzE1MDIzODkiLCJyZWZyZXNoX3Rva2VuIjoiUzVCd2lSTGIxOWI5akN6bDg2RUErNlwvTEhcLzhFb3pCSWw0ZzVLZnVcL3dadE9XRWdEeEgzRjFySks1c1hZRHM2clhPRml3MFNaRnFsWlBQc0V4dmFzSGlYUFwveHVRT0VUeEtlRUxOOGxCNU1BckViWk5mUnJUMll5c1A4dDQ1aWhHTERQNVVCd1dQMXJmYllMejJYdnJWYzFPSVlKR1NLRnlxR2pGRGtuc0s4Nk9IdFhjRHZNYmN4M1RhVWg2ZTg3WGRPODFZM3dSbFNRWHZMZEJmdjdteXF5bGNwUW5kZVdqd3VxNlI2bGJVQlJOcU1tZWZ0bWZhcTJoMzhYanRzdmF4M0dZTlp6TmtSSENDZUpVeFg4Wlo4am1HY21cLzhZUXJsTVJiN3paU0ZaTFwvcExOc3ZSTXZTUEl1eGZEY29CVmE1YzhBdUUxSXVlcjNyc2NXZTQwZnUrZ1FjdjEzcHVyTjIzS2pKQ2Vuend3PSJ9
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png", group-title="CH ASTRO", ASTRO PREMIER LEAGUE(1) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -289,7 +289,7 @@ https://stream.hownetwork.xyz/yyy/transformers-one-2024-bluray_X_f212faee/29/480
 ==============================================================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/05/kxhqebpoVDye8XDrWsLUpItucv5-60x90.jpg" group-title="FILM INDO",THE SECRET  2018
+#EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/05/kxhqebpoVDye8XDrWsLUpItucv5-60x90.jpg" group-title="FILM INDO",THE SECRET SUSTER NGESOT  2018
 https://vod3.cf.dmcdn.net/sec2(tKp7ZalXAhw1xGGMHyUCeIzXVGeK4xVknp7QquQ4hEzRlDYPLmg8O1IgtVKlQjEMztVRc2cPA6136WJEvAG4aYKP4-FP9fvmoyQQxQBxScaR3XoNp9xBGEkvtyFUogQjaHi1zrP_8BleqHxzjG3B05zFTgac7xjAAyFiXv6Jn00)/video/597/089/524980795_mp4_h264_aac_2.m3u8#cell=cf3
 
 
@@ -347,7 +347,7 @@ https://www.nonton168.com/movies/oktober2022/indonesia/Keluarga%20Cemara%202%20(
 https://dm.terabox.com/api/streaming?path=%2FKeluarga%20Cemara%202%20(2022)%20WEBDL%20720p-converted_2.mp4&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
 
 #EXTINF:-1 tvg-logo="https://168ntn.cfd/wp-content/uploads/2024/07/pIoqGkcroogisQBDe8Xo9QNfARK.jpg" group-title="FILM INDO",MARNI STORY WEWE GOMBEL 2022
-https://jdou5wo6ffta.acek-cdn.com/hls2/01/02506/y0t4kjo4o5e8_,l,n,h,.urlset/master.m3u8?t=yZhk_0AMTZVLzRk6b4hivDhblvNKalOcZfSk3UIWsf4&s=1737960227&e=129600&f=12539412&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=138881
+https://cdndirector.dailymotion.com/cdn/manifest/video/x8ok5rv.m3u8?sec=EYlJwiHtt5-ub660Qq8S0nv_5dxmlF0u3mqXzbT7ZVxq2GR3UHhH7PnNLErsitmCHnCo42wfScjcAJeKcQuGmg&dmTs=696291&dmV1st=cee741f5-5cf6-405a-b9a4-dd7f4991a901
 
 #EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/05/yTrDmLKZBXXjbMdC0RBxQHaIkqV-60x90.jpg" group-title="FILM INDO",FALLING IN LOVE LIKE IN MOVIES 2023
 https://cold2.gofile.io/download/web/e71fefff-602a-456c-a7eb-3c39806103a0/1080_%5BPUSATFILM21.INFO%5Dfalling-in-love-like-in-movies-2023-WEB-DL.mp4

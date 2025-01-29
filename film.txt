@@ -343,11 +343,9 @@ https://www.nonton168.com/movies/oktober2022/indonesia/Keluarga%20Cemara%202%20(
 #EXTINF:-1 tvg-logo="https://168ntn.cfd/wp-content/uploads/2022/10/kj2zoNB6UhNjp3J6wEEpLsEYPcI-152x228.jpg" group-title="FILM INDO",KELUARGA CEMARA 2022
 https://www.nonton168.com/movies/oktober2022/indonesia/Keluarga%20Cemara%202%20(2022)%20WEBDL%20720p-converted_2.mp4
 
-#EXTINF:-1 tvg-logo="https://168ntn.cfd/wp-content/uploads/2022/10/kj2zoNB6UhNjp3J6wEEpLsEYPcI-152x228.jpg" group-title="FILM INDO",KELUARGA CEMARA 2022
-https://dm.terabox.com/api/streaming?path=%2FKeluarga%20Cemara%202%20(2022)%20WEBDL%20720p-converted_2.mp4&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
 
 #EXTINF:-1 tvg-logo="https://168ntn.cfd/wp-content/uploads/2024/07/pIoqGkcroogisQBDe8Xo9QNfARK.jpg" group-title="FILM INDO",MARNI STORY WEWE GOMBEL 2022
-https://cdndirector.dailymotion.com/cdn/manifest/video/x8ok5rv.m3u8?sec=EYlJwiHtt5-ub660Qq8S0nv_5dxmlF0u3mqXzbT7ZVxq2GR3UHhH7PnNLErsitmCHnCo42wfScjcAJeKcQuGmg&dmTs=696291&dmV1st=cee741f5-5cf6-405a-b9a4-dd7f4991a901
+https://cdndirector.dailymotion.com/cdn/manifest/video/x98k3p2.m3u8?sec=bFW1IwuDAuLlBCYsuF1AZsb2aj9tEDgqvfKr6HUTIOrciH5gjbWl6O8VIFeRQMico_CPbL8QHwjYrNrnu2LdAA&dmTs=696291&dmV1st=cee741f5-5cf6-405a-b9a4-dd7f4991a901
 
 #EXTINF:-1 tvg-logo="https://cdn.pusatfilm21.info/wp-content/uploads/2024/05/yTrDmLKZBXXjbMdC0RBxQHaIkqV-60x90.jpg" group-title="FILM INDO",FALLING IN LOVE LIKE IN MOVIES 2023
 https://cold2.gofile.io/download/web/e71fefff-602a-456c-a7eb-3c39806103a0/1080_%5BPUSATFILM21.INFO%5Dfalling-in-love-like-in-movies-2023-WEB-DL.mp4

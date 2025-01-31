@@ -5696,7 +5696,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd
 
 ============================================== LIGA INGGRIS ====================================================LIGA INGGRIS================================================================================================
 
-#EXTINF:-1 tvg-id="Setanta HD" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Setanta HD
+#EXTINF:-1 tvg-id="Setanta HD" tvg-logo="https://drive.google.com/file/d/1ZAqQbh2GTmVDiahwgaBcIR78OkLBfIwX/view?usp=drivesdk" group-title="[LIVE EVENT | LIGA INGGRIS]",Setanta HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

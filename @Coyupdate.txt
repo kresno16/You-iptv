@@ -5703,11 +5703,6 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",TNT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]"https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg", Premier League TV (Jadwal)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5716,62 +5711,54 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]", SETANTA SPORT 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]", SETANTA SPORT 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-id="dazn1_spain" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",🇪🇸 DAZN 1 Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-id="dazn2_spain" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",🇪🇸 DAZN 2 Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]" ,Sky Sports Football
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]" ,Sky Sports Football
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium35/index.m3u8
 
-#EXTINF:-1 tvg-id="Play Sports HD1" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",Play Sports HD1
+#EXTINF:-1 tvg-id="Play Sports HD1" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",Play Sports HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports HD2" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",Play Sports HD2
+#EXTINF:-1 tvg-id="Play Sports HD2" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",Play Sports HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports HD3" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",Play Sports HD3
+#EXTINF:-1 tvg-id="Play Sports HD3" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",Play Sports HD3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 3.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",DAZN 3 [pt]
+#EXTINF:-1 tvg-id="DAZN 3.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",DAZN 3 [pt]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN 4.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",DAZN 4 [pt]
+#EXTINF:-1 tvg-id="DAZN 4.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",DAZN 4 [pt]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5779,14 +5766,14 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd  
 
 
-#EXTINF:-1 tvg-id="DAZN 5.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",DAZN 5 [pt]
+#EXTINF:-1 tvg-id="DAZN 5.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",DAZN 5 [pt]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN 6.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",DAZN 6 [pt]
+#EXTINF:-1 tvg-id="DAZN 6.pt" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",DAZN 6 [pt]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5795,79 +5782,74 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-id="PeacockTV" group-title="[LIVE EVENT | LIGA INGGRIS]"  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",Peacock TV Premier League
+#EXTINF:-1 tvg-id="PeacockTV" group-title="[LIVE EVENT | LIGA INGGRIS]"  tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",Peacock TV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",Peacock 1
+#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",Peacock 1
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",Peacock 2
+#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",Peacock 2
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-name="Canal+ Sport Poland" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Canal+ Sport Poland
+#EXTINF:-1 tvg-name="Canal+ Sport Poland" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Canal+ Sport Poland
 https://webhdrunns.mizhls.ru/lb/premium48/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]", PREMIER SPORT 1 ON
+#EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]", PREMIER SPORT 1 ON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium451/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Diema Sport 2 Bulgaria
 https://webhdrunns.mizhls.ru/lb/premium466/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",beIN Sports MENA 1
+#EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",beIN Sports MENA 1
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="BeIN SPORTS USA" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",BeIN SPORTS USA
+#EXTINF:-1 tvg-name="BeIN SPORTS USA" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",BeIN SPORTS USA
 https://webhdrunns.mizhls.ru/lb/premium425/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Arena Sport 1 Croatia
+#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Arena Sport 1 Croatia
 https://webhdrunns.mizhls.ru/lb/premium432/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Arena Sport 1 Premium
+#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Arena Sport 1 Premium
 https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]", SETANTA SPORT 1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]", SETANTA SPORT 1 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 
-#EXTINF:-1 tvg-name="Nova Sports Premier League Greece" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Nova Sports Premier League Greece
+#EXTINF:-1 tvg-name="Nova Sports Premier League Greece" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Nova Sports Premier League Greece
 https://webhdrunns.mizhls.ru/lb/premium599/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 1 Bar DE
+#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 1 Bar DE
 https://webhdrunns.mizhls.ru/lb/premium426/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2 Bar DE
 https://webhdrunns.mizhls.ru/lb/premium427/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]" , PEACOCK PREMIER LEAGUE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]" , PEACOCK PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5882,7 +5864,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/vk1GHy9/cat-sport.png",
-#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", ARENA SPORT PREMIER LEAGUE
+#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png", ARENA SPORT PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5890,7 +5872,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="CH SPORT", ARENA SPORT 1
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="CH SPORT", ARENA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -5908,13 +5890,13 @@ https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",ARENASPORT 3
+#EXTINF:-1 group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",ARENASPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ==============================LIGA BELANDA===================================================================================================================

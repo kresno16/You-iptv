@@ -5768,12 +5768,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]" ,Sky Sports Football
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -5897,7 +5891,7 @@ https://webhdrunns.mizhls.ru/lb/premium599/index.m3u8|referer=https://lewblivehd
 
 #EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 1 Bar DE
 https://webhdrunns.mizhls.ru/lb/premium426/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2 Bar DE
+#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",DAZN 2 Bar DE
 https://webhdrunns.mizhls.ru/lb/premium427/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]" , PEACOCK PREMIER LEAGUE
@@ -5949,6 +5943,29 @@ https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 #EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="[LIVE EVENT | LIGA INGGRIS]",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="CH SPORT", ARENA SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="CH SPORT", ARENA SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png" group-title="CH SPORT", ARENA SPORT 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+
+
+
 
 ==============================LIGA BELANDA===================================================================================================================
 

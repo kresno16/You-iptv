@@ -571,6 +571,19 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/42AE3BEB79C56924BB3FB477777A9F40/585.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWx6VA9dNluJjtEXI2PIES9IfocDr6d9owaCxt6rL-HdDlxbmNf_WdSEp&amp;s=10" group-title="[LIVE EVENT | LIGA 1]", SPORT STAR 3
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenx.my.id/vision/index2.mpd?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.3677777777
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+
+
+
+
+
 ===========================================VISION PLUS+========================================================================================================
 ==============================================================================================================================================================
 

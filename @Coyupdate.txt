@@ -136,7 +136,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
 ==================PLAY SPORT 3========================================================================================================
 
-#EXTINF:-1 tvg-id="Play Sports HD3" group-title="[LIVE EVENT | LIGA INGGRIS]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",PLAY SPORT3 BRENFORD VS SPURS [LIGA INGGRIS] - 21:00 - (02/02/2025)
+#EXTINF:-1 tvg-id="Play Sports HD3" group-title="[LIVE EVENT]" tvg-logo="https://i.ibb.co.com/whfm260v/Kliwontv-com-20250131-133401-0000.png",PLAY SPORT3 BRENFORD VS SPURS [LIGA INGGRIS] - 21:00 - (02/02/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,21 +146,21 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
 ===================CHAMPIONS TV LIVE EVENT=================================================================================================================
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://ligaterkini.com/wp-content/uploads/2025/01/Juventus-vs-Empoli.png" group-title="[LIVE EVENT | LIGA ITALIA]",Champions TV 1 JUVENTUS VS EMPOLI [LIGA ITALIA] - 18:30 - (02/02/2025)
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://ligaterkini.com/wp-content/uploads/2025/01/Juventus-vs-Empoli.png" group-title="[LIVE EVENT]",Champions TV 1 JUVENTUS VS EMPOLI [LIGA ITALIA] - 18:30 - (02/02/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://www.dailysports.id/upload/xlarge/78ad6ed6402f542477cf9bc9df89db58.jpg" group-title="[LIVE EVENT | LIGA ITALIA]",Champions TV 1  MILAN VS INTER  [LIGA ITALIA] - 00:00 - (03/02/2025)
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://www.dailysports.id/upload/xlarge/78ad6ed6402f542477cf9bc9df89db58.jpg" group-title="[LIVE EVENT]",Champions TV 1  MILAN VS INTER  [LIGA ITALIA] - 00:00 - (03/02/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://www.dailysports.id/upload/xlarge/a3805814f34e1ed92309a412914c01b8.jpg" group-title="[LIVE EVENT | LIGA ITALIA]",Champions TV 1  ROMA VS NAPOLI  [LIGA ITALIA] - 02:45 - (03/02/2025)
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://www.dailysports.id/upload/xlarge/a3805814f34e1ed92309a412914c01b8.jpg" group-title="[LIVE EVENT]",Champions TV 1  ROMA VS NAPOLI  [LIGA ITALIA] - 02:45 - (03/02/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

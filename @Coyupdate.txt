@@ -5736,7 +5736,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
 
-#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="[LIVE EVENT | LIGA BELANDA]",ESPN 2 Nederland FHD
+#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLwYRz9Q6ATUiPQRVcznTRQsM0-QopeTnujkz9S8Ka4w&s" group-title="[LIVE EVENT | LIGA BELANDA]",ESPN 2 [AJAK VS FEYOORD 20.30] WIB 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187

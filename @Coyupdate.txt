@@ -6,9 +6,6 @@
 https://040a321a284e77b5bc3a69efbc34b942.v.smtcdns.net/play.cbalive.weibisai.com/3797639707760061_AiSD.m3u8?txSecret=ea79ae16b8755509c14712529e470ae9&txTime=67A03130
 
 
-
-
-
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/512/276512-SNAPSHOT-m.jpg" group-title="[LIVE]Shopee Cup",ASTRO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
@@ -170,9 +167,6 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 
 
-
-
-
 =======ESPN 2 BELANDA==============================
 
 #EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLwYRz9Q6ATUiPQRVcznTRQsM0-QopeTnujkz9S8Ka4w&s" group-title="[LIVE EVENT]",ESPN 2 [AJAK VS FEYOORD 20.30] WIB 
@@ -180,6 +174,49 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-hdready-avc/NL_000108_019561.mpd?p=starballtv
+
+
+
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1_HPBZ_YHqBLKHvYy3W7b86YvjHkFCNUphO7EXkvWU030w4LQ9tpseUs&amp;s=10" group-logo="",Brentford vs Tottenham Hotspur - 21:00 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19134565
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://thumbor.prod.vidiocdn.com/EERZI_xkKMlTo8fv70P862YL8Yo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/28490/man-utd-vs-crystal-palace-3ecb13.jpg" group-logo="",Manchester United vs Crystal Palace - 21:00 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19134569
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mD3JBtsGs-iA9vcqIY5C5ipnD-bhA3QNex9GmleGX1d7LYMXMGBgsqfN&amp;s=10" group-logo="",Arsenal vs Manchester City - 23:30 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19134564
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKX6GJ51P_tPHLhuAoBSidtLRx61e2FU-CDFG-M36aAqhk26gHDfNuj14&amp;s=10" group-logo="",Juventus vs Empoli - 18:30 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19155291
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhQ8dJflQWbdNow4fHxn8VVcc1Xm2PbhpALdrHPqsC4Eps4t6xQ2yb6g&amp;s=10" group-logo="",Fiorentina vs Genoa - 21:00 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19155290
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/131/2025/01/31/Picsart_25-01-31_11-08-06-375-792560096.png" group-logo="",Eintracht Frankfurt vs VfL Wolfsburg - 21:30 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19154719
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4VA34esJm4KeSGzp6lsJHxCPZ0eTNXpGBjS2nLYgVNjPHotLFKm6HMxg&amp;s=10" group-logo="",Bayer 04 Leverkusen vs TSG Hoffenheim - 23:30 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19154716
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://thumbor.prod.vidiocdn.com/-KkzxIk5TOWcNaoLIpcZSIlpZZg=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4044027/430319.jpg" group-logo="",Valencia vs Celta de Vigo - 22:15 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19135468
+#EXTINF:-1 tvg-id="DWstream" group-title="[LIVE EVENT]" tvg-logo="https://thumbor.prod.vidiocdn.com/g_FuXgEOiJBO1BjHAem-6NDoV_c=/372x211/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4044018/e336b0.jpg" group-logo="",FC Barcelona vs Deportivo Alavés - 20:00 WIB 02-02-2025
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mastertv.tech/towels.m3u8?id=19135469
+
+
+
+
 
 
 

@@ -100,12 +100,27 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="12436511" tvg-name="128" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLwYRz9Q6ATUiPQRVcznTRQsM0-QopeTnujkz9S8Ka4w&s" group-title="[LIVE EVENT]",AJAX VS FEYENOORD  [LIGA BELANDA] - 20:30 - (02/02/2025)
+#EXTINF:-1 tvg-id="12436511" tvg-name="128" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLwYRz9Q6ATUiPQRVcznTRQsM0-QopeTnujkz9S8Ka4w&s" group-title="[LIVE EVENT]",PLAY SPORT1 AJAX VS FEYENOORD  [LIGA BELANDA] - 20:30 - (02/02/2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-id="12436511" tvg-name="128" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Nf0s8Kr8iMYdAOBfFsFWshFxZLWHECPgZWldwACWoQ&s" group-title="[LIVE EVENT]",PLAY SPORT1 ARSENAL VS MAN CITY  [LIGA INGGRIS] - 23:30 - (02/02/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="12436511" tvg-name="3247" tvg-logo="https://api.sofascore.app/api/v1/event/12436511/share-image/16x9" group-title="[LIVE EVENT]",ARSENAL VS TOTTENHAM  [PREMIER LEAGUE] - 03:00 - (16/01/2025)

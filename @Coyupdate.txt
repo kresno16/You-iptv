@@ -212,7 +212,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 
 ========LIGA 1 LIVE EVENT=========================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://linggaupos.bacakoran.co/upload/ddce91d0532c1c41fc153202629cef3d.jpg" group-title="[LIVE EVENT", SPORTSTAR3-AREMA VS BALI UNITED-[LIGA1]-15.00-[03/02/25
+#EXTINF:-1 tvg-logo="https://linggaupos.bacakoran.co/upload/ddce91d0532c1c41fc153202629cef3d.jpg" group-title="[LIVE EVENT]", SPORTSTAR3-AREMA VS BALI UNITED-[LIGA1]-15.00-[03/02/25
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenx.my.id/vision/index2.mpd?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -220,7 +220,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://aksi.co/wp-content/uploads/2025/02/liga-1-psis-semarang-vs-dewa-united.webp" group-title="[LIVE EVENT", SPORTSTAR3-PSIS VS DEWA UNITED-[LIGA1]-18.30-[03/02/25
+#EXTINF:-1 tvg-logo="https://aksi.co/wp-content/uploads/2025/02/liga-1-psis-semarang-vs-dewa-united.webp" group-title="[LIVE EVENT]", SPORTSTAR3-PSIS VS DEWA UNITED-[LIGA1]-18.30-[03/02/25
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenx.my.id/vision/index2.mpd?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/

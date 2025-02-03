@@ -417,6 +417,9 @@ https://stream.hownetwork.xyz/yyy/the-idea-of-you-2024-webdl_X_3880accf/22/480.m
 #EXTINF:-1 tvg-logo="https://i0.wp.com/indofilm.beauty/wp-content/uploads/2019/11/1Du7nW0uv5ETYQ6M9sqpysekWtm.jpg?resize=60%2C90&ssl=1" group-title="DRAMA",ATM ERROR 2012
 https://cdn7iv.diebutx.com/ownhls/2020/b6c9fed01fd21aa3ec575b26c0c68ca6/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/11/film-miss-peregrines-home-for-peculiar-children-2016.jpg.webp" group-title="DRAMA",MISS PEREGRINES HOME PECULIAR CHILDREN 2016
+https://stream.hownetwork.xyz/yyy/miss-peregrines-home-peculiar-children-2016-bluray/8/480.m3u8
+
 
 
 ======================STUDIO GHIBLI===========================================================================================================================

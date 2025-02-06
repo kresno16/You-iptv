@@ -181,7 +181,7 @@ https://stream.hownetwork.xyz/yyy/terrifier-2017-bluray/11/480.m3u8
 https://stream.hownetwork.xyz/yyy/it-2017-bluray/7/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/12/film-the-autopsy-of-jane-doe-2016.jpg.webp" group-title="HOROR", AUTOPSY JANE DOE 2016
-https://hls43-eu.zcdn.stream/555268ee5cee5ee7b7be1c423d34e888/2024-04-26/720.m3u8?token=5c6261ac510ea408d680693aea40667c&client=6fe34c7542624cd2c865ec367608af0a&expires=1738870426&type=edge&asn=138881&node=ilAei0mzh5YiOtld-OzvhoNOa-TkSWj-orKGqclsoz8YValx5S_jOJj2NhfVHC7cA9ExbTYZBtElgK8_tZITAQ
+https://hls43-eu.zcdn.stream/555268ee5cee5ee7b7be1c423d34e888/2024-04-26/video.m3u8?auth=98523806347e5d9669cc0a258d482a82&expires=1738856002&type=edge&asn=138881&node=VH1fXvLNYRlosYP_mTgjLLBPc9J7RVelROQqV1IyJIp5ZcumSCshaljussZ27pHoOf-13fdHCdjcdm1eAZTXmw
 
 ==========================ANIMASI========================================================================================================
 

@@ -312,7 +312,8 @@ https://stream.hownetwork.xyz/yyy/the-super-mario-bros-movie-2023-bluray_X_80486
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-transformers-one-2024-lk21-d21.jpg.webp" group-title="ANIMASI",TRANSFORMERS ONE 2024
 https://stream.hownetwork.xyz/yyy/transformers-one-2024-bluray_X_f212faee/29/480.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2019/08/film-doraemon-nobitas-chronicle-of-the-moon-exploration-eiga-doraemon-nobita-no-getsumen-tansaki-2019-lk21.jpg.webp" group-title="ANIMASI",DORAEMON CHRONICLE OF THE MOON EXPLORATION  2019
+https://stream.hownetwork.xyz/yyy/doraemon-nobitas-chronicle-of-the-moon-exploration-eiga-doraemon-nobita-no-getsumen-tansaki-2019-bluray/3/480.m3u8
 
 
 ============================FILM INDO========================================================================================================================

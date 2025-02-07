@@ -1606,37 +1606,56 @@ https://stream.hownetwork.xyz/yyy/when-the-phone-rings-season-1-episode-11-2024-
 https://stream.hownetwork.xyz/yyy/when-the-phone-rings-season-1-episode-12-2024-webdl_X_fc01ff62/28/480.m3u8
 
 
+=====================================BUSSNIES PROPOSAL SERIES=====================================================================
 
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS1-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-1-2022-hdtv/14/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS2-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-2-2022-hdtv_X_f48bff4c/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS3-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-3-2022-hdtv/14/480.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS4-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-4-2022-hdtv/14/480.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS5-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-5-2022-webrip_X_8778a485/19/480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS6-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-6-2022-hdtv/14/480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS7-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-7-2022-webrip_X_aabd4374/19/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS8-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-8-2022-hdtv/14/480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS9-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-9-2022-webrip/5/480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS10-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-10-2022-hdtv/14/480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS11-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-11-2022-hdtv_X_c98eabee/19/480.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2022/03/film-the-office-blind-date-a-business-proposal-2022-lk21-d21.jpg.webp" group-title="BUSINESS PROPOSAL SERIES",SEASON-1-EPS12-2022
+https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-12-2022-hdtv/14/480.m3u8
 
 
 

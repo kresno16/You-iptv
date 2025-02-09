@@ -339,6 +339,33 @@ https://stream.hownetwork.xyz/yyy/doraemon-nobitas-chronicle-of-the-moon-explora
 #EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/12/film-moana-2-2024-lk21-d21.jpg.webp" group-title="ANIMASI", MOANA 2 2024
 https://stream.hownetwork.xyz/yyy/moana-2-2024-webdl_X_c6cb4093/29/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/11/film-haikyu-the-dumpster-battle-2024-lk21-d21.jpg.webp" group-title="ANIMASI", HAIKYU THE DUMPSTER BATTLE 2024
+https://stream.hownetwork.xyz/yyy/haikyu-the-dumpster-battle-2024-bluray_X_66e74603/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2021/04/film-stand-by-me-doraemon-2-2020-lk21.jpg.webp" group-title="ANIMASI", DORAEMON STAY BY ME 2020
+https://stream.hownetwork.xyz/yyy/stand-by-me-doraemon-2-2020-bluray_X_e26dc36e/18/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2018/08/film-doraemon-the-movie-nobitas-treasure-island-doraemon-nobita-no-takarajima-2018-lk21.jpg.webp" group-title="ANIMASI", DORAEMON TREASURE ISLAND 2018
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-treasure-island-doraemon-nobita-no-takarajima-2018-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/02/film-the-proud-princess-2024-lk21-d21.jpg.webp" group-title="ANIMASI", THE PROUND PRINCESS 2024
+https://cdn2.turboviplay.cc/data1/67a6333bd6891/67a6333bd6891.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/12/film-the-lord-of-the-rings-the-war-of-the-rohirrim-2024-lk21-d21.jpg.webp" group-title="ANIMASI", THE LORD OF THE RINGS THE WAR ROHIRRIM 2024
+https://stream.hownetwork.xyz/yyy/the-lord-of-the-rings-the-war-of-the-rohirrim-2024-webdl_X_19a8cb9d/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-the-bad-guys-haunted-heist-2024-lk21-d21.jpg.webp" group-title="ANIMASI", BAD GUYS HAUNTED HEIST 2024
+https://stream.hownetwork.xyz/yyy/the-bad-guys-haunted-heist-2024-webdl_X_078364fb/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/02/film-the-canterville-ghost-2023-lk21-d21.jpg.webp" group-title="ANIMASI", THE CANTERVILLE GHOST 2023
+https://stream.hownetwork.xyz/yyy/the-canterville-ghost-2023-webdl_X_17f2f69a/20/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/08/film-elemental-2023-lk21-d21.jpg.webp" group-title="ANIMASI", ELEMENTAL 2023
+https://stream.hownetwork.xyz/yyy/elemental-2023-bluray/5/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/07/film-doraemon-the-movie-nobitas-little-star-wars-2021-2022-lk21-d21.jpg.webp" group-title="ANIMASI", DORAEMON LITTLE STAR WARS 2021
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-little-star-wars-2021-2022-bluray/2/480.m3u8
+
 ============================FILM INDO========================================================================================================================
 ==============================================================================================================================================================
 

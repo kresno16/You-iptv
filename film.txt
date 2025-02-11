@@ -87,6 +87,9 @@ https://stream.hownetwork.xyz/yyy/nr-24-2024-webdl_X_b5cf6af1/28/480.m3u8
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-number-24-2024-lk21-d21.jpg.webp" group-title="ACTION",NUMBER 24 2024
 https://stream.hownetwork.xyz/yyy/number-24-2024-webdl_X_5c192264/28/480.m3u8
 
+EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-gladiator-2000.jpg.webp" group-title="ACTION", GLADIATOR 2000
+https://stream.hownetwork.xyz/yyy/gladiator-2000-bluray/7/480.m3u8
+
 =================HOROR================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/12/film-conjuring-the-cult-2024-lk21-d21.jpg.webp".webp" group-title="HOROR",CONJURING 3 2024
@@ -384,6 +387,12 @@ https://stream.hownetwork.xyz/yyy/doraemon-movie-nobitas-secret-gadget-museum-20
 
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2016/07/film-planes-2013.jpg.webp" group-title="ANIMASI", PLANES 2013
 https://stream.hownetwork.xyz/yyy/planes-2013-bluray/2/480.m3u8
+
+EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-inside-out-2015.jpg.webp" group-title="ANIMASI", INSIDE OUT 2015
+https://stream.hownetwork.xyz/yyy/inside-out-2015-bluray/2/480.m3u8
+
+
+
 
 ============================FILM INDO========================================================================================================================
 ==============================================================================================================================================================

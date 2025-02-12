@@ -388,7 +388,7 @@ https://stream.hownetwork.xyz/yyy/doraemon-movie-nobitas-secret-gadget-museum-20
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2016/07/film-planes-2013.jpg.webp" group-title="ANIMASI", PLANES 2013
 https://stream.hownetwork.xyz/yyy/planes-2013-bluray/2/480.m3u8
 
-EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-inside-out-2015.jpg.webp" group-title="ANIMASI", INSIDE OUT 2015
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2015/12/film-inside-out-2015.jpg.webp" group-title="ANIMASI", INSIDE OUT 2015
 https://stream.hownetwork.xyz/yyy/inside-out-2015-bluray/2/480.m3u8
 
 

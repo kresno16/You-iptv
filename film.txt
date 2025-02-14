@@ -1738,22 +1738,25 @@ https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-seas
 https://stream.hownetwork.xyz/yyy/the-office-blind-date-a-business-proposal-season-1-episode-12-2022-hdtv/14/480.m3u8
 
 
-================================SOLO LEVELING==============================================================================================================
+================================STUDY GRUP=============================================================================================================
 
-#EXTINF:-1 tvg-logo="https://ww1.anoboy.app/img/upload/01as-Solo%20Leveling%20(1).jpg" group-title="SOLO LEVELING",SEASON-1-EPS1-2024
-https://s199.vidcache.net:8166/play/a20250210Vgbu21UBcO3/video.mp4?&cid=33044304
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="SaTUDY GROUP",SEASON-1-EPS1-2025
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-1-2025-webdl_X_776be6e0/29/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="SaTUDY GROUP",SEASON-1-EPS2-2025
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-2-2025-webdl_X_4097e8bf/29/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="SaTUDY GROUP",SEASON-1-EPS3-2025
+https://cdn.turboviplay.cc/data1/679c5b6210256/679c5b6210256.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="SaTUDY GROUP",SEASON-1-EPS4-2025
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-4-2025-webdl_X_a8f29da4/29/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="SaTUDY GROUP",SEASON-1-EPS1-2025
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-5-2025-webdl_X_4ed08e1c/29/480.m3u8
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="SaTUDY GROUP",SEASON-1-EPS1-2025
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-6-2025-webdl_X_dde459a5/29/480.m3u8
 
 =====================VOD KINGTV================================================================================================================================
 

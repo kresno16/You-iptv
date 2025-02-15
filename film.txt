@@ -1809,8 +1809,10 @@ EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/11/film-s
 https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-16-2023-webdl_X_6595519a/18/480.m3u8
 
 
+================LOVE SCOUT===============================================================================================
 
-
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/01/film-love-scout-2025-lk21-d21.jpg.webp" group-title="LOVE SCOUT SERIES",SEASON-1-EPS1-2025
+https://stream.hownetwork.xyz/yyy/love-scout-season-1-episode-1-2025-webdl_X_d8509e23/28/480.m3u8
 
 
 

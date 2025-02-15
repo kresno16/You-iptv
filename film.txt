@@ -1805,7 +1805,7 @@ https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-14-2023-
 EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/11/film-sparkling-watermelon-2023-lk21-d21.jpg.webp" group-title="SPARKLING WATERMELON",SEASON-1-EPS15-2023
 https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-15-2023-webdl_X_ebbb032e/18/480.m3u8
 
-EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/11/film-sparkling-watermelon-2023-lk21-d21.jpg.webp" group-title="SPARKLING WATERMELON",SEASON-1-EPS16-2023
+EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/11/film-sparkling-watermelon-2023-lk21-d21.jpg.webp" group-title="SPARKLING WATERMELON SERIES",SEASON-1-EPS16-2023
 https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-16-2023-webdl_X_6595519a/18/480.m3u8
 
 

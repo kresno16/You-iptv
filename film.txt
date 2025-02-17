@@ -469,6 +469,9 @@ https://13nt2qnqm72d.acek-cdn.com/hls2/01/03528/tp37waef62m0_,l,n,.urlset/master
 ====================DRAMA ROMANCE==============================================================================================================================
 ===============================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2015/12/film-fifty-shades-of-grey-2015.jpg.webp" group-title="DRAMA",FIFTY SHADES OF GREY 2015
+https://stream.hownetwork.xyz/yyy/fifty-shades-of-grey-2015-bluray/3/480.m3u8
+
 #EXTINF:-1 tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/02/film-poor-things-2023-lk21-d21.jpg.webp" group-title="DRAMA",POOR THINGS 2023
 https://stream.hownetwork.xyz/yyy/poor-things-2023-webdl_X_c47e8a47/30/480.m3u8
 

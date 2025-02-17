@@ -1758,6 +1758,13 @@ https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-5-2025-webdl_X_4e
 #EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="STUDY GROUP SERIES",SEASON-1-EPS6-2025
 https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-6-2025-webdl_X_dde459a5/29/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="STUDY GROUP SERIES",SEASON-1-EPS7-2025
+https://cdn.turboviplay.cc/data1/67af238a80499/67af238a80499.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/01/film-study-group-2025-lk21-d21.jpg.webp" group-title="STUDY GROUP SERIES",SEASON-1-EPS8-2025
+https://cdn.turboviplay.cc/data1/67af29688ac48/67af29688ac48.m3u8
+
+
 ==============SPARLKING WATERMELON===========================================================================================
 
 

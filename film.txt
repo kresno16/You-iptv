@@ -1771,13 +1771,13 @@ https://cdn.turboviplay.cc/data1/67af238a80499/67af238a80499.m3u8
 https://cdn.turboviplay.cc/data1/67af29688ac48/67af29688ac48.m3u8
 
 
-==============SPARLKING WATERMELON===========================================================================================
+==============THE WITCH===========================================================================================
 
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/02/film-the-witch-2025-lk21-d21.jpg.webp" group-title="THE WITCH SERIES",SEASON-1-EPS1-2025
+https://cdn.turboviplay.cc/data1/67b2b2296b213/67b2b2296b213.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/02/film-the-witch-2025-lk21-d21.jpg.webp" group-title="THE WITCH SERIES",SEASON-1-EPS2-2025
+https://cdn.turboviplay.cc/data1/67b2b7ff030bd/67b2b7ff030bd.m3u8
 
 
 ================LOVE SCOUT===============================================================================================

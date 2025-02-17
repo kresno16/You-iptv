@@ -464,6 +464,10 @@ https://cold2.gofile.io/download/web/e71fefff-602a-456c-a7eb-3c39806103a0/1080_%
 https://13nt2qnqm72d.acek-cdn.com/hls2/01/03528/tp37waef62m0_,l,n,.urlset/master.m3u8?t=qNob6SJv1OsBmjQlsYoRkOljzclrGopzLMS3l2OvP6c&s=1738035893&e=129600&f=17643154&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=138881
 
 
+#EXTINF:-1 tvg-logo="https://www.168ntn.cfd/wp-content/uploads/2025/01/ue9oWMdrHoJuu4bPcmtRenLuOpb.jpg" group-title="FILM INDO", NOKTAH MERAH 2022
+https://www.dailymotion.com/cdn/manifest/video/x8rll06.m3u8?sec=WtkVJ6EB0p55F-dIhRNAnn1-ZINJh4RoIFf4adufqUN-71kCGV9bGouGiOCHPKfsC2GXF7H9P_LDQxJ5RtjT7Q&dmTs=94280&dmV1st=0a962c53-92eb-493b-ac9f-60aa8a04c09d
+
+
 
 
 ====================DRAMA ROMANCE==============================================================================================================================

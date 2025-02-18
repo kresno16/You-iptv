@@ -1787,10 +1787,10 @@ https://cdn.turboviplay.cc/data1/67b2b7ff030bd/67b2b7ff030bd.m3u8
 ================LOVE SCOUT SERIES==============================================================================================
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/01/film-love-scout-2025-lk21-d21.jpg.webp" group-title="LOVE SCOUT SERIES",SEASON-1-EPS1-2025
-https://stream.hownetwork.xyz/yyy/love-scout-season-1-episode-1-2025-webdl_X_d8509e23/28/480.m3u8
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-1-2025-webdl_X_776be6e0/30/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/01/film-love-scout-2025-lk21-d21.jpg.webp" group-title="LOVE SCOUT SERIES",SEASON-1-EPS2-2025
-https://stream.hownetwork.xyz/yyy/love-scout-season-1-episode-2-2025-webdl_X_384e5ebe/28/480.m3u8
+https://stream.hownetwork.xyz/yyy/study-group-season-1-episode-2-2025-webdl_X_4097e8bf/30/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/01/film-love-scout-2025-lk21-d21.jpg.webp" group-title="LOVE SCOUT SERIES",SEASON-1-EPS3-2025
 https://stream.hownetwork.xyz/yyy/love-scout-season-1-episode-3-2025-webdl_X_45e38a04/28/480.m3u8

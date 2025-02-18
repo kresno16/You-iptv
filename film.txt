@@ -1775,7 +1775,7 @@ https://cdn.turboviplay.cc/data1/67af238a80499/67af238a80499.m3u8
 https://cdn.turboviplay.cc/data1/67af29688ac48/67af29688ac48.m3u8
 
 
-==============THE WITCH===========================================================================================
+==============THE WITCH SERIES===========================================================================================
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/02/film-the-witch-2025-lk21-d21.jpg.webp" group-title="THE WITCH SERIES",SEASON-1-EPS1-2025
 https://cdn.turboviplay.cc/data1/67b2b2296b213/67b2b2296b213.m3u8
@@ -1784,7 +1784,7 @@ https://cdn.turboviplay.cc/data1/67b2b2296b213/67b2b2296b213.m3u8
 https://cdn.turboviplay.cc/data1/67b2b7ff030bd/67b2b7ff030bd.m3u8
 
 
-================LOVE SCOUT===============================================================================================
+================LOVE SCOUT SERIES==============================================================================================
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/01/film-love-scout-2025-lk21-d21.jpg.webp" group-title="LOVE SCOUT SERIES",SEASON-1-EPS1-2025
 https://stream.hownetwork.xyz/yyy/love-scout-season-1-episode-1-2025-webdl_X_d8509e23/28/480.m3u8
@@ -1824,7 +1824,7 @@ https://cdn.turboviplay.cc/data1/67b00cd2902d2/67b00cd2902d2.m3u8
 
 
 
-=======================SPARKLING WATERMELON
+=======================SPARKLING WATERMELON SERIES==================================
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/11/film-sparkling-watermelon-2023-lk21-d21.jpg.webp" group-title="TWINKLING WATERMELON SERIES",SEASON-1-EPS1-2025
 https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-1-2023-hdtv/5/480.m3u8
@@ -1873,6 +1873,40 @@ https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-15-2023-
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/11/film-sparkling-watermelon-2023-lk21-d21.jpg.webp" group-title="TWINKLING WATERMELON SERIES",SEASON-1-EPS16-2025
 https://stream.hownetwork.xyz/yyy/sparkling-watermelon-season-1-episode-16-2023-webdl_X_6595519a/18/480.m3u8
+
+
+==============================MELO SERIES 2025======================================
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS1-2025
+https://cdn.turboviplay.cc/data1/67af70fa11f52/67af70fa11f52.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS2-2025
+https://cdn.turboviplay.cc/data1/67af76cd14908/67af76cd14908.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS3-2025
+https://cdn.turboviplay.cc/data1/67af7ca4393cd/67af7ca4393cd.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS4-2025
+https://cdn.turboviplay.cc/data1/67af8280b0f34/67af8280b0f34.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS5-2025
+https://cdn.turboviplay.cc/data1/67af88791d4f9/67af88791d4f9.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS6-2025
+https://cdn.turboviplay.cc/data1/67af8d092d236/67af8d092d236.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS7-2025
+https://cdn.turboviplay.cc/data1/67af92e64450f/67af92e64450f.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS8-2025
+https://cdn.turboviplay.cc/data1/67af98bc7ab82/67af98bc7ab82.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS9-2025
+https://cdn.turboviplay.cc/data1/67af9e9eb8a32/67af9e9eb8a32.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/02/film-melo-movie-2025-lk21-d21.jpg.webp" group-title="MELO SERIES",SEASON-1-EPS10-2025
+https://cdn.turboviplay.cc/data1/67afa481551f3/67afa481551f3.m3u8
+
 
 
 

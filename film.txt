@@ -1567,10 +1567,10 @@ https://stream.hownetwork.xyz/yyy/dark-season-3-episode-8-2017-webdl/14/480.m3u8
 ===================1899 SERIES========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS1-2022
-https://stream.hownetwork.xyz/yyy/1899-season-1-episode-1-2022-webdl/5/480.m3u8
+https://cdn.turboviplay.cc/data2/KzCVB8wMTIFDOUO44FBm/KzCVB8wMTIFDOUO44FBm.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS2-2022
-https://stream.hownetwork.xyz/yyy/1899-season-1-episode-2-2022-webdl/5/480.m3u8
+https://cdn.turboviplay.cc/data2/sXy4wygngFX4uRk3HEty/sXy4wygngFX4uRk3HEty.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2022/11/film-1899-2022-lk21-d21.jpg.webp" group-title="1899 SERIES",SEASON-1-EPS3-2022
 https://stream.hownetwork.xyz/yyy/1899-season-1-episode-3-2022-webdl/5/480.m3u8

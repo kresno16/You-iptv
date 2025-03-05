@@ -398,8 +398,16 @@ https://stream.hownetwork.xyz/yyy/inside-out-2015-bluray/2/480.m3u8
 https://stream.hownetwork.xyz/yyy/doraemon-nobita-and-the-space-heroes-2015-bluray/1/480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2017/02/film-doraemon-nobita-and-the-island-of-miracles-animal-adventure-2012.jpg.webp" group-title="ANIMASI", DORAEMON NOBITA ISLAND MIRACLES 2012
-https://stream.hownetwork.xyz/yyy/doraemon-nobita-island-miracles-animal-adventure-2012-bluray/10/480.m3u8
+#EXTINF:-1 tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/08/film-eiga-doraemon-shin-nobita-no-nippon-tanjou-2016.jpg.webp" group-title="ANIMASI", DORAEMON NOBITA NIPPON TANJOU 2016
+https://cdn2.turboviplay.com/data2/xpSKKQvcKTpI8V1mMRjr/xpSKKQvcKTpI8V1mMRjr.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/12/film-memoir-of-a-snail-2024-lk21-d21.jpg.webp" group-title="ANIMASI", MEMOIR OF A SNAIL 2024
+https://stream.hownetwork.xyz/yyy/memoir-of-a-snail-2024-webdl_X_14669098/26/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/06/film-chicken-run-2000.jpg.webp" group-title="ANIMASI", CHICKEN RUN 2000
+https://stream.hownetwork.xyz/yyy/chicken-run-2000-bluray/21/480.m3u8
+
+
 
 ============================FILM INDO========================================================================================================================
 ==============================================================================================================================================================

@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>VODMIMIPIPI</title>
-<script language="javascript">
-  window.location = "https://youtu.be/lAsKeGj6Vi0?si=PBFKyXd3AT3lsv-8";
-</script>
-</head>
- 
-
 #EXTM3U
 
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",- INDO VS LEBANON

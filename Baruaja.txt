@@ -254,8 +254,31 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev1.m3u8
 #EXTVLCOPT:http-referrer=https://adtv.ae/
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Pec1.m3u8
 
-    
 
+-----BEIN SPORT ARAB
+
+
+#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 1
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
+
+#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8
+
+#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 3
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
+
+#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BBEIN S ARAB 4
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs4.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
+
+#EXTINF:-1 group-title="☆BEIN_GROUP☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 5
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs5.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+
+
+-------USA NETWORK
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8V4iJK-XB-HRo05H6NrwPQqL6Ij4vgCGIQrJQy4wzQfDN2hc7lTBK7CZ&s=10" group-title="SPORTS", USA NETWORK  
 #KODIPROP:inputstream.adaptive.license_type=clearkey

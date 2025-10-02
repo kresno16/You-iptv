@@ -248,14 +248,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev1.m3u8
 
  
-  
-  
-  
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/gP8cdjt/adsports2premium.png" group-title="SPORTS", ABU DHABI SPORTS PREMIUM 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://adtv.ae
 #EXTVLCOPT:http-referrer=https://adtv.ae/
-#https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Pec1.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/DD31pjJN/starzplsp.png" group-title="SPORTS", Starzplay Sports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

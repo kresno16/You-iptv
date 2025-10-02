@@ -252,7 +252,7 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://adtv.ae
 #EXTVLCOPT:http-referrer=https://adtv.ae/
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Pec1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev2.m3u8
 
 
 -----BEIN SPORT ARAB

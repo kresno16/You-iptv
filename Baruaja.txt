@@ -412,19 +412,19 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
   
 -----DAZN PORTUGAL
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS",DAZN1
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1730196750000&quality=70" group-title="SPORTS",DAZN1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS",DAZN2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZOImmU97it6Dc9Seg6BPlr4pZ8A8GB8jqd1t_8BPqA&s" group-title="SPORTS",DAZN2
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS",DAZN3
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=mbe2u8k3c1yl1atl7p40rb76l_image-header_pRow_1730196810000&quality=70" group-title="SPORTS",DAZN3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS",DAZN4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMq4pKD19XgvpkEY6naY9oL2p5EqaJ3a5HnkfLYSHqJw&s" group-title="SPORTS",DAZN4
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="SPORTS",DAZN5
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1anwtxog0d0h51nubkd9lacqnu_image-header_pRow_1730196870000&quality=50" group-title="SPORTS",DAZN5
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 

@@ -442,7 +442,17 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 
+------PLAY SPORTS
 
+
+#EXTINF:-1 tvg-id="playsports1.be" tvg-name="BE| PLAY SPORTS 1 HD" tvg-logo="https://lo1.in/belg/plysp1.png" group-title="🎾SPORT1🎾",PLAY SPORTS 1 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28015.m3u8
+
+#EXTINF:-1 tvg-id="playsports2.be" tvg-name="BE| PLAY SPORTS 2 HD" tvg-logo="https://lo1.in/belg/plysp2.png" group-title="🎾SPORT1🎾",PLAY SPORTS 2 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28014.m3u8
+
+#EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE| PLAY SPORTS 3 HD" tvg-logo="https://lo1.in/belg/plysp3.png" group-title="🎾SPORT1🎾",PLAY SPORTS 3 HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28013.m3u8
 
 
 

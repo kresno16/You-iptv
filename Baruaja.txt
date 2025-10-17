@@ -442,17 +442,25 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
 
 
-------PLAY SPORTS
+------SPORTS SLOVAKIA
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/21/e9/0e/21e90e178676653c88cf4c51ccbc792c.jpg" group-title="SPORTS",SPORT 1 SLOVAKIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="playsports1.be" tvg-name="BE| PLAY SPORTS 1 HD" tvg-logo="https://lo1.in/belg/plysp1.png" group-title="🎾SPORT1🎾",PLAY SPORTS 1 HD
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28015.m3u8
-
-#EXTINF:-1 tvg-id="playsports2.be" tvg-name="BE| PLAY SPORTS 2 HD" tvg-logo="https://lo1.in/belg/plysp2.png" group-title="🎾SPORT1🎾",PLAY SPORTS 2 HD
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28014.m3u8
-
-#EXTINF:-1 tvg-id="playsports3.be" tvg-name="BE| PLAY SPORTS 3 HD" tvg-logo="https://lo1.in/belg/plysp3.png" group-title="🎾SPORT1🎾",PLAY SPORTS 3 HD
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/28013.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/63/79/ad/6379adbe922802b7bfece16afe84eede.jpg" group-title="SPORTS",SPORT 2 SLOVAKIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 
 

@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",- INDO VS LEBANON
-https://fhlsport121.fgs37g8.xyz/token-IEJ%2Bk7iQK%2FOG72UtwvY6kWqHlJvV1n%2FjaXOjkqUcE2XysuScHUFdD40vqBVAWk9JBCeIwzdom%2Fdwa/cfall/s2001/v3b/no77o16onUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_616685.m3u8
-
 
   
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",ESPN 1 - CONCACAF
@@ -159,7 +156,7 @@ https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.ast
   
   
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/aspre.jpg" group-title="SPORTS",Astro Premier League
-http://stream1.amtv.my.id:1999/stream/hub/aspl1/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=sLQGEFYc8nHEKeN6IsRfnsmBcNS2mPkN
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
   
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="SPORTS",Astro Sports Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey

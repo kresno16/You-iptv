@@ -541,19 +541,28 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/
 
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="ARG - TNT SPORTS HD" tvg-logo="http://212.102.60.73/logos/tnt-sports.jpg" group-title="SPORTS",TNT SPORTS PREMIUM BR
 http://alphaplayer.ddns.net:25461/blaynielly@gmail.com/ba919454f7753219fbf37f07a2b2641aba1ff61e7b04c8db78ca78b9208f4cf169131aed679d126f5fc7d1eb598ff1c39ab89b92d5ad01197a7870d4e721457b/6844  
-  
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Cvdp6KX-pXF_WxhrodfZk9hTu746qOdjAg&usqp=CAU" group-title="SPORTS",TNT Sports Premium mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0jaXisLotZQYYR7B_BdbHFve_Rhq5HodBzqvlYBx-8b0l1JjhVfmOzjH&s=10" group-title="SPORTS", NBC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(nbcsportspeacock)/master.mpd?token=sQAqZox2VP0Eaf4tnOuC5igEjvj4pkZo  
-  
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8a/41/ae/8a41ae68e8c67f9f0ff614c01e462d84.jpg" group-title="SPORTS", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+
 -----SPORT TV PORTUGAL
 
   
@@ -575,12 +584,12 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u
 -------STAR SPORT  
   
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgg5-qiSnaSf1-KClSkdLfhLYjjQhl5Zzktm8Pqd-cazwKx84AtjSRjzG&s=10" group-title="SPORTS",STAR SPORTS SELECT 1
-http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel.m3u8
 
   
 
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest/scale-to-width-down/250?cb=20191214232359" group-title="SPORTS",STAR SPORTS 2
-http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8  
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956" group-title="SPORTS",STAR SPORTS SELECT 2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8  
   
   
   

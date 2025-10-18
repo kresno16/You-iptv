@@ -131,7 +131,7 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
   
 -------ASTRO   
   
-#EXTINF:-1 tvg-id="Astroarena.my" tvg-logo="https://i.ibb.co.com/mVbZPcCs/20250128-200055.jpg" group-title="SPORTS",Astro Arena 
+#EXTINF:-1 tvg-id="Astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Astro_Arena_1_%282024%29.png/960px-Astro_Arena_1_%282024%29.png" group-title="SPORTS",Astro Arena 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -142,7 +142,7 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 https://aged-cherry-fbb4.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd?PID=&PAID=2604&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-82ed7dab-eae9-4c26-90a7-4e5f59041d3c&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=genre~HD%2CSPORTS%2CALL  
   
   
-#EXTINF:-1 tvg-id="Astroarena2.my" tvg-logo="https://i.ibb.co.com/dJ70nMXH/20250128-200317.jpg" group-title="SPORTS",Astro Arena 2
+#EXTINF:-1 tvg-id="Astroarena2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="SPORTS",Astro Arena 2
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -157,7 +157,7 @@ https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.ast
 ------ASTRO  
   
   
-#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/tvbox173/Ol/refs/heads/main/aspre.jpg" group-title="SPORTS",Astro Premier League
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro SuperSport HD" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroPremierLeague.jpg" group-title="SPORTS",Astro Premier League
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
   
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="SPORTS",Astro Sports Plus

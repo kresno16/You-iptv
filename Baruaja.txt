@@ -583,12 +583,12 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u
 
 -------STAR SPORT  
   
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgg5-qiSnaSf1-KClSkdLfhLYjjQhl5Zzktm8Pqd-cazwKx84AtjSRjzG&s=10" group-title="SPORTS",STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/p65evlJ.jpeg" group-title="SPORTS",STAR SPORTS SELECT 1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel.m3u8
 
   
 
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956" group-title="SPORTS",STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5989affc420c3c1917b60341/1600329108394/Star-Sports-Select-2_logo.png?tx=w_350" group-title="SPORTS",STAR SPORTS SELECT 2
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8  
   
   

@@ -37,8 +37,7 @@ https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.ast
   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_0OYAorNe4qVByiLAO5Qbu6BQVRrtFJGZkoV6vh_Uag&s=10" tvg-id="" group-title="🔴LIVE EVENT", DAZN 1 ITALIA
 #EXTVLCOPT:http-referrer=https://embedstreams.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://157.20.32.131:7860/proxy?url=https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1  
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
 

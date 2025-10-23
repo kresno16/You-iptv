@@ -2092,14 +2092,17 @@ https://op-group1-swiftservehd-1.dens.tv/s/s16/01.m3u8
 #EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraEnglish.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8  
   
-  
+ 
 
-#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 group-title="NEWS WORLD" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="foxNEWS.tv" tvg-logo="https://i.imgur.com/XB8EXkv.jpg",FOX NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
 https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
-  
-  
+
+
+ 
   
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/423_144.png" group-title="NEWS WORLD",CNBC Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

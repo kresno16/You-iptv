@@ -701,13 +701,71 @@ https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="SPORTS", ElevenSport4
 https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8  
   
+--------------SPORTSNET  
   
-  
-  
-  
-  
-  
-  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet 360
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d770eb2ba9b734d1981671030e1abacd:a472809951c88a96b16d1ff1d449257b
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet East
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet One
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba16fb93934531bf931ae186d73fb2b7:f88ffdfbdd9ab75e8af374c588df6b0b
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet Ontario
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=afe8540f6d4d34529b91a2d30f4f1b77:3ce2343100c5a5c4365bc3e4c33bb473
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet Pacific
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a52d3064c138ce9f5f65a9b40376ef:8331044e3361ad7e09d3a9474edb88d2
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet West
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1200px-Logo_Sportsnet_2011.svg.png" group-title="SPORTS",Sportsnet World
+SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
+
   
   
   

@@ -100,9 +100,10 @@ https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
 
 ---------STANTA SPORT
 
-EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",STANTA SPORT
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",STANTA SPORT
 https://ott.watch/stream/D3FX33QMIH1/234.m3u8
-EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",STANTA SPORT 2
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",STANTA SPORT 2
 https://ott.watch/stream/D3FX33QMIH1/235.m3u8
 
 

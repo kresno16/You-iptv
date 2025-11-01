@@ -98,15 +98,16 @@ https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfrQsDVP4gnqL6uJD0hARDQ 
 https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
 
----------STANTA SPORT
+---------SETANTA SPORT
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",STANTA SPORT
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ttusrw1445657002.png" group-title="SPORTS",SETANTA SPORT
 https://ott.watch/stream/D3FX33QMIH1/234.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",STANTA SPORT 2
+#EXTINF:-1 tvg-logo="https://www.balticom.lv/assets/images/channels/Setanta%20Sports%202.png" group-title="SPORTS",SETANTA SPORT 2
 https://ott.watch/stream/D3FX33QMIH1/235.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129023659563054_89.png" group-title="SPORTS",SETANTA SPORT 3
+https://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
 --------COSMOTE YUNANI
 

@@ -100,14 +100,19 @@ https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
 
 ---------SETANTA SPORT
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ttusrw1445657002.png" group-title="SPORTS",SETANTA SPORT
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT
 https://ott.watch/stream/D3FX33QMIH1/234.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.balticom.lv/assets/images/channels/Setanta%20Sports%202.png" group-title="SPORTS",SETANTA SPORT 2
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT 2
 https://ott.watch/stream/D3FX33QMIH1/235.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129023659563054_89.png" group-title="SPORTS",SETANTA SPORT 3
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT 3
 https://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT 4
+https://ott.watch/stream/D3FX33QMIH1/390.m3u8
+
+
 
 --------COSMOTE YUNANI
 

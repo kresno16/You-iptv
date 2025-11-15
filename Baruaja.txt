@@ -1130,14 +1130,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=phbv2KS1cMMeKwhto9jRbbYI5ahRlKM2
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO",HBO
 https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=phbv2KS1cMMeKwhto9jRbbYI5ahRlKM2
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO",HBO Hits
 https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd  
   
@@ -1145,7 +1145,7 @@ https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=phbv2KS1cMMeKwhto9jRbbYI5ahRlKM2
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO",HBO Family 
 https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
@@ -1157,14 +1157,14 @@ https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=phbv2KS1cMMeKwhto9jRbbYI5ahRlKM2
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO",HBO Signature
 https://cdnjkt913.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd  
   
 #Khttps://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpgODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=phbv2KS1cMMeKwhto9jRbbYI5ahRlKM2
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="HBO",Cinemax 
 https://cdnjkt913.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd  
   
@@ -1172,7 +1172,7 @@ https://cdnjkt913.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="WarnerTV" group-title="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjD5Zz7f8Hb4ap9aDWnuZwrreCjgQhgpdeg&s", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=phbv2KS1cMMeKwhto9jRbbYI5ahRlKM2
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 

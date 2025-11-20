@@ -974,11 +974,12 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ce0PQeFODBCLQQhNy11k8FuVHZrrmm8Ehw&s" group-title="NASIONAL", MOJI 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd  
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd  
+##EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/moji/manifest.mpd
+
+
+  
   
 -----MDTV   
     
@@ -1236,6 +1237,10 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
   
 
 
+--------------------------
+       HBO INDIHOME
+--------------------------
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png" group-title="HBO",HBO Family Indihome
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1243,9 +1248,28 @@ https://cors-proxy.wangzhishi.net/https://linearjitp-playback.astro.com.my/dash-
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cinemax_new.png" group-title="HBO",Cinemax indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd  
+  
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO",HBO Signature indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="WarnerTV" group-title="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjD5Zz7f8Hb4ap9aDWnuZwrreCjgQhgpdeg&s", Warner TV indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 ---------------------------
        TRANSVISION
 ---------------------------

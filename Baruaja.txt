@@ -1194,7 +1194,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cinemax_new.png" group-title="HBO",Cinemax FMX
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd  
-  
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd  
   
   
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="HBO",HBO FMX

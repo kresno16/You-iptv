@@ -2199,13 +2199,15 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 -----------------------
   
 
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="" tvg-logo="http://adp-premium.my.id/logo/cnn1.jpg" group-title="NEWS WORLD",CNN International
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c  
- https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd 
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="http://adp-premium.my.id/logo/cnn1.jpg" group-title="NEWS WORLD",CNN INT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
-  
+
 #EXTINF:-1 tvg-id="514.astro" tvg-logo="http://adp-premium.my.id/logo/skynews.jpg" group-title="NEWS WORLD",Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=00033f7dcc4fa16f91a862f6d8420902:50cfec3c8d2bf51d41cce44f74781edf
@@ -2219,13 +2221,16 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://op-group1-swiftservehd-1.dens.tv/s/s16/01.m3u8
 
 
+
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26:9bc7381a1be526b2e0f74eb036819f26
-#EXTINF:-1 group-title="NEWS WORLD" tvg-id="AlJazeeraEnglish.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera English
-https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd  
-  
- 
+#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png" group-title="NEWS WORLD",ALJAZEERA ENGLISH
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
+
+
 
 
 #EXTINF:-1 group-title="NEWS WORLD" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="foxNEWS.tv" tvg-logo="https://i.imgur.com/XB8EXkv.jpg",FOX NEWS
@@ -2323,10 +2328,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTINF:-1 tvg-id="__" group-title="KIDS" tvg-logo="https://thumbor.prod.vidiocdn.com/E1W2EPL2nPhyqsqMXsqYzV43N7s=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg",Horee!
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd  
-  
-  
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://thumbor.prod.vidiocdn.com/E1W2EPL2nPhyqsqMXsqYzV43N7s=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/i" group-title="KIDS",HOREE
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd  
   
   
 ------------------------------

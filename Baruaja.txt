@@ -114,24 +114,16 @@ https://ott.watch/stream/D3FX33QMIH1/390.m3u8
 
 
 
---------COSMOTE YUNANI
+--------ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn.png" group-title="SPORTS" ch-number="22" type="channel",ESPN 🇨🇴
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 1
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-1.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 2
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-2.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 3
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-3.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 4
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-4.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 5
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-5.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 6
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-6.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 7
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-7.m3u8?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" group-title="SPORTS",COSMOTE SPORTS 8
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/cosmote-sport1-8.m3u8?raw=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn2.png" group-title="SPORTS",ESPN 2 🇨🇴
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 
 

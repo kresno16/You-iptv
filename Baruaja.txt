@@ -2267,7 +2267,15 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 --------------------------
   		KIDS
 --------------------------
- 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://www.dreamworks-asia.com/share.jpg" group-title="KIDS",DREAMWORKS (VS+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXAgrg_xtnSmzfQQI5WUew54HHop_8FHG5fpURaoqxZmV1btj6ooiOVEX&s=10" group-title="KIDS",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey

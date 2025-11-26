@@ -98,19 +98,13 @@ https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfrQsDVP4gnqL6uJD0hARDQ 
 https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
 
----------SETANTA SPORT
+---------CANAL SPORT
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT
-https://ott.watch/stream/D3FX33QMIH1/234.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="42" tvg-name="CANAL+ Sport" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/2ad30d55-d7cc-4348-991d-3c8417c1d617" catchup-days="7" catchup="shift" group-title="SPORTS", CANAL+ Sport
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
+https://op.sajmi.org/play/CANAL%2B%20Sport.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT 2
-https://ott.watch/stream/D3FX33QMIH1/235.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT 3
-https://ott.watch/stream/D3FX33QMIH1/313.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/08/11090848/Setanta-Sports-Boiler-Plate-Revised-Logo.jpg" group-title="SPORTS",SETANTA SPORT 4
-https://ott.watch/stream/D3FX33QMIH1/390.m3u8
 
 
 

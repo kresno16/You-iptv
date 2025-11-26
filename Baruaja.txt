@@ -132,7 +132,7 @@ https://op.sajmi.org/play/Nova%20Sport%202.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 https://op.sajmi.org/play/Nova%20Sport%203.m3u8
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="33" tvg-name="Nova Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/377822b0-7811-4a92-8198-12a07c29e5be" catchup-days="7" catchup="shift" group-title="WORLD SPORTS", Nova Sport 4
+#EXTINF:-1 provider="Oneplay" tvg-chno="33" tvg-name="Nova Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/377822b0-7811-4a92-8198-12a07c29e5be" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 4
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 #KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
 https://op.sajmi.org/play/Nova%20Sport%204.m3u8

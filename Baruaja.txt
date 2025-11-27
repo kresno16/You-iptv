@@ -141,6 +141,30 @@ https://op.sajmi.org/play/CANAL%2B%20Sport%207.m3u8
 https://op.sajmi.org/play/CANAL%2B%20Sport%208.m3u8
 
 
+
+-------sky sport nz
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd1.png" group-title="SPORTS",SKY SPORT 1
+https://dice-live-oc.akamaized.net/hdntl=exp=1764236486~acl=%2f*~id=9cda39b4-2531-4f5a-8c53-e115a1e7e9c1~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1MTUmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=e6063e41b8e9cb504c65db043e30ce35220a216ee4bf4120d19b21bc4ff33549/dash/live/2093682/219026-311906/manifest-d.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd2.png" group-title="SPORTS",SKY SPORT 2
+https://dice-live-oc.akamaized.net/hdntl=exp=1764236494~acl=%2f*~id=25b91a5b-7fac-42f7-b8c7-baf5dc83aefc~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1MjMmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=01904f193b346bb944a398f9d92c8123f3dabab48227d9b73edbbb07ca8c5fd5/dash/live/2093681/219027-311905/manifest-d.mpd
+
+
+
+
+
+
+
+
 --------NOVA
 
 

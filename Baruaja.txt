@@ -142,80 +142,19 @@ https://op.sajmi.org/play/CANAL%2B%20Sport%208.m3u8
 
 
 
--------sky sport nz
+-------TW sport 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKRXgPqx89gXAzOWhdttDjUdWqeK9tMdjduTNhs8ErqSTSgWiJz-4hu9O&s=10",TW SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ncdn.telewebion.com/sport1/live/playlist.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd1.png" group-title="SPORTS",SKY SPORT 1
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236486~acl=%2f*~id=9cda39b4-2531-4f5a-8c53-e115a1e7e9c1~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1MTUmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=e6063e41b8e9cb504c65db043e30ce35220a216ee4bf4120d19b21bc4ff33549/dash/live/2093682/219026-311906/manifest-d.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKRXgPqx89gXAzOWhdttDjUdWqeK9tMdjduTNhs8ErqSTSgWiJz-4hu9O&s=10",TW SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ncdn.telewebion.com/sport2/live/playlist.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd2.png" group-title="SPORTS",SKY SPORT 2
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236494~acl=%2f*~id=25b91a5b-7fac-42f7-b8c7-baf5dc83aefc~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1MjMmZWlkPTIxOTAyNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=01904f193b346bb944a398f9d92c8123f3dabab48227d9b73edbbb07ca8c5fd5/dash/live/2093681/219027-311905/manifest-d.mpd
-
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd3.png" group-title="SPORTS",SKY SPORT 3
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236501~acl=%2f*~id=95a19b5a-ce29-41ae-aa21-bb8c3f0cafc4~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1MzEmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=010752276f82c5eb2390c5d5b274091d64ae22936e1203d00378300603018b68/dash/live/2093680/219028-311904/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd4.png" group-title="SPORTS",SKY SPORT 4
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236509~acl=%2f*~id=49a18cd7-73e8-4620-8497-47d650c36ddd~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1MzgmZWlkPTIxOTAyOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=627c5a3037cf98b94830ae51b9183ccc79a2cb3717a6b3919a67c64c0815d333/dash/live/2093679/219029-311903/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd5.png" group-title="SPORTS",SKY SPORT 5
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236517~acl=%2f*~id=a5a77f59-2801-485c-8ddf-5d68e0177d31~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1NDYmZWlkPTIxOTAzMiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=21ba4b05143788dde44369ec277c7593d8266e573c398f6d95114e8640e45c6c/dash/live/2093678/219032-311902/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd6.png" group-title="SPORTS",SKY SPORT 6
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236525~acl=%2f*~id=b6dbe3a1-8747-4a6d-b1aa-5b5072d9ba08~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1NTQmZWlkPTIxOTAzMyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=69826e0a871ce35e4d61ed140c21ab17f12b771c6a1227f1f16f0f845901b17b/dash/live/2093677/219033-311901/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd7.png" group-title="SPORTS",SKY SPORT 7
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236532~acl=%2f*~id=6fb2a7e3-a659-461b-a56f-4b59ef7fe360~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1NjImZWlkPTIxOTAzNCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c23b82166f372a4cad23562811bb7f268ca82b2a344659d199c0793310ac828a/dash/live/2093676/219034-311900/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd8.png" group-title="SPORTS",SKY SPORT PL
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236540~acl=%2f*~id=b73a79be-73c9-428e-951a-2d6356439711~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1NzAmZWlkPTIxOTAzNSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=6f7cabb6cc2682d7900b9524bbfc7b27847fda18f68dc6438a208a5f6a6f238e/dash/live/2093675/219035-311899/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd9.png" group-title="SPORTS",SKY SPORT 9
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236548~acl=%2f*~id=f45f9b70-8386-4811-9709-d83533858990~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1NzcmZWlkPTIxOTAzNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=f6ccac94742258950743db15cf0de5a0edebc5ba47e2fcea678f3b7cfdb70d35/dash/live/2093674/219036-311898/manifest-d.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/sky-sport-select-nz.png" group-title="SPORTS",SKY SPORT SELECT
-https://dice-live-oc.akamaized.net/hdntl=exp=1764236556~acl=%2f*~id=bee11b61-2eb3-4cee-9366-a758d0f88dd1~data=hdntl,dWlkPTU3MjQwMXxkY2Uuc2t5bnomaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjQyMzY1ODUmZWlkPTIxOTAzNyZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=539834f197ac4c28348d26a02e112fdef86d1cff1cd977f5373d5190e74bc850/dash/live/2093673/219037-311895/manifest-d.mpd
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKRXgPqx89gXAzOWhdttDjUdWqeK9tMdjduTNhs8ErqSTSgWiJz-4hu9O&s=10",TW SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ncdn.telewebion.com/sport3/live/playlist.m3u8
 
 
 

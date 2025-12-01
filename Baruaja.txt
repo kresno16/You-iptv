@@ -1207,7 +1207,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
   
   
 ---------------------------------
-  			HBO
+  			HBO TRANSVISION
 ---------------------------------
   
 
@@ -1233,8 +1233,6 @@ https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO",HBO Family 
 https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-
 
 
   
@@ -1263,15 +1261,14 @@ https://cdnjkt913.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b53
 
 
 
+--------STUDIO UNIVERSAL
 
    
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-QI_Ep6K9gjHqEP8tuCG36DHegdBs30qAmxI3fUfOCrCGr3hM0xF1UM&s=10" group-title="HBO" tvg-id="" , STUDIO UNIVERSAL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
   
 ---------------------
       HBO FMX

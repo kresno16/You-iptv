@@ -1358,10 +1358,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 -----------ROCK ACTION
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://images.indihometv.com/assets/88_ROCKENTERTAINMENT_2025_03_17_15_03_43.png",Rock Entertainment
+#EXTINF:-1 group-title="HBO" tvg-logo="https://thumbor.prod.vidiocdn.com/aB7zqnahqtla1nvWNleWxGfjLaI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8120/rock-entertainment-e26da1.jpg",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://images.indihometv.com/assets/88_ROCKACTION_2025_03_17_14_48_54.png",Rock Action
+#EXTINF:-1 group-title="HBO" tvg-logo="https://thumbor.prod.vidiocdn.com/1bHJE8jzAfdHr_zMSs216Ya-pGk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 

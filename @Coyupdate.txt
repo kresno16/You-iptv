@@ -1,471 +1,157 @@
-==================CCTV LAMPUNG==================================
-
-  
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",TUGU ADIPURA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/76b59f11-87e6-485d-9259-a19ed391b30e/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",TUGU JUANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/8e0256c9-e977-4672-876b-a1e1a97f0f74/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",PEMKOT LAMPUNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/6ea1b519-422a-47d0-a598-808fcf0717cd/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG 3 JL. RA BASYID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/a680b257-7e96-4249-8c74-c206e5283b53/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",STASIUN TANJUNG KARANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/5a39939e-bce5-42d2-8c79-5ad02b3f9710/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG ITERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/d5a10dd6-2c8f-4f5e-8aef-4d42051054cb/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",PKOR WAY HALIM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/97384750-b35f-4652-867c-58ed0db99281/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL. WOLTER M (GUBERNURAN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/1e52d80f-5a0f-430c-8b35-b5f30902f944/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",MALL BUMI KEDATON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/af799ab1-1403-4d5a-ae4a-24790bc1edb3/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG PASAR TUGU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/ee11ad72-c637-48ee-be4b-4f45e5d17f90/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",POLSEK TJ.SENENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/23db0e38-3626-40e8-adab-49b5bf6a7b5c/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL. ANTASARI SIMPANG MORO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/85137558-75eb-4332-8882-399aae5be844/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL. GAJAH MADA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/4b752cbb-13b4-468a-b7aa-7f8696937576/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",MASJID AGUNG AL FURQON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/15403726-d7d5-4d0a-adc5-d74a3a57bef1/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG BKP KEMILING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/8f909f40-f837-451e-93a2-163fe33015bd/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", SIMPANG GRAMEDIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/e21ec11b-da22-485b-8cc0-5dc3034c3478/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",PENABUR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/fec14dbc-b9cd-4b37-b626-ace81329245c/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",TAMRIN SIMPANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/af925669-f16f-48d1-9dc8-f892f4c9bd12/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL.DIPONEGORO - JL DR WARSITO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/aae7e57e-5b34-4bb2-b803-d6ad9a7eb622/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SUDIRMAN - M YAMIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/f538f08b-7362-4697-87b2-4330c9e62a34/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",FLY OVER KEMILING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/36e5044f-b13c-4573-b25c-11d3b002eb1a/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL.ZA PAGAR ALAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/0d5c7fea-dcb3-482e-be7b-bea4107b373d/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",BUNDARAN RADEN INTAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/3e9ceb05-e35f-4ef5-b3ec-293201d9de22/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL.URIP S - JL ARIF R
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/dbd028d9-fe0b-4cd4-b2c1-7f05bcc4a81f/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", TJ KARANG MALL RAMAYANA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/3149a099-83c9-49cf-a2bb-48cd35fc5941/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG MANGONSIDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/b0e398fc-5607-443a-bc37-0c1ddc9d05e6/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",CUT MUTIA DIPONEGORO GULAK GALIK 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/0bb1f64b-a567-4bb3-b8a1-3c649abb3eeb/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG CHANDRA KARANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/0c7a28b4-f539-45e5-b532-09486575877d/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",STADION PAHOMAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/46199775-2c56-43db-8a02-41b3bf5c46ee/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",JL TEUKU UMAR MAKAM PAHLAWAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/785827ce-46df-4de0-a860-aa2df881afc3/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG SUKARAME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/2552f220-9d3e-4ecc-b65c-9e8850d6b178/index.m3u8?_HLS_msn=460&_HLS_part=6
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG BAMBU KUNING
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/50751806-037c-46ce-a14d-2c660a3dc3c0/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG JL P .TIRTAYASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/a4b83316-506a-42e0-a872-40063119d9ce/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",SIMPANG SIMPUR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/d0927f4d-7bed-43fc-8b5e-4cc995474f5c/index.m3u8?_HLS_msn=317&_HLS_part=11
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",RS ADVENT SIMPANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/e81868e6-b584-4d80-9655-98c3e3886399/index.m3u8?_HLS_msn=464&_HLS_part=9
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",GOLF UIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/6493e38a-5c57-4c49-869e-8f700eb6a015/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG",CUCIAN ANDRE SOEKARNO HATTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/794d30f8-b255-47fd-bc18-310ad9066c02/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", KI MAJA SIMPANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/bed46abb-9ff7-4d56-a292-475adfe39e1f/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", JL SOEKARNO HATTA -SMP 19 BALAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/3f274812-645c-4ded-89b6-2fce348a16f6/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", UNDERPASS TEROWONGAN UNILA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/d2296edc-2b88-4ba6-8067-6fc9585eee3e/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", JL SUDIRMAN PAHOMAN PUTI MINANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/c8ffcd31-6a35-4a18-b923-fc2a9ea119d8/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", SIMPANG PANJANG TELUK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/25d8cf4f-a4dd-47f9-9315-95638a431f1e/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", TERMINAL RAJABASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/95f5a70f-39ab-4977-a148-9ef25ec1dc95/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", MALL KARTINI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/5b99c666-414b-4526-bb50-5bd1798d363d/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", JL WR MANGONSIDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/40364dfd-d571-43fd-a02c-09192585978c/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", TRANSMART/TRANS STUDIO LAMPUNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/6f1f743d-a3ea-4798-ae14-693c3e773ad3/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", LAMPUNG CITY MALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/e807c655-ba23-46f6-8500-fec9d6623ff1/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", SIMPANG WAY LUNIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/2a9887e9-ed7e-4a84-99a2-e545c051a892/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", SIMPANG JL P.DAMAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/7be76d66-0a11-42aa-9225-62c80c6a54af/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", WAY HALIM PERMAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/e94994eb-994f-4b2f-b506-2d84fb6046b7/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", LAMPU MERAH JL URIP S-SOEKARNO HATTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/db990527-fdfa-4df2-a452-aa7868a06346/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", TUGU PENGANTIN CENTRAL PLAZA (CP)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/573c80fb-4b68-421c-a2cb-5c10661c7ea9/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", TAMAN GAJAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/8525fe9b-36e1-461a-abe5-e64286084a7e/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", PASAR PANJANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/e9c00cbe-3964-4e89-b2f1-d076070cdce2/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", DINAS KESEHATAN PROV LAMPUNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/75d3f555-49c1-490e-a0d3-330a152c1352/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", JL URIP S - JL KI MAJA (REL KERETA API)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/a5a6f71b-3128-4f98-8d81-1770f310cecf/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", SIMPANG RS UMUM ABDUL MOELUK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/0ce9f4bd-2023-40af-a8b3-3e4cec8edaf4/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", KFC JL ZA PAGAR ALAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/921acfb2-cb6b-4d9d-9661-1547b4908552/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", SMA 5 BALAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/463b2ca5-c4e5-4f73-8bdf-5df20ff6ee36/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", RS IMANUEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/9850bb3e-9cb3-44d3-b95f-58c6c467e0dd/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", JL RYACUDU KORPRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/4cf19287-94c2-4593-a95f-a95b3e8adff5/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", UNIV SABURAI SIMPANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/c3c173d6-1414-4758-b023-90c254e50342/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", FLY OVER KIMAJA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/c5207e97-dccc-4826-a22a-56a63fc78917/index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", PINTU MASUK STASIUN TANJUNG KARANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/18c91c9b-7486-42cd-ba3e-e4a5c3cc6f4b/index.m3u8
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", AREA TERMINAL RAJABASA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/516c356b-21a4-4613-adc8-6920f63ba755/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", CHANDRA TELUK BETUNG BUNDARAN PAGODA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/fe29cc08-375f-49b2-a48d-fb3d093d4da2/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", JL P.ANTASARI PIZZA HUT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rtsp.itn.net.id/play/hls/fb772aba-665f-492f-bd70-deaa4ac2a37e/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", GEDONG TATAAN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743580662/ei/lpnsZ4qtJb7TqfkPk4icsAc/ip/114.10.101.128/id/BXHFsOXyQv0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380154/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcPS_U-Rt_9CacFg2LrLaorrXuO-gICMlVc7_kDpzR3qCcZNXttKQ6MXgfs5kBhLtSIIa1p14qfG/spc/_S3wKrp0FnwhZ2ghyi6OdbnftCRkoD5_lJTgMhlfMK4KdvRNSqrlarH2JGuLj1vSfBI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDK8Cd-dlwgOjhUWROmT5FJ9Kolc3Jj6_rDtIBRwRbQQCIQC25WUDtW9uWotn6Z1X0uEx0J2PYmlKsd8jFeTJ0skBOQ%3D%3D/file/index.m3u8
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/S4dpKRKp/Kliwontv-com-20250301-093438-0000.png" group-title="CCTV LAMPUNG", TEGINENENG NATAR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743581645/ei/bZ3sZ7TIKtOp4t4Prbm-mQw/ip/114.10.101.128/id/XgGzWLyPqEc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380154/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMYvf2PqJStvCYLtgVVuHDRRW9SuX7TM430IzxU8hMnSfsrIe-KXI7GQ4kKh2LpYCMfmp6BOxpH/spc/_S3wKtlTWmB_ZII3Rq5W_EQJIOXaA2b4SzyTJmgeOPT5xtrz6P6bqX7mx0hQrzmpD9k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLLc80OeajQi1gVyesQwJbw-uRSHG_vcmih8pliqeGOcCIB5d3No9c7uKC1GoDasPbGl-ZJnK_G7nSy-ptnOyZVdf/file/index.m3u8
-
-
-==============CCTV JOGJA=========================
-  
-  
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM JOGJA
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",SIMPANG NOL KM
-https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM - TIMUR
-https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM - UTARA
-https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",NOL KM - GD. AGUNG
-https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",ALUN-ALUN KIDUL
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_SIMPANG_REKSOBAYAN
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_PASAR_BERINGHARJO
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_GUNUNGMAS
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO PLAZA
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_MALL_SELATAN
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_MALL_UTARA
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_PERWAKILAN
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",MALIOBORO_UTARA_INNA_MALIOBORO
-https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",PASAR BERINGHARJO
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",SIMPANG TUGU JOGJA
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",CANDI PRAMBANAN
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",CANDI RATU BOKO
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",TEBING BREKSI
-https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",SIMPANG IBU RUSWO
-https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Pos Polisi Jombor
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/PosPolisi_Jombor.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Fly Over Jombor Utara
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborUtara.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Fly Over Jombor Timur
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborTimur.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R6cFbjB/cctepe.webp" group-title="CCTV YOGYAKARTA📷",Fly Over Jombor Barat
-https://mam.jogjaprov.go.id:1937/cctv-kominfosleman/FlyOver_JomborBarat.stream/playlist.m3u8
-
+php
+<?php
+header('Content-Type: text/plain; charset=utf-8');
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Pragma: no-cache');
+header('Expires: 0');
+echo "#EXTM3U\n";
+date_default_timezone_set('Asia/Jakarta');
+
+const API_HOME='https://api.camel1.live/camel-service/ee/sports_live/home';
+const URL_PROG='https://www.camel1.live/match/progressing';
+const URL_SCH ='https://www.camel1.live/q/home/schedule';
+const PLAY='https://lapakking.com/play/cml/cml.php?id=';
+const LOGO_DEF='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOky2vDsALsBzmpDKBd3Gd-R14vmUaOC7JWg&usqp=CAU';
+
+const FIX_NAME='EVENT BUSUK KTV MUDAH DI BAJAK';
+const GROUP_LIVE='LIVE CAMEL KTV';
+const GROUP_SCH ='JADWAL CAMEL KTV';
+const UNTIL_TXT='KARYA SC  SKY MEDAN 085361308662 BUSUK';
+
+(function(){
+  $must1='KARYA SC  SKY MEDAN 085361308662 BUSUK';
+  $must2='EVENT BUSUK KTV MUDAH DI BAJAK';
+  if(UNTIL_TXT!==$must1 || FIX_NAME!==$must2) { http_response_code(500); exit; }
+  $self=@file_get_contents(__FILE__);
+  if($self===false || strpos($self,$must1)===false || strpos($self,$must2)===false){ http_response_code(500); exit; }
+})();
+
+function get_raw($u){
+  $h=[
+    'Accept: text/html,application/json,text/plain,*/*',
+    'User-Agent: Mozilla/5.0',
+    'Referer: https://www.camel1.live/',
+    'Origin: https://www.camel1.live',
+    'Cache-Control: no-cache','Pragma: no-cache'
+  ];
+  $u.=(strpos($u,'?')===false?'?':'&').'_ts='.time().mt_rand(1000,9999);
+  $ch=curl_init($u);
+  curl_setopt_array($ch,[CURLOPT_RETURNTRANSFER=>1,CURLOPT_FOLLOWLOCATION=>1,CURLOPT_TIMEOUT=>12,CURLOPT_CONNECTTIMEOUT=>4,CURLOPT_HTTPHEADER=>$h,CURLOPT_SSL_VERIFYPEER=>0,CURLOPT_SSL_VERIFYHOST=>0,CURLOPT_ENCODING=>'']);
+  $r=curl_exec($ch); curl_close($ch);
+  return $r?:'';
+}
+function get_json_any($u){
+  $r=get_raw($u);
+  if($r==='') return null;
+  $j=json_decode($r,true);
+  if(is_array($j)) return $j;
+  if(preg_match('/<script[^>]+id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/is',$r,$m)){
+    $j=json_decode(html_entity_decode($m[1],ENT_QUOTES),true);
+    if(is_array($j)) return $j;
+  }
+  if(preg_match_all('/<script[^>]*type="application\/json"[^>]*>(.*?)<\/script>/is',$r,$mm)){
+    foreach($mm[1] as $b){
+      $j=json_decode(html_entity_decode($b,ENT_QUOTES),true);
+      if(is_array($j)) return $j;
+    }
+  }
+  return null;
+}
+function ts($x){
+  if($x===null||$x==='') return null;
+  if(is_numeric($x)){ $n=(int)$x; return $n>2000000000?(int)($n/1000):$n; }
+  $t=strtotime((string)$x); return $t?:null;
+}
+function s($a,$ks){
+  if(!is_array($a)) return '';
+  foreach($ks as $k){
+    if(!array_key_exists($k,$a)) continue;
+    $v=$a[$k];
+    if($v===null||$v==='') continue;
+    if(is_string($v)||is_numeric($v)) return trim((string)$v);
+    if(is_array($v)) foreach($v as $x) if(is_string($x)||is_numeric($x)) return trim((string)$x);
+  }
+  return '';
+}
+function img($u){
+  if(!is_string($u)) return false;
+  $u=trim($u);
+  return $u!=='' && stripos($u,'http')===0 && (preg_match('/\.(png|jpg|jpeg|webp|gif|svg)(\?|#|$)/i',$u)||stripos($u,'image')!==false);
+}
+function logo($n,$d){
+  if($d<=0) return '';
+  if(is_string($n)) return img($n)?trim($n):'';
+  if(!is_array($n)) return '';
+  foreach(['homeLogo','awayLogo','teamLogo','logo','icon','img','image','cover','poster','banner','thumb','thumbnail','avatar','emblem','badge','flag'] as $k)
+    if(isset($n[$k])){ $r=logo($n[$k],$d-1); if($r!=='') return $r; }
+  foreach($n as $v){ $r=logo($v,$d-1); if($r!=='') return $r; }
+  return '';
+}
+function find_id($n){
+  if(!is_array($n)) return '';
+  $id=s($n,['id']); if($id!=='' && preg_match('/^[a-z0-9]{10,40}$/i',$id)) return $id;
+  $id=s($n,['matchId','match_id','mid','roomId','room_id','liveId','live_id','eventId','event_id','anchorId','anchor_id','streamId','stream_id','channelId','channel_id','programId','program_id']);
+  if($id!=='' && preg_match('/^[a-z0-9\-_]{6,80}$/i',$id)) return $id;
+  foreach(['match','event','data','detail','info','base'] as $k)
+    if(isset($n[$k])&&is_array($n[$k])){ $x=find_id($n[$k]); if($x!=='') return $x; }
+  return '';
+}
+function is_live_node($n){
+  $st=strtolower(s($n,['status','state','liveStatus','streamStatus','matchStatus','isLive','is_living','living_status']));
+  if($st!=='' && preg_match('/live|running|playing|ongoing|in\s*progress|onair|true|1/',$st)) return true;
+  $t=strtolower(s($n,['title','name','matchTitle','eventTitle','programTitle','roomTitle','channelTitle']));
+  if($t!=='' && preg_match('/\blive\b|sedang\s*berlangsung|ongoing|in\s*progress/',$t)) return true;
+  $now=time();
+  $start=ts(s($n,['startTime','start_time','startAt','start_at','beginTime','begin_time','kickoff','start','matchTime','match_time','startTs','start_ts','startTimestamp','start_timestamp','scheduleTime','schedule_time','plannedStart','planned_start','time','date']));
+  $end  =ts(s($n,['endTime','end_time','endAt','end_at','finishTime','finish_time','stopTime','stop_time','end','endTs','end_ts','endTimestamp','end_timestamp','plannedEnd','planned_end','end_date']));
+  if($start && $now >= $start && (!$end || $now <= $end + 7200)) return true;
+  return false;
+}
+function collect($n,&$out,$src,$depth){
+  if($depth<=0||!is_array($n)) return;
+  $id=find_id($n);
+  if($id!==''){
+    $st=ts(s($n,['startTime','start_time','startAt','start_at','beginTime','begin_time','kickoff','start','matchTime','match_time','startTs','start_ts','startTimestamp','start_timestamp','scheduleTime','schedule_time','plannedStart','planned_start','time','date']));
+    $en=ts(s($n,['endTime','end_time','endAt','end_at','finishTime','finish_time','stopTime','stop_time','end','endTs','end_ts','endTimestamp','end_timestamp','plannedEnd','planned_end','end_date']));
+    $lg='';
+    if(isset($n['home'])&&is_array($n['home'])) $lg=logo($n['home'],4);
+    if($lg===''&&isset($n['homeTeam'])&&is_array($n['homeTeam'])) $lg=logo($n['homeTeam'],4);
+    if($lg===''&&isset($n['away'])&&is_array($n['away'])) $lg=logo($n['away'],4);
+    if($lg===''&&isset($n['awayTeam'])&&is_array($n['awayTeam'])) $lg=logo($n['awayTeam'],4);
+    if($lg==='') $lg=logo($n,6);
+    if($lg==='') $lg=LOGO_DEF;
+
+    $group=is_live_node($n)?GROUP_LIVE:GROUP_SCH;
+    $out[$src.'|'.$id]=[$id,$st,$en,$lg,$group];
+  }
+  foreach($n as $v) if(is_array($v)) collect($v,$out,$src,$depth-1);
+}
+function fmt($st,$en,$t){
+  if($st){
+    $a=date('H.i',$st).' wib';
+    if($en && $en>=$st) return $a.' sampai '.date('H.i',$en).' wib '.$t;
+    return $a.' '.UNTIL_TXT.' '.$t;
+  }
+  return $t;
+}
+
+$out=[];
+$j=get_json_any(API_HOME); if(is_array($j)) collect($j,$out,'HOME',14);
+$j=get_json_any(URL_PROG); if(is_array($j)) collect($j,$out,'PROG',14);
+$j=get_json_any(URL_SCH ); if(is_array($j)) collect($j,$out,'SCH', 14);
+
+if(!$out){ echo "#INFO kosong\n"; exit; }
+
+$rows=array_values($out);
+usort($rows,function($x,$y){
+  $ga=$x[4]===GROUP_LIVE?0:1; $gb=$y[4]===GROUP_LIVE?0:1;
+  if($ga!=$gb) return $ga<$gb?-1:1;
+  $a=$x[1]?:9999999999; $b=$y[1]?:9999999999;
+  if($a==$b) return 0; return $a<$b?-1:1;
+});
+
+foreach($rows as $r){
+  $id=$r[0]; $t=fmt($r[1],$r[2],FIX_NAME); $lg=$r[3]; $grp=$r[4];
+  echo '#EXTINF:-1 tvg-logo="'.$lg.'" group-title="'.$grp.'", '.$t."\n".PLAY.urlencode($id)."\n";
+}
+?>

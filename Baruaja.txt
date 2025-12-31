@@ -1037,7 +1037,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
-#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" group-title="NASIONAL" tvg-logo="https://drive.google.com/file/d/17HYScU17DDF3T2ghyDWVg6nje-qAXYQ2/view", GTV
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" group-title="NASIONAL" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/2021/02/GTV-Landscape.jpg", GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd

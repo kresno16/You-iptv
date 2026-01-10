@@ -122,6 +122,11 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=6QSD7Psuwoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  
 https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=NCwm9dZBOsg
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/q_zX1UdJVcM/hqdefault.jpg" group-title="🔴E-SPORT & MUSIC LIVE" ,ALAN BECKER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=nuSAAK6W5hY
+
 ---------CANAL SPORT
 
 #EXTINF:-1 provider="Oneplay" tvg-chno="42" tvg-name="CANAL+ Sport" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/2ad30d55-d7cc-4348-991d-3c8417c1d617" catchup-days="7" catchup="shift" group-title="SPORTS", CANAL+ Sport

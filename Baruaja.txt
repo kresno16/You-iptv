@@ -103,7 +103,7 @@ http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSpor
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZeBft8GzA78Tx_ab3H3PK9VoIQ0f6AGL8Xw&usqp=CAU" group-title="🔴E-SPORT LIVE" ,PUBG MOBILE ID 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCkB_AwGXxPAKdahxGHpeC4Q  
-#https://playlist.x10.mx/youtube/play.m3u8?id=so_5phWU28
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=KDLjtlyawxA
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6P68cEuqvSSqpZBo83MDEWGEbCnXJlNPtg&s" group-title="🔴E-SPORT LIVE" ,MOBILE LEGENDS ID
@@ -113,9 +113,9 @@ http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSpor
 https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=QzdCWtC3AME
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6P68cEuqvSSqpZBo83MDEWGEbCnXJlNPtg&s" group-title="🔴E-SPORT LIVE" ,KAWAI GAMES
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000609410601-iufmb5-t1080x1080.jpg" group-title="🔴E-SPORT LIVE" ,DJ KAWAII
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  
-https://qtv.my.id/ytlive/index.m3u8?id=UCGmvywjUliYi6MSwg_FuW_g
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=6QSD7Psuwoo
 
 ---------CANAL SPORT
 

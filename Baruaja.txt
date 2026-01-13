@@ -110,7 +110,7 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=KDLjtlyawxA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfrQsDVP4gnqL6uJD0hARDQ 
 #https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC1dGHGJTXU_dkiR8tW3qQgg
-https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=uRT0irS-SmM
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=nwudHkTkfrA
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cfj_N92U4-Q/maxresdefault.jpg" group-title="🔴E-SPORT & MUSIC LIVE" ,DJ KAWAI 1

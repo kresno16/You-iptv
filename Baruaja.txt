@@ -24,13 +24,8 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
   
   
-#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",ESPN 2 - CONCACAF
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_2_HD)/master.mpd  
-  
-  
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",NOW SPORT - PREMIER LEAGUE
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
   
   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s" tvg-id="" group-title="🔴LIVE EVENT", SPORTV 1 PT - CONCACAF

@@ -1,27 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-logo="" group-title="VIP SEA GAMES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScikJ7rQK-UtgNlL3cVS_0CT45_O-OJhCIAg&usqp=CAU",SEA GAMES 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-
-#EXTINF:-1 group-logo="" group-title="VIP SEA GAMES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScikJ7rQK-UtgNlL3cVS_0CT45_O-OJhCIAg&usqp=CAU",SEA GAMES 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1 group-logo="" group-title="VIP SEA GAMES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScikJ7rQK-UtgNlL3cVS_0CT45_O-OJhCIAg&usqp=CAU",SEA GAMES 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
 
   
-#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",SEA GAMES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/07/how-to-watch-HTW-USA-Network-billboard-1548.jpg?w=1024",PREMIER LEAGUE - USA NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
+https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_1.m3u8
   
   
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",NOW SPORT - PREMIER LEAGUE

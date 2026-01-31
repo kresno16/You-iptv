@@ -173,7 +173,9 @@ https://ncdn.telewebion.com/sport2/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ncdn.telewebion.com/sport3/live/playlist.m3u8
 
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKRXgPqx89gXAzOWhdttDjUdWqeK9tMdjduTNhs8ErqSTSgWiJz-4hu9O&s=10",TW SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ncdn.telewebion.com/sport4/live/playlist.m3u8
 
 
 --------NOVA

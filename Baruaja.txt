@@ -1,10 +1,7 @@
 #EXTM3U
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
-#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://mimipipi22.github.io/logo/png/espn.png" group-title="SPORTS" ch-number="22" type="channel",ESPN 🇨🇴
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
   
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/07/how-to-watch-HTW-USA-Network-billboard-1548.jpg?w=1024",PREMIER LEAGUE - USA NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -33,6 +30,12 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+
+
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TB8TAnve61DxzANjdudBRHx5fO83VcCm-Py59flL_BYuM8cN-Xf62uOF&s=10",SKY SPORT PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s" tvg-id="" group-title="🔴LIVE EVENT", SPORTV 1 PT - CONCACAF

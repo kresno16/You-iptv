@@ -43,6 +43,16 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/eur
 https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
 
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/news-articles/hero-image/2019-06/Milan.jpg", OLYMPICS WINTER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/news-articles/hero-image/2019-06/Milan.jpg", OLYMPICS WINTER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
 
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2025/10/24/bw6CgnVw/a_68fb624f4e821.jpg?w=720", PREMIER 1 -LALIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey

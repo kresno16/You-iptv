@@ -88,61 +88,27 @@ https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_0OYAorNe4qVByiLAO5Qbu6BQVRrtFJGZkoV6vh_Uag&s=10" group-title="🔴LIVE EVENT",ASTRO FOOTBALL- CONCACAF
+#EXTINF:-1  tvg-id="" tvg-logo="https://10.com.au/ip/s3/2025/09/11/1a5af4f3f22aeef61c8c81ccc1e092a8-1393569.jpg?image-profile=image_full&io=landscape" group-title="🔴LIVE EVENT", SPORT 1 BALTIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
-#EXTVLCOPT:http-referrer=https://astro.com.my/
-https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
+https://tr.live.cdn.cgates.lt/live/dash/561204/index.mpd
 
-  
-  
-
-  
-  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_0OYAorNe4qVByiLAO5Qbu6BQVRrtFJGZkoV6vh_Uag&s=10" tvg-id="" group-title="🔴LIVE EVENT", DAZN 1 ITALIA
-#EXTVLCOPT:http-referrer=https://embedstreams.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1  
-https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_891,h_501,x_276,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jec68q6ahyqej8mv5j.jpg",SPORTV 1 - FIFA CLUB WORLD CUP
-#EXTGRP:🔴LIVE EVENT
+#EXTINF:-1  tvg-id="" tvg-logo="https://10.com.au/ip/s3/2025/09/11/1a5af4f3f22aeef61c8c81ccc1e092a8-1393569.jpg?image-profile=image_full&io=landscape" group-title="🔴LIVE EVENT", SPORT 2 BALTIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd  
+#KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
+https://tr.live.cdn.cgates.lt/live/dash/561209/index.mpd
+
+    
+  
 
 
-#EXTINF:-1 tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_891,h_501,x_276,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01jec68q6ahyqej8mv5j.jpg",SPORTV 2 - FIFA CLUB WORLD CUP
-#EXTGRP:🔴LIVE EVENT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd  
-  
-  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL4CovrOp9Yh4RMA8TySSofwvtedV-PUgp4tB9c8ee_jG1IsGj3sjJYl-v&s=10", MBC - FIFA CLUB WORLD CUP
-#EXTGRP: 🔴LIVE EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61500ce9a45342b897ba868f4fc59910:93a1c516e6b4fc91fa88c59922f6d3d7
-https://shls-mbcaction-prod-dub-enc.edgenextcdn.net/out/v1/8732f5132b274000bd59aee64255241c/index.mpd  
-  
-  
-  
-#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-name="sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",HUB SPORTS 2  - CONCACAF
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports2HD/output/manifest.mpd  
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
-#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s",HUB SPORTS 6 - CONCACAF
-http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSports6/output/manifest.mpd  
-  
+
+
+
   
   
   

@@ -77,32 +77,15 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 
 
 
-
-#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2025/10/24/bw6CgnVw/a_68fb624f4e821.jpg?w=720", PREMIER 2 -LALIGA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNaAFGBb7UUFplU1LmD_huW22Lm2BSmSmeA&s" tvg-id="" group-title="🔴LIVE EVENT", SPORTV 1 PT - CONCACAF
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://10.com.au/ip/s3/2025/09/11/1a5af4f3f22aeef61c8c81ccc1e092a8-1393569.jpg?image-profile=image_full&io=landscape" group-title="🔴LIVE EVENT", SPORT 1 BALTIC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1  tvg-id="Sport 1 Baltic.lt" tvg-logo="https://10.com.au/ip/s3/2025/09/11/1a5af4f3f22aeef61c8c81ccc1e092a8-1393569.jpg?image-profile=image_full&io=landscape" group-title="🔴LIVE EVENT", SPORT 1 BALTIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
-https://tr.live.cdn.cgates.lt/live/dash/561204/index.mpd
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://10.com.au/ip/s3/2025/09/11/1a5af4f3f22aeef61c8c81ccc1e092a8-1393569.jpg?image-profile=image_full&io=landscape" group-title="🔴LIVE EVENT", SPORT 2 BALTIC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1  tvg-id="Sport 2 Baltic.lt" tvg-logo="https://10.com.au/ip/s3/2025/09/11/1a5af4f3f22aeef61c8c81ccc1e092a8-1393569.jpg?image-profile=image_full&io=landscape" group-title="🔴LIVE EVENT", SPORT 2 BALTIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
-https://tr.live.cdn.cgates.lt/live/dash/561209/index.mpd
-
-    
-  
-
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
 
 
 

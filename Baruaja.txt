@@ -178,38 +178,48 @@ https://ncdn.telewebion.com/sport3/live/playlist.m3u8
 https://ncdn.telewebion.com/sport4/live/playlist.m3u8
 
 
---------NOVA
+--------TV 4 SPORT
 
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="30" tvg-name="Nova Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/086258c1-9ab2-4c42-b45c-3d76b2b991c1" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%201.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5
+#EXTINF:-1 tvg-id="xhubprem1" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Live 1
+https://live.streaming.a2d.tv/asset/20465729.isml/dash.mpd
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="31" tvg-name="Nova Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/60949c4a-274d-41bf-b967-3fe48f9405bd" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%202.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af
+#EXTINF:-1 tvg-id="xhubprem1" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Live 2
+https://live.streaming.a2d.tv/asset/20465730.isml/dash.mpd
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="32" tvg-name="Nova Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/8f798a22-47b7-4dd2-a2f6-d54ac0d47e74" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%203.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf
+#EXTINF:-1 tvg-id="xhubprem3" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Live 3
+https://live.streaming.a2d.tv/asset/20465731.isml/dash.mpd
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="33" tvg-name="Nova Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/377822b0-7811-4a92-8198-12a07c29e5be" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%204.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746
+#EXTINF:-1 tvg-id="xhubprem4" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Live 4
+https://live.streaming.a2d.tv/asset/20465732.isml/dash.mpd
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="34" tvg-name="Nova Sport 5" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/78093cf2-1d35-49fd-8c1a-35e940cbe328" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%205.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a518c629bd683a4eba5f2a793bcb48d6:49642d2151ac6c3f8453bbfc4b3fdfc0
+#EXTINF:-1 tvg-id="xhubprem5" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Football
+https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
 
-#EXTINF:-1 provider="Oneplay" tvg-chno="35" tvg-name="Nova Sport 6" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/5ab2b01f-0fcf-42d6-aae0-4b691b225868" catchup-days="7" catchup="shift" group-title="SPORTS", Nova Sport 6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+rv%3A142.0%29+Gecko%2F20100101+Firefox%2F142.0&Accept-Encoding=gzip%2C+deflate%2C+br%2C+zstd&Accept=%2A%2F%2A
-https://op.sajmi.org/play/Nova%20Sport%206.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20f9a036eabc3930b2b1d124778090e6:b557b2e61b73935ef74bfa22d8ea2c34
+#EXTINF:-1 tvg-id="xhubprem6" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Kanalen
+https://live.streaming.a2d.tv/asset/20465728.isml/dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd32ad608e8c35368dbb0acbfa94d8e0:957b32508fecaf1a7f842e9d89bc7537
+#EXTINF:-1 tvg-id="xhubprem7" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Tennis
+https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4acd16b6b6933abca01a66f865eef7c1:b2a4e27e05d34e98dd7c09fadd96ab09
+#EXTINF:-1 tvg-id="xhubprem8" group-title="SPORTS"tvg-logo="https://assets.icanet.se/images/w_1080,h_1080,x_0,y_0,c_crop/w_200,h_200,c_lfill/f_auto,q_auto,dpr_1/cmn2jrveorzyphppzozz/tv4play-app-logo.png",TV4 Sports Hockey
+https://live.streaming.a2d.tv/asset/20465723.isml/dash.mpd
 
 ------ESPN 
 

@@ -1154,7 +1154,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
   
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9GE4fjMIst8JYbkpr40OcAnRmfa565rG_XwoyhZfzFFbKD4JweqGvStQ&s=10" group-title="NASIONAL",TV ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/874/codec=h264/file/master.m3u8?hdnts=exp=1771548170~acl=/stream/874/codec=h264/file/master.m3u8!/stream/874/file/*/aac/*!/stream/874/file/*/*-1080p/*!/stream/874/file/*/*-720p/*!/stream/874/file/*/*-480p/*!/stream/874/file/*/*-360p/*~id=201911674~hmac=091074ba5bc07ee3c683b9f21658ccf8107801fe161cc0c4b200ee0788258dd2
   
 
 -------BERITA SATU

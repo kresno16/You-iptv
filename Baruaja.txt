@@ -436,7 +436,7 @@ https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/85oslm0gq7/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd.mpd
+https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/85oslm0gq7/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd26/cenc.mpd.mpd
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="SPORTS", FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0

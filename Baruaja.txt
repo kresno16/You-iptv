@@ -649,25 +649,23 @@ https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 
 -------SONY SPORTS
   
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="SPORTS",SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae:f32c1c3c983354bcafb0f2ccb8a59835
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-id="1000009276" tvg-name="SONY TEN 1 HD" group-title="SPORTS" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",SONY TEN 1 HD
+https://fifabdm.xyz/SLIV/rolex.php?id=2011747-b/TEN1HD/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
    
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="SPORTS",SONY TEN 2
-https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="1000009277" tvg-name="SONY TEN 2 HD" group-title="SPORTS" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",SONY TEN 2 HD
+https://fifabdm.xyz/SLIV/rolex.php?id=2020434-b/TEN2HD/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+
+#EXTINF:-1 tvg-id="1000009278" tvg-name="SONY TEN 3 HD" group-title="SPORTS" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",SONY TEN 3 HD
+https://fifabdm.xyz/SLIV/rolex.php?id=2020591-b/TEN3HD/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
   
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SPORTS",SONY TEN 3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt3.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="SPORTS", SONY TEN 4 
-#https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+
+#EXTINF:-1 tvg-id="1000119186" tvg-name="SONY TEN 4 HD" group-title="SPORTS" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",SONY TEN 4 HD
+https://fifabdm.xyz/SLIV/rolex.php?id=2020589-b/ten4hd/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+
    
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/200?cb=20221025091902" group-title="SPORTS",SONY TEN 5
-https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8  
+#EXTINF:-1 tvg-id="1000009281" tvg-name="SONY TEN 5 HD" group-title="SPORTS" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",SONY TEN 5 HD
+https://fifabdm.xyz/SLIV/rolex.php?id=2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1771849806~acl=/*~id=71494981641419989174959680206209~hmac=89649972b43d6bd726bc9aaa68e92354b6e2b8339ec79e91c082b102c92e3ff5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com8  
 
   
 -----DAZN PORTUGAL

@@ -1,6 +1,17 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",BWF COURT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949374969061_AiHD.m3u8?txSecret=cab965cf5fdb37568a8c1dc9057e9ceb&txTime=69D6DDF0
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",BWF COURT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949610994061_AiHD.m3u8?txSecret=d2051aee009e3d21903787ca00f28399&txTime=69D6DDF0
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",BWF COURT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949780639061_AiHD.m3u8?txSecret=53180d30d23e0df2963c7547148e6535&txTime=69D6DDF0
+#EXTINF:-1 group-title="🔴LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/1200px-2012_BWF_logo.svg.png",BWF COURT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949926550061_AiHD.m3u8?txSecret=95c025b5843ac066c6c65581985fa695&txTime=69D6DDF0
 
   
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/07/how-to-watch-HTW-USA-Network-billboard-1548.jpg?w=1024",PREMIER LEAGUE - USA NETWORK

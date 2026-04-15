@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴LIVE EVENT" group-logo="https://macedonianfootball.com/wp-content/uploads/2019/07/UCL-UEL.jpg" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png",TNT SPORTS 1
+#EXTINF:-1 group-title="🔴LIVE EVENT" group-logo="https://macedonianfootball.com/wp-content/uploads/2019/07/UCL-UEL.jpg" tvg-logo="https://macedonianfootball.com/wp-content/uploads/2019/07/UCL-UEL.jpg",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

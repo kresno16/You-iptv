@@ -158,8 +158,29 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=NCwm9dZBOsg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  
 https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=nuSAAK6W5hY
 
+------------
+--ESPN MX---
+------------
 
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/espn.png" group-title="SPORTS",ESPN 1 mx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/espn.png" group-title="SPORTS",ESPN 2 mx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/espn.png" group-title="SPORTS",ESPN 3 mx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="espnplus" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/espn.png" group-title="SPORTS",ESPN 4/Plus mx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
 
 
 

@@ -782,9 +782,12 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m
   
   
   
--------GO3SPORT 
+-------ASTRO 
 
-
+#EXTINF:-1 tvg-id="grandstand" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/grandstand.png" group-title="SPORTS",807 Grandstand HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=grandstand
   
   
 ------ELEVEN SPORT  

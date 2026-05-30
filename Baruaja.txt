@@ -405,11 +405,13 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bsev2.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 1
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 2
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8
+https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN S ARAB 3
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8

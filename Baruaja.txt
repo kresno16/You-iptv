@@ -127,7 +127,12 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
 =====WORLD CUP 26========
 =========================
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", PIALA DUNIA (HT SPORT-TURKI)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", PIALA DUNIA (ITV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://tv.trexiptv.com:80/play/live.php?mac=00:1B:79:F0:F6:A2&stream=111553&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", (HT SPORT-TURKI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
@@ -162,7 +167,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=148
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="FIFA WORLD CUP 2026", PIALA DUNIA (JOJ-SPORT 2)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP",JOJ SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive

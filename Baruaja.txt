@@ -127,7 +127,7 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
 =====WORLD CUP 26========
 =========================
 
-#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", JOJ SPORTS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", JOJ SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -137,7 +137,7 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
 https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
 
-#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", CT SPORTS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="WORLD CUP", CT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive

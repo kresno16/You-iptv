@@ -129,6 +129,8 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
 
 
 #EXTINF:-1 group-title="🔴LIVE EVENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TB8TAnve61DxzANjdudBRHx5fO83VcCm-Py59flL_BYuM8cN-Xf62uOF&s=10",FUSBALL PILDUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd

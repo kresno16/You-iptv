@@ -2,52 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-1-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=99gHYK5x035L0XQBlTiebA&expires=1781383940&ch=tsn1ca&s=07889149fdf1dbe8495581d319b687f4
-
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-2-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/itv111.m3u8?md5=lepgssC-gGkkialdjSjnWQ&expires=1781383978&ch=itv111&s=00d23665f07dd7019b9d50248f13a983
-
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-4-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/tsn3ca.m3u8?md5=fM0HDHP7C7fDmyMJTgn7Cg&expires=1781384055&ch=tsn3ca&s=fb2924b8739c8126b9b59055c48b1f86
-
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-5-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/bsp1fr.m3u8?md5=69Ki5NbAPO-mqgtzK2KzPQ&expires=1781384086&ch=bsp1fr&s=00c26d8a7b2964be63f4516a31f0646c
-
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-6-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/zdf.m3u8?md5=pnFsH3JZXLHHJFyx1LGE5g&expires=1781384118&ch=zdf&s=affc8df65c78fd2c1f29f86959ef21c2
-
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-7-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/spch45.m3u8?md5=HyhiMjugdiPkOHVSC7NI5w&expires=1781384151&ch=spch45&s=37fa3399a8869fbda5ddec0c0c98de79
-
-#EXTINF:-1 tvg-logo="https://bandeltv.xyz/logo/vs3.php?home=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fqatar%2Flogo.webp&away=https%3A%2F%2Fcdn.img4every1.org%2Fteam%2Fswitzerland%2Flogo.webp" group-title="Fifa World Cup",Qatar Vs Switzerland | 14 Jun 2026 03:00 WITA ch-8-BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bhalocast.pro/
-https://dz5.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=636oYysn3f-htPZ8Dt15TQ&expires=1781384184&ch=daznlaliga&s=a28631ea79cd126d4195ac5175c1c459
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="🔴LIVE EVENT" group-logo="https://macedonianfootball.com/wp-content/uploads/2019/07/UCL-UEL.jpg" tvg-logo="https://macedonianfootball.com/wp-content/uploads/2019/07/UCL-UEL.jpg",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
